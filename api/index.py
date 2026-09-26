@@ -7,6 +7,7 @@ import re
 import sys
 from functools import wraps
 from pathlib import Path
+from urllib.parse import parse_qs, urlencode
 
 import requests
 from dotenv import load_dotenv
@@ -24,6 +25,20 @@ PUBLIC = ROOT / "public"
 UUID = re.compile(r"^[0-9a-f-]{36}$")
 
 app = Flask(__name__)
+
+
+def restore_vercel_path(wsgi_app):
+    # vercel sends every /api/* request here as /api/index?route=..., so put the real path back
+    def fixed(environ, start_response):
+        if environ.get("PATH_INFO") == "/api/index":
+            query = parse_qs(environ.get("QUERY_STRING", ""))
+            environ["PATH_INFO"] = "/api/" + query.pop("route", [""])[0]
+            environ["QUERY_STRING"] = urlencode(query, doseq=True)
+        return wsgi_app(environ, start_response)
+    return fixed
+
+
+app.wsgi_app = restore_vercel_path(app.wsgi_app)
 # signs the admin login cookie. without a fixed key, logins reset on every restart
 app.secret_key = os.environ.get("FLASK_SECRET_KEY") or os.urandom(32)
 app.config.update(SESSION_COOKIE_SAMESITE="Lax", SESSION_COOKIE_SECURE=bool(os.environ.get("VERCEL")))

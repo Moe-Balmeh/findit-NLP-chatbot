@@ -56,6 +56,13 @@ def test_rejects_bad_status(client):
     assert res.status_code == 400
 
 
+def test_vercel_style_paths(client):
+    # on vercel every api call arrives as /api/index?route=...
+    assert client.get("/api/index?route=health").get_json()["ok"] is True
+    res = client.post("/api/index?route=chat", json={"message": "hello"})
+    assert "FindIt" in res.get_json()["messages"][0]["text"]
+
+
 def test_logout(client):
     login(client)
     client.post("/api/admin/logout")
