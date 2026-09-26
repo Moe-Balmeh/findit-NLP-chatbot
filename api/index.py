@@ -30,6 +30,14 @@ app.config.update(SESSION_COOKIE_SAMESITE="Lax", SESSION_COOKIE_SECURE=bool(os.e
 store = get_store()
 
 
+@app.errorhandler(404)
+def not_found(e):
+    # json for api calls, and shows the path we got which helps when debugging on vercel
+    if request.path.startswith("/api"):
+        return jsonify(error="not found", path=request.path), 404
+    return e
+
+
 @app.errorhandler(requests.RequestException)
 def database_error(e):
     print("database error:", e)
