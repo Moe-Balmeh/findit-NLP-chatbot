@@ -1,0 +1,1609 @@
+text,intent
+I think I left my jacket in the classroom,REPORT_LOST
+found charger,REPORT_FOUND
+can u check my ubmrella,SEARCH_ITEM
+"Hey, how to use this thanks",GENERAL_INQUIRY
+Can you help me find my tumbler?,SEARCH_ITEM
+i foud a calcultor,REPORT_FOUND
+did anyone find my tumbler?,SEARCH_ITEM
+I think I accidentally left my black flash drive somewhere around the hallway after my class and I want to report it.,REPORT_LOST
+I found a charger near the auditorium,REPORT_FOUND
+"Excuse me, saan ang lost and found office? thanks",GENERAL_INQUIRY
+"Excuse me, how to search",GENERAL_INQUIRY
+"Hey, what is findit? thanks",GENERAL_INQUIRY
+can u check my wllet,SEARCH_ITEM
+I lost my calculator yesterday near the cafeteria and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+"Excuse me, what is findit?",GENERAL_INQUIRY
+I think I left my calculator in the hallway,REPORT_LOST
+where is my flash driev,REPORT_LOST
+picked up charger,REPORT_FOUND
+"Hi, where to report",GENERAL_INQUIRY
+"Hi, where can i report a lost item? thanks",GENERAL_INQUIRY
+Nawala ko yung charger ko sa gym.,REPORT_LOST
+Pacheck naman kung may nahanap na flash drive.,SEARCH_ITEM
+Nawawala yung notebook ko sa campus.,REPORT_LOST
+I think I left my headphones in the library,REPORT_LOST
+I lost my calculator yesterday near the library and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+search earbuds,SEARCH_ITEM
+"Hi, where is the lost and found? thanks",GENERAL_INQUIRY
+May nakita akong bag sa main gate.,REPORT_FOUND
+How to search anyway?,GENERAL_INQUIRY
+Someone left a notebook,REPORT_FOUND
+I was walking near the gym and I found a calculator lying on the ground. I want to surrender it.,REPORT_FOUND
+I lost my bag yesterday near the clinic and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+Pwede ba magsearch ng lost notebook?,SEARCH_ITEM
+i foud a walet,REPORT_FOUND
+May nakita akong flash drive sa lab.,REPORT_FOUND
+can u check my ballpn,SEARCH_ITEM
+Paano gamitin to? please,GENERAL_INQUIRY
+lost jacket,REPORT_LOST
+I lost my charger yesterday near the cafeteria and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+"Excuse me, how to search right now?",GENERAL_INQUIRY
+search tumbler,SEARCH_ITEM
+"Hey, where can i report a lost item? anyway?",GENERAL_INQUIRY
+I think I accidentally left my black flash drive somewhere around the library after my class and I want to report it.,REPORT_LOST
+hey i lost my ballpen,REPORT_LOST
+looking for earbuds,SEARCH_ITEM
+Nawala yung charger ko.,REPORT_LOST
+Nawala ko yung id ko sa clinic.,REPORT_LOST
+I can't find my id,REPORT_LOST
+my boko is missng,REPORT_LOST
+i foud a calcualtor,REPORT_FOUND
+I was walking near the auditorium and I found a laptop lying on the ground. I want to surrender it.,REPORT_FOUND
+I was walking near the lab and I found a laptop lying on the ground. I want to surrender it.,REPORT_FOUND
+where is my chargr,REPORT_LOST
+What is FindIt?,GENERAL_INQUIRY
+May nakita akong wallet sa lab.,REPORT_FOUND
+where is my umberlla,REPORT_LOST
+I found a bag near the parking lot,REPORT_FOUND
+picked up bag,REPORT_FOUND
+can u check my book,SEARCH_ITEM
+I found a keys near the library,REPORT_FOUND
+i lost my flas drive,REPORT_LOST
+Can students use FindIt? right now?,GENERAL_INQUIRY
+I lost my phone yesterday near the cafeteria and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+Pacheck naman kung may nahanap na laptop.,SEARCH_ITEM
+I think I accidentally left my black glasses somewhere around the cafeteria after my class and I want to report it.,REPORT_LOST
+I found an id,REPORT_FOUND
+Pacheck naman kung may nahanap na earbuds.,SEARCH_ITEM
+hey i lost my calculator,REPORT_LOST
+I lost my headphones,REPORT_LOST
+my umberlla is missng,REPORT_LOST
+picked up glasses,REPORT_FOUND
+Where is the lost and found? please,GENERAL_INQUIRY
+can u check my caclulator,SEARCH_ITEM
+My jacket disappeared,REPORT_LOST
+My calculator disappeared,REPORT_LOST
+picked up notebook,REPORT_FOUND
+can u check my lpatop,SEARCH_ITEM
+i lost my ballpne,REPORT_LOST
+picked up id,REPORT_FOUND
+I was walking near the cafeteria and I found an id lying on the ground. I want to surrender it.,REPORT_FOUND
+I think I accidentally left my black notebook somewhere around the classroom after my class and I want to report it.,REPORT_LOST
+did anyone find my phone?,SEARCH_ITEM
+"Excuse me, where to report please",GENERAL_INQUIRY
+I picked up someone's wallet,REPORT_FOUND
+I lost my glasses yesterday near the hallway and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I lost my flash drive,REPORT_LOST
+How does FindIt work? thanks,GENERAL_INQUIRY
+lost phone,REPORT_LOST
+May nakita akong id sa parking lot.,REPORT_FOUND
+I think I left my id in the parking lot,REPORT_LOST
+I was walking near the clinic and I found an id lying on the ground. I want to surrender it.,REPORT_FOUND
+I found a tumbler near the hallway,REPORT_FOUND
+looking for jacket,SEARCH_ITEM
+"Excuse me, where can i report a lost item?",GENERAL_INQUIRY
+can u check my jakcet,SEARCH_ITEM
+where is my ntebook,REPORT_LOST
+May nakita akong id sa auditorium.,REPORT_FOUND
+What is FindIt? anyway?,GENERAL_INQUIRY
+where is my bok,REPORT_LOST
+I found a flash drive near the cafeteria,REPORT_FOUND
+Nawala yung wallet ko.,REPORT_LOST
+"Hi, can students use findit? please",GENERAL_INQUIRY
+Ano ang FindIt? anyway?,GENERAL_INQUIRY
+Nawala yung notebook ko.,REPORT_LOST
+Can you tell me saan ang lost and found office?,GENERAL_INQUIRY
+"Hey, where to report right now?",GENERAL_INQUIRY
+"Hey, how to use this right now?",GENERAL_INQUIRY
+I found a notebook near the cafeteria,REPORT_FOUND
+I was walking near the classroom and I found a book lying on the ground. I want to surrender it.,REPORT_FOUND
+"Excuse me, ano ang findit? right now?",GENERAL_INQUIRY
+i foud a chagrer,REPORT_FOUND
+I found a flash drive,REPORT_FOUND
+Nawala ko yung charger ko sa main gate.,REPORT_LOST
+i foud a pone,REPORT_FOUND
+"Hey, saan ang lost and found office?",GENERAL_INQUIRY
+did anyone find my book?,SEARCH_ITEM
+Can you check if my notebook was found?,SEARCH_ITEM
+Can you tell me saan ang lost and found office? right now?,GENERAL_INQUIRY
+Paano magreport ng nahanap na tumbler?,REPORT_FOUND
+May nakita akong wallet sa gym.,REPORT_FOUND
+I found a flash drive near the library,REPORT_FOUND
+I found a laptop near the main gate,REPORT_FOUND
+my jcaket is missng,REPORT_LOST
+hey i lost my book,REPORT_LOST
+Can you tell me what is findit?,GENERAL_INQUIRY
+Nawala yung jacket ko.,REPORT_LOST
+my jaket is missng,REPORT_LOST
+Can you check if my keys was found?,SEARCH_ITEM
+I found a headphones near the main gate,REPORT_FOUND
+Pacheck naman kung may nahanap na phone.,SEARCH_ITEM
+Pwede ba magsearch ng lost book?,SEARCH_ITEM
+I can't find my laptop,REPORT_LOST
+I think I accidentally left my black keys somewhere around the library after my class and I want to report it.,REPORT_LOST
+where is my boko,REPORT_LOST
+I can't find my charger,REPORT_LOST
+I was walking near the gym and I found an id lying on the ground. I want to surrender it.,REPORT_FOUND
+my chrager is missng,REPORT_LOST
+my kes is missng,REPORT_LOST
+Paano magreport ng nahanap na notebook?,REPORT_FOUND
+I found an earbuds,REPORT_FOUND
+can u check my latop,SEARCH_ITEM
+where is my flash drvie,REPORT_LOST
+I lost my ballpen yesterday near the parking lot and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I think I left my glasses in the library,REPORT_LOST
+May nakita akong headphones sa library.,REPORT_FOUND
+I can't find my keys,REPORT_LOST
+Where can I report a lost item? please,GENERAL_INQUIRY
+i foud a tumbelr,REPORT_FOUND
+I found a laptop near the cafeteria,REPORT_FOUND
+I found a tumbler near the library,REPORT_FOUND
+Can you check if my headphones was found?,SEARCH_ITEM
+May nakita akong book sa auditorium.,REPORT_FOUND
+can u check my noteobok,SEARCH_ITEM
+I lost my glasses,REPORT_LOST
+i lost my earbusd,REPORT_LOST
+where is my blalpen,REPORT_LOST
+i foud a laptpo,REPORT_FOUND
+I lost my umbrella yesterday near the parking lot and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I lost my jacket yesterday near the student lounge and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+my notebook is missng,REPORT_LOST
+my galsses is missng,REPORT_LOST
+"Hey, where can i report a lost item? please",GENERAL_INQUIRY
+I lost my charger yesterday near the library and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I think I left my tumbler in the student lounge,REPORT_LOST
+"Hey, how do i look for a missing item?",GENERAL_INQUIRY
+"Hey, paano gamitin to? anyway?",GENERAL_INQUIRY
+I was walking near the student lounge and I found a keys lying on the ground. I want to surrender it.,REPORT_FOUND
+Nawala ko yung glasses ko sa lab.,REPORT_LOST
+Nawawala yung umbrella ko sa campus.,REPORT_LOST
+my glasses went missing after class,REPORT_LOST
+Nawala ko yung flash drive ko sa classroom.,REPORT_LOST
+Saan ko pwede ibalik yung nahanap kong glasses?,REPORT_FOUND
+Nawawala yung laptop ko sa campus.,REPORT_LOST
+my charer is missng,REPORT_LOST
+"Excuse me, how to search please",GENERAL_INQUIRY
+I was walking near the student lounge and I found a tumbler lying on the ground. I want to surrender it.,REPORT_FOUND
+I was walking near the clinic and I found a notebook lying on the ground. I want to surrender it.,REPORT_FOUND
+where is my flash rdive,REPORT_LOST
+"Hi, ano ang findit? anyway?",GENERAL_INQUIRY
+picked up book,REPORT_FOUND
+I lost my charger yesterday near the gym and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+did anyone find my earbuds?,SEARCH_ITEM
+I found a keys near the cafeteria,REPORT_FOUND
+i lost my jcaket,REPORT_LOST
+I lost my laptop,REPORT_LOST
+I think I accidentally left my black charger somewhere around the student lounge after my class and I want to report it.,REPORT_LOST
+Can you check if my jacket was found?,SEARCH_ITEM
+I was walking near the student lounge and I found a calculator lying on the ground. I want to surrender it.,REPORT_FOUND
+I lost my tumbler,REPORT_LOST
+Can you tell me where to report thanks,GENERAL_INQUIRY
+where is my kes,REPORT_LOST
+I found a phone near the hallway,REPORT_FOUND
+I think I left my flash drive in the cafeteria,REPORT_LOST
+Can you tell me saan ang lost and found office? thanks,GENERAL_INQUIRY
+where is my calculaotr,REPORT_LOST
+Nawala ko yung tumbler ko sa parking lot.,REPORT_LOST
+my bag is missng,REPORT_LOST
+I found a laptop,REPORT_FOUND
+"Hey, ano ang findit? anyway?",GENERAL_INQUIRY
+did anyone find my ballpen?,SEARCH_ITEM
+Has anyone reported a phone?,SEARCH_ITEM
+my notbook is missng,REPORT_LOST
+lost charger,REPORT_LOST
+I lost my wallet yesterday near the cafeteria and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+i lost my headhpones,REPORT_LOST
+Saan ko pwede ibalik yung nahanap kong notebook?,REPORT_FOUND
+Can you help me find my umbrella?,SEARCH_ITEM
+Can you help me find my ballpen?,SEARCH_ITEM
+May nakita akong glasses sa lab.,REPORT_FOUND
+can u check my umbrella,SEARCH_ITEM
+How does FindIt work?,GENERAL_INQUIRY
+Can you tell me saan ang lost and found office? please,GENERAL_INQUIRY
+May nakita akong headphones sa student lounge.,REPORT_FOUND
+I found a charger near the main gate,REPORT_FOUND
+Paano magreport ng nahanap na calculator?,REPORT_FOUND
+Nawala ko yung tumbler ko sa main gate.,REPORT_LOST
+"Hi, what is findit? please",GENERAL_INQUIRY
+I found a wallet near the auditorium,REPORT_FOUND
+i foud a pohne,REPORT_FOUND
+I found a notebook near the classroom,REPORT_FOUND
+i lost my pone,REPORT_LOST
+Someone left a ballpen,REPORT_FOUND
+Nawawala yung id ko sa campus.,REPORT_LOST
+Nawala yung laptop ko.,REPORT_LOST
+Can you tell me where to report,GENERAL_INQUIRY
+where is my carger,REPORT_LOST
+I can't find my flash drive,REPORT_LOST
+where is my earbds,REPORT_LOST
+"Hi, how to search",GENERAL_INQUIRY
+Saan ko pwede ibalik yung nahanap kong phone?,REPORT_FOUND
+Can you check if my umbrella was found?,SEARCH_ITEM
+"Excuse me, system instructions please right now?",GENERAL_INQUIRY
+How do I look for a missing item? thanks,GENERAL_INQUIRY
+can u check my galsses,SEARCH_ITEM
+picked up headphones,REPORT_FOUND
+can u check my flahs drive,SEARCH_ITEM
+I picked up someone's glasses,REPORT_FOUND
+"Excuse me, help anyway?",GENERAL_INQUIRY
+"Excuse me, paano gamitin to? right now?",GENERAL_INQUIRY
+"Hey, help thanks",GENERAL_INQUIRY
+Nawala ko yung charger ko sa parking lot.,REPORT_LOST
+my flash drive went missing after class,REPORT_LOST
+May nakita akong earbuds sa library.,REPORT_FOUND
+i lost my bag,REPORT_LOST
+"Hi, ano ang findit? thanks",GENERAL_INQUIRY
+my headpones is missng,REPORT_LOST
+Can you tell me where is the lost and found? please,GENERAL_INQUIRY
+Nawawala yung calculator ko sa campus.,REPORT_LOST
+I lost my tumbler yesterday near the gym and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I was walking near the cafeteria and I found a laptop lying on the ground. I want to surrender it.,REPORT_FOUND
+my bag went missing after class,REPORT_LOST
+How to use this,GENERAL_INQUIRY
+I lost my calculator yesterday near the gym and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+Can you tell me how do i look for a missing item? please,GENERAL_INQUIRY
+Has anyone reported an id?,SEARCH_ITEM
+Can you check if my book was found?,SEARCH_ITEM
+Nawala ko yung headphones ko sa library.,REPORT_LOST
+did anyone find my bag?,SEARCH_ITEM
+Has anyone reported a charger?,SEARCH_ITEM
+where is my chrager,REPORT_LOST
+Nawala ko yung notebook ko sa main gate.,REPORT_LOST
+looking for id,SEARCH_ITEM
+Someone left a calculator,REPORT_FOUND
+I found a phone near the library,REPORT_FOUND
+"Hi, how to search thanks",GENERAL_INQUIRY
+I think I left my umbrella in the main gate,REPORT_LOST
+May nakita akong headphones sa main gate.,REPORT_FOUND
+missing ballpen,REPORT_LOST
+May nakakita ba ng phone ko?,SEARCH_ITEM
+Where to report anyway?,GENERAL_INQUIRY
+I think I left my wallet in the parking lot,REPORT_LOST
+I lost my charger yesterday near the classroom and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I can't find my ballpen,REPORT_LOST
+i foud a balpen,REPORT_FOUND
+i lost my umrbella,REPORT_LOST
+where is my ballpen,REPORT_LOST
+"Excuse me, where to report thanks",GENERAL_INQUIRY
+I lost my calculator yesterday near the parking lot and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I picked up someone's phone,REPORT_FOUND
+I think I left my wallet in the main gate,REPORT_LOST
+Can you tell me where is the lost and found? anyway?,GENERAL_INQUIRY
+where is my bllpen,REPORT_LOST
+my flash rive is missng,REPORT_LOST
+Nawala ko yung book ko sa auditorium.,REPORT_LOST
+did anyone find my laptop?,SEARCH_ITEM
+"Hi, where to report anyway?",GENERAL_INQUIRY
+Can you tell me where can i report a lost item? right now?,GENERAL_INQUIRY
+I lost my notebook yesterday near the classroom and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+can u check my calculaotr,SEARCH_ITEM
+my glassse is missng,REPORT_LOST
+Can you check if my glasses was found?,SEARCH_ITEM
+"Hi, how to search right now?",GENERAL_INQUIRY
+Saan ko pwede ibalik yung nahanap kong bag?,REPORT_FOUND
+Can you check if my flash drive was found?,SEARCH_ITEM
+looking for flash drive,SEARCH_ITEM
+I think I left my ballpen in the main gate,REPORT_LOST
+"Excuse me, how do i look for a missing item? thanks",GENERAL_INQUIRY
+I was walking near the hallway and I found a notebook lying on the ground. I want to surrender it.,REPORT_FOUND
+I think I accidentally left my black notebook somewhere around the clinic after my class and I want to report it.,REPORT_LOST
+I found a notebook near the main gate,REPORT_FOUND
+I found an earbuds near the auditorium,REPORT_FOUND
+where is my gasses,REPORT_LOST
+where is my wlalet,REPORT_LOST
+My earbuds disappeared,REPORT_LOST
+"Hey, system instructions please please",GENERAL_INQUIRY
+i lost my earbus,REPORT_LOST
+I was walking near the auditorium and I found a calculator lying on the ground. I want to surrender it.,REPORT_FOUND
+Paano magreport ng nahanap na charger?,REPORT_FOUND
+did anyone find my headphones?,SEARCH_ITEM
+i foud a calculatro,REPORT_FOUND
+found umbrella,REPORT_FOUND
+I lost my glasses yesterday near the lab and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+found tumbler,REPORT_FOUND
+i lost my tumber,REPORT_LOST
+my ntoebook is missng,REPORT_LOST
+May nakita akong charger sa classroom.,REPORT_FOUND
+Can you tell me what is findit? thanks,GENERAL_INQUIRY
+found laptop,REPORT_FOUND
+Can you check if my earbuds was found?,SEARCH_ITEM
+"Excuse me, can students use findit? thanks",GENERAL_INQUIRY
+"Hi, how do i look for a missing item? please",GENERAL_INQUIRY
+I was walking near the hallway and I found a bag lying on the ground. I want to surrender it.,REPORT_FOUND
+"Hi, saan ang lost and found office?",GENERAL_INQUIRY
+I found a wallet near the parking lot,REPORT_FOUND
+I lost my bag yesterday near the auditorium and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+May nakita akong id sa gym.,REPORT_FOUND
+i lost my headphoes,REPORT_LOST
+missing laptop,REPORT_LOST
+I think I accidentally left my black calculator somewhere around the classroom after my class and I want to report it.,REPORT_LOST
+"Hi, how does findit work? anyway?",GENERAL_INQUIRY
+I lost my flash drive yesterday near the cafeteria and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+found notebook,REPORT_FOUND
+I was walking near the auditorium and I found a phone lying on the ground. I want to surrender it.,REPORT_FOUND
+"Excuse me, how do i look for a missing item?",GENERAL_INQUIRY
+I picked up someone's umbrella,REPORT_FOUND
+Nawala ko yung tumbler ko sa auditorium.,REPORT_LOST
+can u check my tumber,SEARCH_ITEM
+i foud a glasess,REPORT_FOUND
+I was walking near the classroom and I found a notebook lying on the ground. I want to surrender it.,REPORT_FOUND
+"Hi, where can i report a lost item? right now?",GENERAL_INQUIRY
+"Hi, what is findit? thanks",GENERAL_INQUIRY
+I lost my notebook yesterday near the clinic and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+My umbrella disappeared,REPORT_LOST
+I lost my headphones yesterday near the cafeteria and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+How do I look for a missing item?,GENERAL_INQUIRY
+"Excuse me, how to use this right now?",GENERAL_INQUIRY
+missing umbrella,REPORT_LOST
+I was walking near the parking lot and I found a keys lying on the ground. I want to surrender it.,REPORT_FOUND
+I picked up someone's charger,REPORT_FOUND
+Can you help me find my headphones?,SEARCH_ITEM
+May nakita akong phone sa main gate.,REPORT_FOUND
+Where can I report a lost item?,GENERAL_INQUIRY
+picked up keys,REPORT_FOUND
+my latop is missng,REPORT_LOST
+I was walking near the gym and I found a tumbler lying on the ground. I want to surrender it.,REPORT_FOUND
+Can you tell me how to use this anyway?,GENERAL_INQUIRY
+I found a calculator,REPORT_FOUND
+I think I left my tumbler in the parking lot,REPORT_LOST
+"Excuse me, ano ang findit? anyway?",GENERAL_INQUIRY
+May nakita akong notebook sa gym.,REPORT_FOUND
+I found a bag near the lab,REPORT_FOUND
+"Hey, where is the lost and found? anyway?",GENERAL_INQUIRY
+I think I left my glasses in the hallway,REPORT_LOST
+I was walking near the classroom and I found an id lying on the ground. I want to surrender it.,REPORT_FOUND
+Nawawala yung flash drive ko sa campus.,REPORT_LOST
+"Hey, saan ang lost and found office? anyway?",GENERAL_INQUIRY
+i lost my jackt,REPORT_LOST
+Can you tell me how do i look for a missing item? thanks,GENERAL_INQUIRY
+my gasses is missng,REPORT_LOST
+I think I accidentally left my black phone somewhere around the classroom after my class and I want to report it.,REPORT_LOST
+search headphones,SEARCH_ITEM
+Paano magreport ng nahanap na earbuds?,REPORT_FOUND
+I was walking near the student lounge and I found a book lying on the ground. I want to surrender it.,REPORT_FOUND
+"Hey, how do i look for a missing item? thanks",GENERAL_INQUIRY
+May nakakita ba ng id ko?,SEARCH_ITEM
+"Hey, what is findit?",GENERAL_INQUIRY
+I lost my phone yesterday near the hallway and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+"Hey, saan ang lost and found office? please",GENERAL_INQUIRY
+Nawawala yung wallet ko sa campus.,REPORT_LOST
+"Hey, help right now?",GENERAL_INQUIRY
+where is my earbus,REPORT_LOST
+"Hey, where can i report a lost item? thanks",GENERAL_INQUIRY
+I picked up someone's id,REPORT_FOUND
+"Excuse me, how to use this please",GENERAL_INQUIRY
+May nakita akong charger sa parking lot.,REPORT_FOUND
+i foud a phoe,REPORT_FOUND
+found ballpen,REPORT_FOUND
+my kesy is missng,REPORT_LOST
+my laptp is missng,REPORT_LOST
+Nawala ko yung phone ko sa gym.,REPORT_LOST
+my jacket went missing after class,REPORT_LOST
+I was walking near the parking lot and I found an id lying on the ground. I want to surrender it.,REPORT_FOUND
+lost glasses,REPORT_LOST
+I picked up someone's earbuds,REPORT_FOUND
+Ano ang FindIt? right now?,GENERAL_INQUIRY
+I lost my flash drive yesterday near the hallway and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+How to use this right now?,GENERAL_INQUIRY
+Saan ko pwede ibalik yung nahanap kong laptop?,REPORT_FOUND
+"Hi, how does findit work? right now?",GENERAL_INQUIRY
+can u check my bok,SEARCH_ITEM
+Pwede ba magsearch ng lost laptop?,SEARCH_ITEM
+my charger went missing after class,REPORT_LOST
+Can you tell me how to search anyway?,GENERAL_INQUIRY
+Nawala ko yung charger ko sa library.,REPORT_LOST
+Has anyone reported a book?,SEARCH_ITEM
+Nawala ko yung bag ko sa clinic.,REPORT_LOST
+looking for bag,SEARCH_ITEM
+Someone left an earbuds,REPORT_FOUND
+Nawawala yung keys ko sa campus.,REPORT_LOST
+I was walking near the parking lot and I found an earbuds lying on the ground. I want to surrender it.,REPORT_FOUND
+I think I accidentally left my black calculator somewhere around the main gate after my class and I want to report it.,REPORT_LOST
+can u check my phoe,SEARCH_ITEM
+I think I left my jacket in the student lounge,REPORT_LOST
+i foud a chager,REPORT_FOUND
+I think I accidentally left my black flash drive somewhere around the auditorium after my class and I want to report it.,REPORT_LOST
+Saan ko pwede ibalik yung nahanap kong wallet?,REPORT_FOUND
+I think I left my keys in the cafeteria,REPORT_LOST
+I lost my notebook,REPORT_LOST
+I can't find my notebook,REPORT_LOST
+I found a wallet near the main gate,REPORT_FOUND
+"Hi, how to search anyway?",GENERAL_INQUIRY
+May nakita akong wallet sa hallway.,REPORT_FOUND
+I think I left my id in the gym,REPORT_LOST
+can u check my bllpen,SEARCH_ITEM
+"Hey, where to report please",GENERAL_INQUIRY
+May nakakita ba ng bag ko?,SEARCH_ITEM
+i lost my flash driev,REPORT_LOST
+I found a ballpen near the parking lot,REPORT_FOUND
+I was walking near the auditorium and I found a headphones lying on the ground. I want to surrender it.,REPORT_FOUND
+i lost my latpop,REPORT_LOST
+"Hi, help thanks",GENERAL_INQUIRY
+Nawala ko yung umbrella ko sa library.,REPORT_LOST
+May nakakita ba ng earbuds ko?,SEARCH_ITEM
+I picked up someone's calculator,REPORT_FOUND
+search wallet,SEARCH_ITEM
+I think I accidentally left my black earbuds somewhere around the gym after my class and I want to report it.,REPORT_LOST
+search book,SEARCH_ITEM
+May nakita akong tumbler sa student lounge.,REPORT_FOUND
+"Hi, how to use this thanks",GENERAL_INQUIRY
+i foud a headphoens,REPORT_FOUND
+where is my lpatop,REPORT_LOST
+I found a tumbler near the clinic,REPORT_FOUND
+I found a keys near the clinic,REPORT_FOUND
+Nawala yung id ko.,REPORT_LOST
+I was walking near the student lounge and I found a glasses lying on the ground. I want to surrender it.,REPORT_FOUND
+I lost my bag yesterday near the student lounge and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+Someone left a bag,REPORT_FOUND
+I found a ballpen near the hallway,REPORT_FOUND
+Paano gamitin to? anyway?,GENERAL_INQUIRY
+where is my phoen,REPORT_LOST
+May nakakita ba ng keys ko?,SEARCH_ITEM
+I found an id near the student lounge,REPORT_FOUND
+hey i lost my headphones,REPORT_LOST
+I found a charger,REPORT_FOUND
+i lost my lpatop,REPORT_LOST
+How does FindIt work? right now?,GENERAL_INQUIRY
+Nawawala yung charger ko sa campus.,REPORT_LOST
+i foud a wallte,REPORT_FOUND
+Nawala ko yung laptop ko sa classroom.,REPORT_LOST
+May nakita akong calculator sa lab.,REPORT_FOUND
+Pacheck naman kung may nahanap na jacket.,SEARCH_ITEM
+lost ballpen,REPORT_LOST
+I lost my flash drive yesterday near the student lounge and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+where is my lapop,REPORT_LOST
+search calculator,SEARCH_ITEM
+I lost my book yesterday near the hallway and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+picked up calculator,REPORT_FOUND
+I lost my phone yesterday near the classroom and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+Pacheck naman kung may nahanap na umbrella.,SEARCH_ITEM
+I found a flash drive near the classroom,REPORT_FOUND
+my notebook went missing after class,REPORT_LOST
+Paano magreport ng nahanap na phone?,REPORT_FOUND
+I lost my keys,REPORT_LOST
+search bag,SEARCH_ITEM
+i lost my ballpen,REPORT_LOST
+"Hey, where can i report a lost item? right now?",GENERAL_INQUIRY
+lost headphones,REPORT_LOST
+where is my ntoebook,REPORT_LOST
+May nakita akong notebook sa main gate.,REPORT_FOUND
+"Hey, ano ang findit? thanks",GENERAL_INQUIRY
+I lost my id yesterday near the gym and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I lost my laptop yesterday near the classroom and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+"Excuse me, how does findit work? thanks",GENERAL_INQUIRY
+"Excuse me, where can i report a lost item? thanks",GENERAL_INQUIRY
+Can you tell me system instructions please thanks,GENERAL_INQUIRY
+I found an umbrella,REPORT_FOUND
+can u check my glasss,SEARCH_ITEM
+hey i lost my umbrella,REPORT_LOST
+Saan ang lost and found office? anyway?,GENERAL_INQUIRY
+I lost my earbuds,REPORT_LOST
+I think I accidentally left my black book somewhere around the auditorium after my class and I want to report it.,REPORT_LOST
+I lost my flash drive yesterday near the classroom and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I picked up someone's flash drive,REPORT_FOUND
+Nawala ko yung phone ko sa classroom.,REPORT_LOST
+looking for headphones,SEARCH_ITEM
+I think I left my keys in the library,REPORT_LOST
+May nakita akong wallet sa student lounge.,REPORT_FOUND
+can u check my flas drive,SEARCH_ITEM
+i lost my jakcet,REPORT_LOST
+"Hi, how does findit work? thanks",GENERAL_INQUIRY
+I was walking near the gym and I found a notebook lying on the ground. I want to surrender it.,REPORT_FOUND
+picked up tumbler,REPORT_FOUND
+"Hey, system instructions please right now?",GENERAL_INQUIRY
+"Hi, saan ang lost and found office? please",GENERAL_INQUIRY
+i lost my chargre,REPORT_LOST
+Where to report thanks,GENERAL_INQUIRY
+I think I accidentally left my black flash drive somewhere around the student lounge after my class and I want to report it.,REPORT_LOST
+I found an id near the clinic,REPORT_FOUND
+found keys,REPORT_FOUND
+where is my tubler,REPORT_LOST
+"Hi, ano ang findit? right now?",GENERAL_INQUIRY
+I was walking near the hallway and I found a keys lying on the ground. I want to surrender it.,REPORT_FOUND
+"Hi, where is the lost and found? right now?",GENERAL_INQUIRY
+I think I left my tumbler in the classroom,REPORT_LOST
+missing jacket,REPORT_LOST
+"Hi, where can i report a lost item?",GENERAL_INQUIRY
+i foud a kesy,REPORT_FOUND
+Nawala yung flash drive ko.,REPORT_LOST
+can u check my balpen,SEARCH_ITEM
+I think I accidentally left my black bag somewhere around the library after my class and I want to report it.,REPORT_LOST
+I lost my bag yesterday near the classroom and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+i foud a book,REPORT_FOUND
+May nakita akong book sa clinic.,REPORT_FOUND
+Nawala yung phone ko.,REPORT_LOST
+where is my umrella,REPORT_LOST
+Can you tell me can students use findit? please,GENERAL_INQUIRY
+I was walking near the library and I found a ballpen lying on the ground. I want to surrender it.,REPORT_FOUND
+Can you check if my wallet was found?,SEARCH_ITEM
+Nawala yung earbuds ko.,REPORT_LOST
+can u check my earbdus,SEARCH_ITEM
+my chargre is missng,REPORT_LOST
+I think I left my book in the main gate,REPORT_LOST
+Can you tell me where is the lost and found? thanks,GENERAL_INQUIRY
+I can't find my earbuds,REPORT_LOST
+I think I accidentally left my black umbrella somewhere around the main gate after my class and I want to report it.,REPORT_LOST
+I found a headphones near the parking lot,REPORT_FOUND
+Can you help me find my laptop?,SEARCH_ITEM
+"Hi, what is findit? right now?",GENERAL_INQUIRY
+Has anyone reported a jacket?,SEARCH_ITEM
+Paano magreport ng nahanap na bag?,REPORT_FOUND
+Someone left a charger,REPORT_FOUND
+i foud a carger,REPORT_FOUND
+I think I accidentally left my black ballpen somewhere around the gym after my class and I want to report it.,REPORT_LOST
+Nawala ko yung keys ko sa lab.,REPORT_LOST
+i foud a haedphones,REPORT_FOUND
+I was walking near the cafeteria and I found a jacket lying on the ground. I want to surrender it.,REPORT_FOUND
+I think I accidentally left my black earbuds somewhere around the auditorium after my class and I want to report it.,REPORT_LOST
+"Hi, how does findit work? please",GENERAL_INQUIRY
+I found a keys,REPORT_FOUND
+May nakita akong phone sa cafeteria.,REPORT_FOUND
+May nakakita ba ng calculator ko?,SEARCH_ITEM
+My tumbler disappeared,REPORT_LOST
+"Hi, can students use findit? anyway?",GENERAL_INQUIRY
+i foud a notbook,REPORT_FOUND
+Nawala ko yung laptop ko sa student lounge.,REPORT_LOST
+Saan ko pwede ibalik yung nahanap kong calculator?,REPORT_FOUND
+Nawala ko yung earbuds ko sa clinic.,REPORT_LOST
+May nakita akong laptop sa gym.,REPORT_FOUND
+Can you tell me where is the lost and found? right now?,GENERAL_INQUIRY
+where is my jcaket,REPORT_LOST
+where is my flas drive,REPORT_LOST
+Saan ang lost and found office? thanks,GENERAL_INQUIRY
+where is my headpones,REPORT_LOST
+Nawawala yung bag ko sa campus.,REPORT_LOST
+I was walking near the hallway and I found a jacket lying on the ground. I want to surrender it.,REPORT_FOUND
+May nakita akong keys sa cafeteria.,REPORT_FOUND
+I think I left my tumbler in the library,REPORT_LOST
+Pwede ba magsearch ng lost umbrella?,SEARCH_ITEM
+"Excuse me, how does findit work? please",GENERAL_INQUIRY
+I picked up someone's laptop,REPORT_FOUND
+Saan ko pwede ibalik yung nahanap kong id?,REPORT_FOUND
+i foud a id,REPORT_FOUND
+i lost my bok,REPORT_LOST
+May nakita akong wallet sa main gate.,REPORT_FOUND
+I was walking near the gym and I found an umbrella lying on the ground. I want to surrender it.,REPORT_FOUND
+I lost my glasses yesterday near the parking lot and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I think I accidentally left my black wallet somewhere around the lab after my class and I want to report it.,REPORT_LOST
+I was walking near the parking lot and I found a wallet lying on the ground. I want to surrender it.,REPORT_FOUND
+where is my kys,REPORT_LOST
+I was walking near the hallway and I found a flash drive lying on the ground. I want to surrender it.,REPORT_FOUND
+where is my chager,REPORT_LOST
+I lost my jacket yesterday near the cafeteria and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I think I accidentally left my black calculator somewhere around the auditorium after my class and I want to report it.,REPORT_LOST
+I think I accidentally left my black glasses somewhere around the hallway after my class and I want to report it.,REPORT_LOST
+where is my flah drive,REPORT_LOST
+I picked up someone's bag,REPORT_FOUND
+"Hey, what is findit? anyway?",GENERAL_INQUIRY
+Nawala ko yung glasses ko sa auditorium.,REPORT_LOST
+"Excuse me, saan ang lost and found office? please",GENERAL_INQUIRY
+I was walking near the gym and I found a jacket lying on the ground. I want to surrender it.,REPORT_FOUND
+Where is the lost and found?,GENERAL_INQUIRY
+i foud a wallt,REPORT_FOUND
+I lost my jacket yesterday near the parking lot and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I think I left my charger in the parking lot,REPORT_LOST
+I found a calculator near the library,REPORT_FOUND
+May nakita akong headphones sa hallway.,REPORT_FOUND
+i foud a jacet,REPORT_FOUND
+Pwede ba magsearch ng lost calculator?,SEARCH_ITEM
+I found a phone near the parking lot,REPORT_FOUND
+where is my tumlber,REPORT_LOST
+Pwede ba magsearch ng lost glasses?,SEARCH_ITEM
+My laptop disappeared,REPORT_LOST
+"Hi, system instructions please",GENERAL_INQUIRY
+Has anyone reported a laptop?,SEARCH_ITEM
+I found a wallet near the classroom,REPORT_FOUND
+my laptop went missing after class,REPORT_LOST
+"Hi, system instructions please right now?",GENERAL_INQUIRY
+"Hi, what is findit? anyway?",GENERAL_INQUIRY
+i lost my glasss,REPORT_LOST
+I think I left my calculator in the auditorium,REPORT_LOST
+search flash drive,SEARCH_ITEM
+Can you tell me how does findit work? thanks,GENERAL_INQUIRY
+where is my chagrer,REPORT_LOST
+I think I accidentally left my black umbrella somewhere around the clinic after my class and I want to report it.,REPORT_LOST
+Can you help me find my earbuds?,SEARCH_ITEM
+I lost my wallet,REPORT_LOST
+"Hey, can students use findit?",GENERAL_INQUIRY
+Pwede ba magsearch ng lost headphones?,SEARCH_ITEM
+I lost my id yesterday near the hallway and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+Where can I report a lost item? right now?,GENERAL_INQUIRY
+I lost my umbrella yesterday near the clinic and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+i lost my tumlber,REPORT_LOST
+I think I accidentally left my black notebook somewhere around the student lounge after my class and I want to report it.,REPORT_LOST
+Pacheck naman kung may nahanap na tumbler.,SEARCH_ITEM
+I lost my umbrella yesterday near the main gate and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+Can you tell me ano ang findit? right now?,GENERAL_INQUIRY
+looking for umbrella,SEARCH_ITEM
+can u check my umbrela,SEARCH_ITEM
+Saan ko pwede ibalik yung nahanap kong headphones?,REPORT_FOUND
+Can you tell me how to search right now?,GENERAL_INQUIRY
+I think I accidentally left my black umbrella somewhere around the student lounge after my class and I want to report it.,REPORT_LOST
+I can't find my glasses,REPORT_LOST
+Nawala ko yung phone ko sa parking lot.,REPORT_LOST
+Someone left a phone,REPORT_FOUND
+i lost my fash drive,REPORT_LOST
+I think I accidentally left my black keys somewhere around the classroom after my class and I want to report it.,REPORT_LOST
+Paano magreport ng nahanap na laptop?,REPORT_FOUND
+my ballpen went missing after class,REPORT_LOST
+my tumlber is missng,REPORT_LOST
+I was walking near the gym and I found a glasses lying on the ground. I want to surrender it.,REPORT_FOUND
+my calculaor is missng,REPORT_LOST
+my calculator went missing after class,REPORT_LOST
+May nakita akong id sa classroom.,REPORT_FOUND
+Paano magreport ng nahanap na flash drive?,REPORT_FOUND
+Saan ko pwede ibalik yung nahanap kong earbuds?,REPORT_FOUND
+"Hey, can students use findit? right now?",GENERAL_INQUIRY
+I lost my wallet yesterday near the lab and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I think I accidentally left my black glasses somewhere around the lab after my class and I want to report it.,REPORT_LOST
+I think I accidentally left my black headphones somewhere around the main gate after my class and I want to report it.,REPORT_LOST
+hey i lost my laptop,REPORT_LOST
+Help right now?,GENERAL_INQUIRY
+my earbdus is missng,REPORT_LOST
+Someone left an id,REPORT_FOUND
+I found an earbuds near the main gate,REPORT_FOUND
+i lost my ntoebook,REPORT_LOST
+did anyone find my jacket?,SEARCH_ITEM
+where is my kyes,REPORT_LOST
+Pwede ba magsearch ng lost charger?,SEARCH_ITEM
+How to search thanks,GENERAL_INQUIRY
+System instructions please thanks,GENERAL_INQUIRY
+my umrella is missng,REPORT_LOST
+"Excuse me, what is findit? right now?",GENERAL_INQUIRY
+I was walking near the student lounge and I found a phone lying on the ground. I want to surrender it.,REPORT_FOUND
+i lost my calclator,REPORT_LOST
+Has anyone reported a flash drive?,SEARCH_ITEM
+my calculatr is missng,REPORT_LOST
+May nakita akong headphones sa parking lot.,REPORT_FOUND
+"Hi, where is the lost and found? please",GENERAL_INQUIRY
+Can you tell me help,GENERAL_INQUIRY
+I can't find my headphones,REPORT_LOST
+Ano ang FindIt?,GENERAL_INQUIRY
+can u check my erabuds,SEARCH_ITEM
+can u check my bag,SEARCH_ITEM
+May nakakita ba ng wallet ko?,SEARCH_ITEM
+Has anyone reported a notebook?,SEARCH_ITEM
+found headphones,REPORT_FOUND
+I was walking near the library and I found a charger lying on the ground. I want to surrender it.,REPORT_FOUND
+I was walking near the lab and I found a phone lying on the ground. I want to surrender it.,REPORT_FOUND
+I think I left my laptop in the clinic,REPORT_LOST
+Has anyone reported a keys?,SEARCH_ITEM
+I lost my flash drive yesterday near the main gate and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+How do I look for a missing item? please,GENERAL_INQUIRY
+Nawala ko yung notebook ko sa auditorium.,REPORT_LOST
+Help please,GENERAL_INQUIRY
+my earbusd is missng,REPORT_LOST
+Can you tell me where to report anyway?,GENERAL_INQUIRY
+where is my glassse,REPORT_LOST
+May nakita akong ballpen sa classroom.,REPORT_FOUND
+"Hey, ano ang findit? please",GENERAL_INQUIRY
+i lost my kes,REPORT_LOST
+How does FindIt work? please,GENERAL_INQUIRY
+Saan ko pwede ibalik yung nahanap kong tumbler?,REPORT_FOUND
+Nawala ko yung ballpen ko sa gym.,REPORT_LOST
+"Excuse me, how does findit work?",GENERAL_INQUIRY
+Nawala ko yung ballpen ko sa auditorium.,REPORT_LOST
+May nakakita ba ng headphones ko?,SEARCH_ITEM
+missing headphones,REPORT_LOST
+can u check my heapdhones,SEARCH_ITEM
+I think I accidentally left my black id somewhere around the cafeteria after my class and I want to report it.,REPORT_LOST
+i foud a glases,REPORT_FOUND
+I think I accidentally left my black glasses somewhere around the classroom after my class and I want to report it.,REPORT_LOST
+I lost my charger yesterday near the auditorium and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I found a jacket near the gym,REPORT_FOUND
+I was walking near the hallway and I found a phone lying on the ground. I want to surrender it.,REPORT_FOUND
+I found a phone near the classroom,REPORT_FOUND
+search glasses,SEARCH_ITEM
+May nakita akong keys sa gym.,REPORT_FOUND
+I lost my calculator yesterday near the main gate and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+Can students use FindIt?,GENERAL_INQUIRY
+Pacheck naman kung may nahanap na calculator.,SEARCH_ITEM
+Pwede ba magsearch ng lost bag?,SEARCH_ITEM
+found earbuds,REPORT_FOUND
+"Hi, paano gamitin to? thanks",GENERAL_INQUIRY
+May nakita akong keys sa student lounge.,REPORT_FOUND
+i foud a walelt,REPORT_FOUND
+missing book,REPORT_LOST
+search charger,SEARCH_ITEM
+i foud a chargr,REPORT_FOUND
+I found a bag,REPORT_FOUND
+picked up wallet,REPORT_FOUND
+Can you tell me paano gamitin to? thanks,GENERAL_INQUIRY
+I lost my glasses yesterday near the library and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+found glasses,REPORT_FOUND
+Nawala ko yung notebook ko sa hallway.,REPORT_LOST
+May nakakita ba ng umbrella ko?,SEARCH_ITEM
+Pacheck naman kung may nahanap na wallet.,SEARCH_ITEM
+"Excuse me, how to use this",GENERAL_INQUIRY
+lost umbrella,REPORT_LOST
+May nakita akong bag sa lab.,REPORT_FOUND
+"Hi, how do i look for a missing item?",GENERAL_INQUIRY
+"Hey, system instructions please thanks",GENERAL_INQUIRY
+"Hey, ano ang findit?",GENERAL_INQUIRY
+where is my walet,REPORT_LOST
+I think I accidentally left my black phone somewhere around the clinic after my class and I want to report it.,REPORT_LOST
+"Hi, system instructions please thanks",GENERAL_INQUIRY
+looking for ballpen,SEARCH_ITEM
+Paano magreport ng nahanap na book?,REPORT_FOUND
+"Hi, paano gamitin to?",GENERAL_INQUIRY
+I think I left my notebook in the clinic,REPORT_LOST
+I think I accidentally left my black charger somewhere around the library after my class and I want to report it.,REPORT_LOST
+I lost my book yesterday near the cafeteria and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I think I left my headphones in the parking lot,REPORT_LOST
+Can you help me find my bag?,SEARCH_ITEM
+I think I accidentally left my black wallet somewhere around the student lounge after my class and I want to report it.,REPORT_LOST
+where is my calculaor,REPORT_LOST
+I think I accidentally left my black glasses somewhere around the gym after my class and I want to report it.,REPORT_LOST
+i lost my phne,REPORT_LOST
+"Excuse me, how to use this anyway?",GENERAL_INQUIRY
+i foud a earbusd,REPORT_FOUND
+Nawala ko yung notebook ko sa cafeteria.,REPORT_LOST
+May nakita akong earbuds sa classroom.,REPORT_FOUND
+"Hi, saan ang lost and found office? thanks",GENERAL_INQUIRY
+I think I accidentally left my black book somewhere around the gym after my class and I want to report it.,REPORT_LOST
+"Excuse me, where is the lost and found? please",GENERAL_INQUIRY
+Where to report please,GENERAL_INQUIRY
+Nawawala yung ballpen ko sa campus.,REPORT_LOST
+i foud a phne,REPORT_FOUND
+I think I accidentally left my black tumbler somewhere around the gym after my class and I want to report it.,REPORT_LOST
+my id is missng,REPORT_LOST
+Nawala ko yung calculator ko sa classroom.,REPORT_LOST
+Saan ko pwede ibalik yung nahanap kong keys?,REPORT_FOUND
+where is my eabruds,REPORT_LOST
+Nawawala yung earbuds ko sa campus.,REPORT_LOST
+search laptop,SEARCH_ITEM
+I was walking near the classroom and I found a glasses lying on the ground. I want to surrender it.,REPORT_FOUND
+Nawala yung keys ko.,REPORT_LOST
+i foud a kes,REPORT_FOUND
+I think I left my keys in the hallway,REPORT_LOST
+May nakakita ba ng ballpen ko?,SEARCH_ITEM
+found id,REPORT_FOUND
+I think I left my umbrella in the lab,REPORT_LOST
+Can you check if my calculator was found?,SEARCH_ITEM
+Can you check if my bag was found?,SEARCH_ITEM
+How to use this please,GENERAL_INQUIRY
+I lost my jacket yesterday near the auditorium and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+Saan ko pwede ibalik yung nahanap kong book?,REPORT_FOUND
+Where is the lost and found? right now?,GENERAL_INQUIRY
+May nakita akong umbrella sa hallway.,REPORT_FOUND
+Can you help me find my flash drive?,SEARCH_ITEM
+Pacheck naman kung may nahanap na notebook.,SEARCH_ITEM
+"Hey, where to report anyway?",GENERAL_INQUIRY
+I lost my umbrella yesterday near the cafeteria and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+can u check my umbrelal,SEARCH_ITEM
+can u check my lapop,SEARCH_ITEM
+my headphons is missng,REPORT_LOST
+my headhones is missng,REPORT_LOST
+i foud a boko,REPORT_FOUND
+can u check my tubler,SEARCH_ITEM
+Nawala ko yung keys ko sa classroom.,REPORT_LOST
+Nawala yung bag ko.,REPORT_LOST
+can u check my notebook,SEARCH_ITEM
+I lost my glasses yesterday near the classroom and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+"Hi, ano ang findit?",GENERAL_INQUIRY
+can u check my headphons,SEARCH_ITEM
+"Hi, paano gamitin to? right now?",GENERAL_INQUIRY
+my notbeook is missng,REPORT_LOST
+my wllet is missng,REPORT_LOST
+Nawawala yung headphones ko sa campus.,REPORT_LOST
+May nakita akong charger sa auditorium.,REPORT_FOUND
+I lost my wallet yesterday near the main gate and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I was walking near the gym and I found a phone lying on the ground. I want to surrender it.,REPORT_FOUND
+May nakita akong headphones sa classroom.,REPORT_FOUND
+Nawala ko yung glasses ko sa clinic.,REPORT_LOST
+I think I accidentally left my black tumbler somewhere around the parking lot after my class and I want to report it.,REPORT_LOST
+i foud a lapop,REPORT_FOUND
+I lost my laptop yesterday near the lab and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+Can you tell me paano gamitin to? right now?,GENERAL_INQUIRY
+I lost my tumbler yesterday near the lab and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I think I accidentally left my black calculator somewhere around the parking lot after my class and I want to report it.,REPORT_LOST
+picked up ballpen,REPORT_FOUND
+search keys,SEARCH_ITEM
+"Hey, where is the lost and found? thanks",GENERAL_INQUIRY
+I found a flash drive near the lab,REPORT_FOUND
+I was walking near the main gate and I found a charger lying on the ground. I want to surrender it.,REPORT_FOUND
+Can you help me find my jacket?,SEARCH_ITEM
+Can you help me find my phone?,SEARCH_ITEM
+I found a bag near the hallway,REPORT_FOUND
+found flash drive,REPORT_FOUND
+I was walking near the student lounge and I found a flash drive lying on the ground. I want to surrender it.,REPORT_FOUND
+Has anyone reported an umbrella?,SEARCH_ITEM
+Can you check if my laptop was found?,SEARCH_ITEM
+Pwede ba magsearch ng lost keys?,SEARCH_ITEM
+Where can I report a lost item? thanks,GENERAL_INQUIRY
+I think I accidentally left my black ballpen somewhere around the hallway after my class and I want to report it.,REPORT_LOST
+I think I accidentally left my black earbuds somewhere around the lab after my class and I want to report it.,REPORT_LOST
+I can't find my bag,REPORT_LOST
+My glasses disappeared,REPORT_LOST
+I think I accidentally left my black wallet somewhere around the hallway after my class and I want to report it.,REPORT_LOST
+i lost my galsses,REPORT_LOST
+I picked up someone's keys,REPORT_FOUND
+"Hey, help anyway?",GENERAL_INQUIRY
+search id,SEARCH_ITEM
+I think I left my glasses in the clinic,REPORT_LOST
+I was walking near the auditorium and I found a flash drive lying on the ground. I want to surrender it.,REPORT_FOUND
+I think I accidentally left my black jacket somewhere around the auditorium after my class and I want to report it.,REPORT_LOST
+I found a glasses near the cafeteria,REPORT_FOUND
+i foud a jacekt,REPORT_FOUND
+where is my id,REPORT_LOST
+found jacket,REPORT_FOUND
+I think I accidentally left my black jacket somewhere around the main gate after my class and I want to report it.,REPORT_LOST
+i foud a wallet,REPORT_FOUND
+Nawala ko yung book ko sa main gate.,REPORT_LOST
+I found a charger near the cafeteria,REPORT_FOUND
+Pacheck naman kung may nahanap na headphones.,SEARCH_ITEM
+I found an earbuds near the parking lot,REPORT_FOUND
+How to search please,GENERAL_INQUIRY
+lost tumbler,REPORT_LOST
+"Hey, paano gamitin to?",GENERAL_INQUIRY
+I lost my id yesterday near the cafeteria and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+Saan ko pwede ibalik yung nahanap kong charger?,REPORT_FOUND
+found calculator,REPORT_FOUND
+Can you check if my ballpen was found?,SEARCH_ITEM
+I think I left my calculator in the classroom,REPORT_LOST
+Can you tell me how to search thanks,GENERAL_INQUIRY
+can u check my walet,SEARCH_ITEM
+I lost my calculator yesterday near the lab and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+"Hey, system instructions please anyway?",GENERAL_INQUIRY
+lost laptop,REPORT_LOST
+Can students use FindIt? thanks,GENERAL_INQUIRY
+"Hi, how do i look for a missing item? anyway?",GENERAL_INQUIRY
+System instructions please right now?,GENERAL_INQUIRY
+i lost my blalpen,REPORT_LOST
+my kys is missng,REPORT_LOST
+I found a flash drive near the clinic,REPORT_FOUND
+I think I accidentally left my black calculator somewhere around the gym after my class and I want to report it.,REPORT_LOST
+May nakita akong flash drive sa clinic.,REPORT_FOUND
+"Hey, where is the lost and found? please",GENERAL_INQUIRY
+I was walking near the main gate and I found a keys lying on the ground. I want to surrender it.,REPORT_FOUND
+found book,REPORT_FOUND
+my blalpen is missng,REPORT_LOST
+I lost my phone yesterday near the library and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+"Excuse me, paano gamitin to? please",GENERAL_INQUIRY
+can u check my jcaket,SEARCH_ITEM
+I was walking near the main gate and I found a flash drive lying on the ground. I want to surrender it.,REPORT_FOUND
+i foud a headhones,REPORT_FOUND
+can u check my noteboko,SEARCH_ITEM
+I think I left my laptop in the classroom,REPORT_LOST
+search notebook,SEARCH_ITEM
+I found a notebook near the hallway,REPORT_FOUND
+Someone left a book,REPORT_FOUND
+I lost my id yesterday near the library and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+i lost my carger,REPORT_LOST
+"Hi, where to report please",GENERAL_INQUIRY
+May nakita akong notebook sa clinic.,REPORT_FOUND
+May nakita akong calculator sa hallway.,REPORT_FOUND
+my lpatop is missng,REPORT_LOST
+looking for book,SEARCH_ITEM
+I was walking near the main gate and I found a wallet lying on the ground. I want to surrender it.,REPORT_FOUND
+Can you tell me how to search please,GENERAL_INQUIRY
+where is my bag,REPORT_LOST
+"Hey, paano gamitin to? please",GENERAL_INQUIRY
+"Hi, where can i report a lost item? please",GENERAL_INQUIRY
+My ballpen disappeared,REPORT_LOST
+Someone left a glasses,REPORT_FOUND
+"Hey, how to search",GENERAL_INQUIRY
+my earbuds went missing after class,REPORT_LOST
+did anyone find my umbrella?,SEARCH_ITEM
+i foud a calculaor,REPORT_FOUND
+i foud a tumler,REPORT_FOUND
+Can you tell me what is findit? please,GENERAL_INQUIRY
+my calcultor is missng,REPORT_LOST
+i lost my walelt,REPORT_LOST
+Someone left a laptop,REPORT_FOUND
+i lost my lapop,REPORT_LOST
+i lost my laptp,REPORT_LOST
+I lost my bag yesterday near the parking lot and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I lost my charger yesterday near the hallway and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I lost my keys yesterday near the gym and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+can u check my caculator,SEARCH_ITEM
+I found a keys near the parking lot,REPORT_FOUND
+Can you check if my id was found?,SEARCH_ITEM
+Where can I report a lost item? anyway?,GENERAL_INQUIRY
+May nakita akong charger sa main gate.,REPORT_FOUND
+May nakita akong notebook sa lab.,REPORT_FOUND
+hey i lost my earbuds,REPORT_LOST
+did anyone find my notebook?,SEARCH_ITEM
+"Hey, help",GENERAL_INQUIRY
+i lost my glases,REPORT_LOST
+my flas hdrive is missng,REPORT_LOST
+I think I accidentally left my black ballpen somewhere around the cafeteria after my class and I want to report it.,REPORT_LOST
+i lost my flash rive,REPORT_LOST
+where is my wallte,REPORT_LOST
+Has anyone reported a wallet?,SEARCH_ITEM
+i foud a bok,REPORT_FOUND
+Pwede ba magsearch ng lost earbuds?,SEARCH_ITEM
+I lost my headphones yesterday near the gym and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I think I accidentally left my black phone somewhere around the lab after my class and I want to report it.,REPORT_LOST
+missing phone,REPORT_LOST
+my umbrella went missing after class,REPORT_LOST
+looking for tumbler,SEARCH_ITEM
+"Hi, saan ang lost and found office? anyway?",GENERAL_INQUIRY
+I found a glasses,REPORT_FOUND
+How does FindIt work? anyway?,GENERAL_INQUIRY
+I lost my umbrella,REPORT_LOST
+I found a charger near the clinic,REPORT_FOUND
+I think I left my notebook in the parking lot,REPORT_LOST
+looking for notebook,SEARCH_ITEM
+Can students use FindIt? please,GENERAL_INQUIRY
+Can you tell me can students use findit? right now?,GENERAL_INQUIRY
+I found a flash drive near the parking lot,REPORT_FOUND
+hey i lost my jacket,REPORT_LOST
+can u check my ntoebook,SEARCH_ITEM
+I was walking near the gym and I found a book lying on the ground. I want to surrender it.,REPORT_FOUND
+"Excuse me, what is findit? please",GENERAL_INQUIRY
+where is my lptop,REPORT_LOST
+Can you help me find my charger?,SEARCH_ITEM
+I think I left my ballpen in the lab,REPORT_LOST
+i lost my lapotp,REPORT_LOST
+I lost my notebook yesterday near the gym and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+Help anyway?,GENERAL_INQUIRY
+missing wallet,REPORT_LOST
+lost bag,REPORT_LOST
+missing glasses,REPORT_LOST
+I found an umbrella near the lab,REPORT_FOUND
+Can you tell me can students use findit? anyway?,GENERAL_INQUIRY
+my phnoe is missng,REPORT_LOST
+lost id,REPORT_LOST
+i foud a jackt,REPORT_FOUND
+missing notebook,REPORT_LOST
+"Hey, how to search please",GENERAL_INQUIRY
+i foud a bag,REPORT_FOUND
+hey i lost my wallet,REPORT_LOST
+Pwede ba magsearch ng lost phone?,SEARCH_ITEM
+Pwede ba magsearch ng lost ballpen?,SEARCH_ITEM
+May nakita akong earbuds sa cafeteria.,REPORT_FOUND
+can u check my earubds,SEARCH_ITEM
+"Excuse me, paano gamitin to?",GENERAL_INQUIRY
+found bag,REPORT_FOUND
+my haedphones is missng,REPORT_LOST
+My phone disappeared,REPORT_LOST
+Paano magreport ng nahanap na headphones?,REPORT_FOUND
+Can you tell me where to report right now?,GENERAL_INQUIRY
+Nawala ko yung umbrella ko sa gym.,REPORT_LOST
+"Excuse me, help thanks",GENERAL_INQUIRY
+I was walking near the student lounge and I found a bag lying on the ground. I want to surrender it.,REPORT_FOUND
+Saan ko pwede ibalik yung nahanap kong umbrella?,REPORT_FOUND
+Nawawala yung book ko sa campus.,REPORT_LOST
+Where to report,GENERAL_INQUIRY
+Someone left a jacket,REPORT_FOUND
+my flahs drive is missng,REPORT_LOST
+looking for charger,SEARCH_ITEM
+Nawala ko yung calculator ko sa cafeteria.,REPORT_LOST
+where is my phne,REPORT_LOST
+May nakita akong ballpen sa hallway.,REPORT_FOUND
+I think I left my book in the auditorium,REPORT_LOST
+where is my earbusd,REPORT_LOST
+i lost my wallet,REPORT_LOST
+Paano magreport ng nahanap na umbrella?,REPORT_FOUND
+I was walking near the cafeteria and I found a phone lying on the ground. I want to surrender it.,REPORT_FOUND
+I found a glasses near the lab,REPORT_FOUND
+I found a headphones near the hallway,REPORT_FOUND
+can u check my clculator,SEARCH_ITEM
+can u check my haedphones,SEARCH_ITEM
+I lost my phone yesterday near the auditorium and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+"Excuse me, ano ang findit? please",GENERAL_INQUIRY
+I think I accidentally left my black laptop somewhere around the main gate after my class and I want to report it.,REPORT_LOST
+I lost my charger,REPORT_LOST
+"Hey, system instructions please",GENERAL_INQUIRY
+lost keys,REPORT_LOST
+i lost my earuds,REPORT_LOST
+Nawala yung book ko.,REPORT_LOST
+I think I left my earbuds in the gym,REPORT_LOST
+I lost my id,REPORT_LOST
+May nakita akong ballpen sa parking lot.,REPORT_FOUND
+"Excuse me, how does findit work? right now?",GENERAL_INQUIRY
+my id went missing after class,REPORT_LOST
+can u check my erbuds,SEARCH_ITEM
+can u check my flash drie,SEARCH_ITEM
+I was walking near the library and I found a calculator lying on the ground. I want to surrender it.,REPORT_FOUND
+I lost my glasses yesterday near the student lounge and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+Nawala ko yung headphones ko sa classroom.,REPORT_LOST
+Where is the lost and found? thanks,GENERAL_INQUIRY
+"Excuse me, where to report right now?",GENERAL_INQUIRY
+I picked up someone's notebook,REPORT_FOUND
+can u check my calclator,SEARCH_ITEM
+missing charger,REPORT_LOST
+hey i lost my id,REPORT_LOST
+where is my flash rive,REPORT_LOST
+where is my glases,REPORT_LOST
+I lost my bag yesterday near the hallway and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+Paano magreport ng nahanap na wallet?,REPORT_FOUND
+I found an id near the lab,REPORT_FOUND
+where is my wallt,REPORT_LOST
+missing keys,REPORT_LOST
+Paano magreport ng nahanap na ballpen?,REPORT_FOUND
+my calculatro is missng,REPORT_LOST
+"Hi, system instructions please please",GENERAL_INQUIRY
+May nakita akong ballpen sa clinic.,REPORT_FOUND
+I found a book near the student lounge,REPORT_FOUND
+How do I look for a missing item? right now?,GENERAL_INQUIRY
+hey i lost my notebook,REPORT_LOST
+i foud a notbeook,REPORT_FOUND
+May nakita akong ballpen sa library.,REPORT_FOUND
+I think I left my flash drive in the main gate,REPORT_LOST
+can u check my wallt,SEARCH_ITEM
+Saan ang lost and found office?,GENERAL_INQUIRY
+can u check my headhpones,SEARCH_ITEM
+Can you tell me system instructions please right now?,GENERAL_INQUIRY
+i foud a ntebook,REPORT_FOUND
+i foud a flash drve,REPORT_FOUND
+I lost my book,REPORT_LOST
+I found a wallet near the student lounge,REPORT_FOUND
+May nakita akong glasses sa clinic.,REPORT_FOUND
+Can you tell me how do i look for a missing item? anyway?,GENERAL_INQUIRY
+can u check my umbrlela,SEARCH_ITEM
+can u check my kesy,SEARCH_ITEM
+where is my flas hdrive,REPORT_LOST
+"Excuse me, where is the lost and found? right now?",GENERAL_INQUIRY
+My keys disappeared,REPORT_LOST
+picked up flash drive,REPORT_FOUND
+I lost my tumbler yesterday near the auditorium and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+"Excuse me, where can i report a lost item? please",GENERAL_INQUIRY
+"Hi, how to use this right now?",GENERAL_INQUIRY
+I found a ballpen near the library,REPORT_FOUND
+i foud a chrager,REPORT_FOUND
+my bok is missng,REPORT_LOST
+May nakakita ba ng laptop ko?,SEARCH_ITEM
+where is my glsases,REPORT_LOST
+I was walking near the gym and I found a laptop lying on the ground. I want to surrender it.,REPORT_FOUND
+I was walking near the lab and I found a book lying on the ground. I want to surrender it.,REPORT_FOUND
+I think I accidentally left my black book somewhere around the library after my class and I want to report it.,REPORT_LOST
+i foud a umbrela,REPORT_FOUND
+can u check my calculatro,SEARCH_ITEM
+I was walking near the cafeteria and I found an earbuds lying on the ground. I want to surrender it.,REPORT_FOUND
+I was walking near the classroom and I found a laptop lying on the ground. I want to surrender it.,REPORT_FOUND
+What is FindIt? right now?,GENERAL_INQUIRY
+I was walking near the clinic and I found a glasses lying on the ground. I want to surrender it.,REPORT_FOUND
+I think I accidentally left my black bag somewhere around the gym after my class and I want to report it.,REPORT_LOST
+lost wallet,REPORT_LOST
+Nawala ko yung id ko sa student lounge.,REPORT_LOST
+looking for phone,SEARCH_ITEM
+I found a wallet near the library,REPORT_FOUND
+my phoe is missng,REPORT_LOST
+I was walking near the clinic and I found a bag lying on the ground. I want to surrender it.,REPORT_FOUND
+I found a bag near the main gate,REPORT_FOUND
+lost earbuds,REPORT_LOST
+"Excuse me, how does findit work? anyway?",GENERAL_INQUIRY
+i foud a umbrelal,REPORT_FOUND
+May nakita akong earbuds sa clinic.,REPORT_FOUND
+I lost my phone yesterday near the lab and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+my ubmrella is missng,REPORT_LOST
+Pwede ba magsearch ng lost flash drive?,SEARCH_ITEM
+I found a jacket,REPORT_FOUND
+Nawala ko yung bag ko sa classroom.,REPORT_LOST
+May nakakita ba ng book ko?,SEARCH_ITEM
+my book went missing after class,REPORT_LOST
+I was walking near the main gate and I found an id lying on the ground. I want to surrender it.,REPORT_FOUND
+"Hey, how does findit work? please",GENERAL_INQUIRY
+i lost my laptpo,REPORT_LOST
+I found a jacket near the parking lot,REPORT_FOUND
+I lost my tumbler yesterday near the main gate and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I was walking near the main gate and I found a tumbler lying on the ground. I want to surrender it.,REPORT_FOUND
+I found a wallet,REPORT_FOUND
+I found a keys near the auditorium,REPORT_FOUND
+Can you tell me paano gamitin to? anyway?,GENERAL_INQUIRY
+can u check my umbrlla,SEARCH_ITEM
+Saan ko pwede ibalik yung nahanap kong jacket?,REPORT_FOUND
+I lost my notebook yesterday near the hallway and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+"Hi, how to use this",GENERAL_INQUIRY
+May nakita akong laptop sa student lounge.,REPORT_FOUND
+May nakita akong flash drive sa cafeteria.,REPORT_FOUND
+my phone went missing after class,REPORT_LOST
+Pwede ba magsearch ng lost tumbler?,SEARCH_ITEM
+I think I accidentally left my black phone somewhere around the main gate after my class and I want to report it.,REPORT_LOST
+found wallet,REPORT_FOUND
+I think I left my phone in the clinic,REPORT_LOST
+May nakita akong wallet sa cafeteria.,REPORT_FOUND
+"Hey, how to search right now?",GENERAL_INQUIRY
+I was walking near the library and I found a jacket lying on the ground. I want to surrender it.,REPORT_FOUND
+I found a calculator near the gym,REPORT_FOUND
+i lost my jackte,REPORT_LOST
+Paano magreport ng nahanap na glasses?,REPORT_FOUND
+i lost my glsses,REPORT_LOST
+Nawala yung umbrella ko.,REPORT_LOST
+i foud a glasss,REPORT_FOUND
+Can you tell me how to use this please,GENERAL_INQUIRY
+I found a glasses near the hallway,REPORT_FOUND
+I lost my jacket yesterday near the library and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+Can you tell me system instructions please anyway?,GENERAL_INQUIRY
+Nawala yung glasses ko.,REPORT_LOST
+i foud a heapdhones,REPORT_FOUND
+picked up jacket,REPORT_FOUND
+Can you tell me system instructions please please,GENERAL_INQUIRY
+i foud a earbus,REPORT_FOUND
+Can you help me find my id?,SEARCH_ITEM
+Has anyone reported a glasses?,SEARCH_ITEM
+my caculator is missng,REPORT_LOST
+May nakita akong wallet sa parking lot.,REPORT_FOUND
+May nakita akong charger sa clinic.,REPORT_FOUND
+I was walking near the parking lot and I found a phone lying on the ground. I want to surrender it.,REPORT_FOUND
+Can you tell me how to use this,GENERAL_INQUIRY
+"Hey, where to report thanks",GENERAL_INQUIRY
+missing id,REPORT_LOST
+I think I left my book in the library,REPORT_LOST
+May nakita akong glasses sa gym.,REPORT_FOUND
+I can't find my calculator,REPORT_LOST
+I found a bag near the clinic,REPORT_FOUND
+I lost my ballpen yesterday near the library and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+hey i lost my keys,REPORT_LOST
+"Excuse me, how do i look for a missing item? anyway?",GENERAL_INQUIRY
+i foud a jackte,REPORT_FOUND
+I think I accidentally left my black id somewhere around the parking lot after my class and I want to report it.,REPORT_LOST
+i lost my calculaotr,REPORT_LOST
+I found a bag near the classroom,REPORT_FOUND
+Can you tell me how does findit work? please,GENERAL_INQUIRY
+Can you check if my charger was found?,SEARCH_ITEM
+i foud a chargre,REPORT_FOUND
+"Hi, can students use findit? thanks",GENERAL_INQUIRY
+My flash drive disappeared,REPORT_LOST
+Pacheck naman kung may nahanap na id.,SEARCH_ITEM
+I lost my bag,REPORT_LOST
+"Hey, how do i look for a missing item? anyway?",GENERAL_INQUIRY
+hey i lost my tumbler,REPORT_LOST
+i lost my id,REPORT_LOST
+I lost my jacket,REPORT_LOST
+I lost my phone,REPORT_LOST
+I was walking near the cafeteria and I found a glasses lying on the ground. I want to surrender it.,REPORT_FOUND
+"Hey, how do i look for a missing item? right now?",GENERAL_INQUIRY
+I can't find my jacket,REPORT_LOST
+"Excuse me, where is the lost and found?",GENERAL_INQUIRY
+I found an id near the gym,REPORT_FOUND
+I think I left my earbuds in the classroom,REPORT_LOST
+where is my umbrelal,REPORT_LOST
+I think I left my jacket in the library,REPORT_LOST
+my keys went missing after class,REPORT_LOST
+Can you tell me how does findit work?,GENERAL_INQUIRY
+search jacket,SEARCH_ITEM
+i foud a tubmler,REPORT_FOUND
+i foud a ballpne,REPORT_FOUND
+"Hi, help please",GENERAL_INQUIRY
+"Hey, saan ang lost and found office? thanks",GENERAL_INQUIRY
+I can't find my wallet,REPORT_LOST
+Nawala ko yung calculator ko sa student lounge.,REPORT_LOST
+I found a wallet near the hallway,REPORT_FOUND
+"Excuse me, can students use findit? anyway?",GENERAL_INQUIRY
+looking for laptop,SEARCH_ITEM
+Can you help me find my wallet?,SEARCH_ITEM
+Nawala ko yung id ko sa parking lot.,REPORT_LOST
+Nawala ko yung bag ko sa lab.,REPORT_LOST
+can u check my phnoe,SEARCH_ITEM
+Can you help me find my glasses?,SEARCH_ITEM
+did anyone find my glasses?,SEARCH_ITEM
+where is my notebook,REPORT_LOST
+How to search,GENERAL_INQUIRY
+I found a flash drive near the auditorium,REPORT_FOUND
+I was walking near the hallway and I found a tumbler lying on the ground. I want to surrender it.,REPORT_FOUND
+Paano magreport ng nahanap na keys?,REPORT_FOUND
+missing bag,REPORT_LOST
+my eabuds is missng,REPORT_LOST
+Nawala ko yung tumbler ko sa classroom.,REPORT_LOST
+Someone left a headphones,REPORT_FOUND
+hey i lost my charger,REPORT_LOST
+"Hey, how to use this",GENERAL_INQUIRY
+I can't find my tumbler,REPORT_LOST
+did anyone find my charger?,SEARCH_ITEM
+can u check my kyes,SEARCH_ITEM
+i foud a noetbook,REPORT_FOUND
+Nawala ko yung id ko sa main gate.,REPORT_LOST
+i lost my walet,REPORT_LOST
+Nawala ko yung id ko sa gym.,REPORT_LOST
+Nawala ko yung charger ko sa classroom.,REPORT_LOST
+Can you tell me ano ang findit? please,GENERAL_INQUIRY
+I lost my keys yesterday near the library and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+missing calculator,REPORT_LOST
+i foud a flash dive,REPORT_FOUND
+How do I look for a missing item? anyway?,GENERAL_INQUIRY
+I was walking near the hallway and I found a book lying on the ground. I want to surrender it.,REPORT_FOUND
+did anyone find my wallet?,SEARCH_ITEM
+"Hey, what is findit? right now?",GENERAL_INQUIRY
+my earbds is missng,REPORT_LOST
+"Hey, what is findit? please",GENERAL_INQUIRY
+Can you tell me help anyway?,GENERAL_INQUIRY
+May nakakita ba ng tumbler ko?,SEARCH_ITEM
+May nakita akong umbrella sa auditorium.,REPORT_FOUND
+where is my tmbler,REPORT_LOST
+my headphones went missing after class,REPORT_LOST
+"Hi, can students use findit? right now?",GENERAL_INQUIRY
+lost notebook,REPORT_LOST
+"Hi, how do i look for a missing item? thanks",GENERAL_INQUIRY
+I picked up someone's jacket,REPORT_FOUND
+Pacheck naman kung may nahanap na charger.,SEARCH_ITEM
+I think I accidentally left my black bag somewhere around the hallway after my class and I want to report it.,REPORT_LOST
+I found a headphones near the cafeteria,REPORT_FOUND
+I lost my charger yesterday near the parking lot and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I picked up someone's ballpen,REPORT_FOUND
+Paano gamitin to? thanks,GENERAL_INQUIRY
+can u check my fash drive,SEARCH_ITEM
+I think I left my jacket in the parking lot,REPORT_LOST
+I think I accidentally left my black umbrella somewhere around the classroom after my class and I want to report it.,REPORT_LOST
+my eabruds is missng,REPORT_LOST
+I found a book,REPORT_FOUND
+I think I left my bag in the parking lot,REPORT_LOST
+Pacheck naman kung may nahanap na bag.,SEARCH_ITEM
+Nawala ko yung flash drive ko sa library.,REPORT_LOST
+May nakita akong bag sa library.,REPORT_FOUND
+my noteobok is missng,REPORT_LOST
+Pacheck naman kung may nahanap na glasses.,SEARCH_ITEM
+I found a book near the parking lot,REPORT_FOUND
+Nawala yung headphones ko.,REPORT_LOST
+Can you help me find my notebook?,SEARCH_ITEM
+I found a wallet near the cafeteria,REPORT_FOUND
+"Hey, how to search thanks",GENERAL_INQUIRY
+Paano magreport ng nahanap na jacket?,REPORT_FOUND
+I was walking near the lab and I found a keys lying on the ground. I want to surrender it.,REPORT_FOUND
+I lost my jacket yesterday near the clinic and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+May nakita akong tumbler sa classroom.,REPORT_FOUND
+I think I left my tumbler in the main gate,REPORT_LOST
+I was walking near the hallway and I found a laptop lying on the ground. I want to surrender it.,REPORT_FOUND
+Nawala ko yung headphones ko sa parking lot.,REPORT_LOST
+I was walking near the lab and I found a tumbler lying on the ground. I want to surrender it.,REPORT_FOUND
+can u check my wlalet,SEARCH_ITEM
+can u check my phoen,SEARCH_ITEM
+May nakakita ba ng charger ko?,SEARCH_ITEM
+I lost my flash drive yesterday near the clinic and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+May nakita akong jacket sa hallway.,REPORT_FOUND
+I think I left my charger in the classroom,REPORT_LOST
+Nawawala yung tumbler ko sa campus.,REPORT_LOST
+Nawala ko yung flash drive ko sa main gate.,REPORT_LOST
+Can you tell me how to use this thanks,GENERAL_INQUIRY
+Nawawala yung glasses ko sa campus.,REPORT_LOST
+Saan ko pwede ibalik yung nahanap kong flash drive?,REPORT_FOUND
+"Hey, ano ang findit? right now?",GENERAL_INQUIRY
+my flashdrive is missng,REPORT_LOST
+I found a flash drive near the main gate,REPORT_FOUND
+"Hey, can students use findit? anyway?",GENERAL_INQUIRY
+can u check my jacet,SEARCH_ITEM
+i foud a tmbler,REPORT_FOUND
+i lost my wallte,REPORT_LOST
+Can you tell me where can i report a lost item? please,GENERAL_INQUIRY
+"Hi, ano ang findit? please",GENERAL_INQUIRY
+I lost my earbuds yesterday near the classroom and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+Someone left a flash drive,REPORT_FOUND
+Someone left a wallet,REPORT_FOUND
+looking for keys,SEARCH_ITEM
+"Excuse me, what is findit? anyway?",GENERAL_INQUIRY
+Saan ang lost and found office? please,GENERAL_INQUIRY
+Can you tell me help please,GENERAL_INQUIRY
+I was walking near the lab and I found a flash drive lying on the ground. I want to surrender it.,REPORT_FOUND
+i lost my falsh drive,REPORT_LOST
+I think I accidentally left my black calculator somewhere around the library after my class and I want to report it.,REPORT_LOST
+Can you check if my tumbler was found?,SEARCH_ITEM
+I was walking near the main gate and I found a jacket lying on the ground. I want to surrender it.,REPORT_FOUND
+I lost my ballpen yesterday near the student lounge and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+Has anyone reported a headphones?,SEARCH_ITEM
+can u check my jacekt,SEARCH_ITEM
+Can you tell me saan ang lost and found office? anyway?,GENERAL_INQUIRY
+Nawala yung calculator ko.,REPORT_LOST
+Nawala ko yung book ko sa gym.,REPORT_LOST
+How to use this thanks,GENERAL_INQUIRY
+where is my phoe,REPORT_LOST
+Help,GENERAL_INQUIRY
+where is my noebook,REPORT_LOST
+"Hi, help anyway?",GENERAL_INQUIRY
+missing flash drive,REPORT_LOST
+i foud a earbds,REPORT_FOUND
+Nawala ko yung book ko sa parking lot.,REPORT_LOST
+Nawala yung ballpen ko.,REPORT_LOST
+I picked up someone's book,REPORT_FOUND
+"Excuse me, where to report anyway?",GENERAL_INQUIRY
+where is my latpop,REPORT_LOST
+did anyone find my id?,SEARCH_ITEM
+I found an umbrella near the main gate,REPORT_FOUND
+i foud a phnoe,REPORT_FOUND
+Nawawala yung jacket ko sa campus.,REPORT_LOST
+"Excuse me, where can i report a lost item? anyway?",GENERAL_INQUIRY
+"Hey, how does findit work? right now?",GENERAL_INQUIRY
+I lost my notebook yesterday near the cafeteria and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+"Excuse me, help please",GENERAL_INQUIRY
+i lost my caclulator,REPORT_LOST
+"Excuse me, can students use findit? please",GENERAL_INQUIRY
+I found a jacket near the student lounge,REPORT_FOUND
+i foud a notebok,REPORT_FOUND
+Can you tell me where can i report a lost item?,GENERAL_INQUIRY
+"Hi, can students use findit?",GENERAL_INQUIRY
+Ano ang FindIt? please,GENERAL_INQUIRY
+Pacheck naman kung may nahanap na ballpen.,SEARCH_ITEM
+can u check my id,SEARCH_ITEM
+lost calculator,REPORT_LOST
+my umbrelal is missng,REPORT_LOST
+I found a laptop near the student lounge,REPORT_FOUND
+"Hi, where is the lost and found? anyway?",GENERAL_INQUIRY
+can u check my earbus,SEARCH_ITEM
+i foud a wllet,REPORT_FOUND
+I think I left my wallet in the hallway,REPORT_LOST
+System instructions please please,GENERAL_INQUIRY
+I lost my notebook yesterday near the main gate and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+Nawala ko yung wallet ko sa student lounge.,REPORT_LOST
+I lost my flash drive yesterday near the parking lot and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+"Excuse me, how do i look for a missing item? please",GENERAL_INQUIRY
+can u check my chrger,SEARCH_ITEM
+Can you check if my phone was found?,SEARCH_ITEM
+"Hey, how to use this anyway?",GENERAL_INQUIRY
+i lost my charer,REPORT_LOST
+Can you help me find my book?,SEARCH_ITEM
+Has anyone reported a ballpen?,SEARCH_ITEM
+my glasses is missng,REPORT_LOST
+"Hey, paano gamitin to? right now?",GENERAL_INQUIRY
+i lost my clculator,REPORT_LOST
+Can you tell me where can i report a lost item? thanks,GENERAL_INQUIRY
+May nakita akong laptop sa auditorium.,REPORT_FOUND
+"Hi, paano gamitin to? anyway?",GENERAL_INQUIRY
+can u check my boko,SEARCH_ITEM
+I found an earbuds near the clinic,REPORT_FOUND
+"Excuse me, can students use findit?",GENERAL_INQUIRY
+I lost my book yesterday near the main gate and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I think I accidentally left my black laptop somewhere around the cafeteria after my class and I want to report it.,REPORT_LOST
+can u check my cahrger,SEARCH_ITEM
+Can you tell me where to report please,GENERAL_INQUIRY
+May nakita akong tumbler sa lab.,REPORT_FOUND
+"Excuse me, paano gamitin to? anyway?",GENERAL_INQUIRY
+where is my jackte,REPORT_LOST
+"Hi, saan ang lost and found office? right now?",GENERAL_INQUIRY
+I lost my laptop yesterday near the gym and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I found a wallet near the clinic,REPORT_FOUND
+"Hi, how does findit work?",GENERAL_INQUIRY
+I think I left my jacket in the gym,REPORT_LOST
+Can you tell me ano ang findit?,GENERAL_INQUIRY
+Nawala yung tumbler ko.,REPORT_LOST
+found phone,REPORT_FOUND
+hey i lost my phone,REPORT_LOST
+"Hey, how to search anyway?",GENERAL_INQUIRY
+System instructions please anyway?,GENERAL_INQUIRY
+i lost my earbds,REPORT_LOST
+I think I accidentally left my black glasses somewhere around the student lounge after my class and I want to report it.,REPORT_LOST
+My charger disappeared,REPORT_LOST
+How to search right now?,GENERAL_INQUIRY
+where is my tumblr,REPORT_LOST
+I think I left my phone in the gym,REPORT_LOST
+Pwede ba magsearch ng lost wallet?,SEARCH_ITEM
+I lost my umbrella yesterday near the gym and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+"Hey, help please",GENERAL_INQUIRY
+I lost my book yesterday near the classroom and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I think I accidentally left my black headphones somewhere around the classroom after my class and I want to report it.,REPORT_LOST
+Can you tell me ano ang findit? thanks,GENERAL_INQUIRY
+I found a ballpen near the classroom,REPORT_FOUND
+i foud a ballepn,REPORT_FOUND
+Nawala ko yung wallet ko sa library.,REPORT_LOST
+Has anyone reported a tumbler?,SEARCH_ITEM
+I picked up someone's tumbler,REPORT_FOUND
+my glasess is missng,REPORT_LOST
+I was walking near the auditorium and I found an earbuds lying on the ground. I want to surrender it.,REPORT_FOUND
+May nakakita ba ng flash drive ko?,SEARCH_ITEM
+can u check my carger,SEARCH_ITEM
+I think I accidentally left my black id somewhere around the library after my class and I want to report it.,REPORT_LOST
+my tumbler went missing after class,REPORT_LOST
+"Excuse me, help right now?",GENERAL_INQUIRY
+Has anyone reported an earbuds?,SEARCH_ITEM
+I found a tumbler,REPORT_FOUND
+i foud a calclator,REPORT_FOUND
+i lost my kys,REPORT_LOST
+Nawala ko yung headphones ko sa gym.,REPORT_LOST
+I was walking near the lab and I found an umbrella lying on the ground. I want to surrender it.,REPORT_FOUND
+Can you tell me how to use this right now?,GENERAL_INQUIRY
+Can you tell me how to search,GENERAL_INQUIRY
+I think I left my laptop in the student lounge,REPORT_LOST
+I picked up someone's headphones,REPORT_FOUND
+Can you tell me help right now?,GENERAL_INQUIRY
+I think I left my notebook in the main gate,REPORT_LOST
+Has anyone reported a bag?,SEARCH_ITEM
+I found a headphones,REPORT_FOUND
+May nakita akong keys sa lab.,REPORT_FOUND
+Saan ko pwede ibalik yung nahanap kong ballpen?,REPORT_FOUND
+my noetbook is missng,REPORT_LOST
+"Excuse me, saan ang lost and found office? anyway?",GENERAL_INQUIRY
+I think I accidentally left my black phone somewhere around the cafeteria after my class and I want to report it.,REPORT_LOST
+"Hey, where can i report a lost item?",GENERAL_INQUIRY
+"Excuse me, system instructions please thanks",GENERAL_INQUIRY
+Ano ang FindIt? thanks,GENERAL_INQUIRY
+looking for calculator,SEARCH_ITEM
+I was walking near the classroom and I found a keys lying on the ground. I want to surrender it.,REPORT_FOUND
+I found a ballpen near the lab,REPORT_FOUND
+Can you tell me paano gamitin to? please,GENERAL_INQUIRY
+I found a notebook near the lab,REPORT_FOUND
+"Hey, can students use findit? thanks",GENERAL_INQUIRY
+i lost my glasess,REPORT_LOST
+"Hi, paano gamitin to? please",GENERAL_INQUIRY
+hey i lost my flash drive,REPORT_LOST
+where is my fash drive,REPORT_LOST
+May nakita akong keys sa classroom.,REPORT_FOUND
+"Excuse me, how do i look for a missing item? right now?",GENERAL_INQUIRY
+I think I left my bag in the library,REPORT_LOST
+Nawala ko yung flash drive ko sa cafeteria.,REPORT_LOST
+i foud a flah drive,REPORT_FOUND
+I was walking near the main gate and I found a notebook lying on the ground. I want to surrender it.,REPORT_FOUND
+Can you tell me how do i look for a missing item?,GENERAL_INQUIRY
+"Hi, help",GENERAL_INQUIRY
+"Excuse me, where to report",GENERAL_INQUIRY
+Nawala ko yung calculator ko sa auditorium.,REPORT_LOST
+Can you tell me help thanks,GENERAL_INQUIRY
+I was walking near the lab and I found a calculator lying on the ground. I want to surrender it.,REPORT_FOUND
+"Excuse me, help",GENERAL_INQUIRY
+"Hey, how does findit work?",GENERAL_INQUIRY
+"Hey, can students use findit? please",GENERAL_INQUIRY
+Can you tell me what is findit? anyway?,GENERAL_INQUIRY
+Nawala ko yung flash drive ko sa lab.,REPORT_LOST
+looking for wallet,SEARCH_ITEM
+where is my phnoe,REPORT_LOST
+I was walking near the gym and I found an earbuds lying on the ground. I want to surrender it.,REPORT_FOUND
+My notebook disappeared,REPORT_LOST
+my calcuator is missng,REPORT_LOST
+my clculator is missng,REPORT_LOST
+I think I accidentally left my black glasses somewhere around the auditorium after my class and I want to report it.,REPORT_LOST
+i lost my tumblre,REPORT_LOST
+I think I left my headphones in the lab,REPORT_LOST
+May nakita akong earbuds sa auditorium.,REPORT_FOUND
+I was walking near the library and I found an umbrella lying on the ground. I want to surrender it.,REPORT_FOUND
+May nakita akong bag sa parking lot.,REPORT_FOUND
+Nawala ko yung bag ko sa hallway.,REPORT_LOST
+"Hi, how do i look for a missing item? right now?",GENERAL_INQUIRY
+Can you tell me paano gamitin to?,GENERAL_INQUIRY
+where is my tmubler,REPORT_LOST
+My headphones disappeared,REPORT_LOST
+looking for glasses,SEARCH_ITEM
+can u check my chargre,SEARCH_ITEM
+where is my umbrela,REPORT_LOST
+i lost my book,REPORT_LOST
+Nawala ko yung headphones ko sa main gate.,REPORT_LOST
+I was walking near the main gate and I found a bag lying on the ground. I want to surrender it.,REPORT_FOUND
+I think I left my tumbler in the gym,REPORT_LOST
+I lost my bag yesterday near the main gate and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I was walking near the cafeteria and I found a keys lying on the ground. I want to surrender it.,REPORT_FOUND
+May nakita akong ballpen sa auditorium.,REPORT_FOUND
+my tumblr is missng,REPORT_LOST
+May nakakita ba ng jacket ko?,SEARCH_ITEM
+where is my glsses,REPORT_LOST
+"Hi, where is the lost and found?",GENERAL_INQUIRY
+Has anyone reported a calculator?,SEARCH_ITEM
+i lost my ballepn,REPORT_LOST
+where is my pone,REPORT_LOST
+did anyone find my keys?,SEARCH_ITEM
+I was walking near the hallway and I found a glasses lying on the ground. I want to surrender it.,REPORT_FOUND
+I found a headphones near the library,REPORT_FOUND
+Nawala ko yung tumbler ko sa clinic.,REPORT_LOST
+I think I left my wallet in the cafeteria,REPORT_LOST
+i foud a jcaket,REPORT_FOUND
+I think I left my glasses in the auditorium,REPORT_LOST
+I think I accidentally left my black umbrella somewhere around the cafeteria after my class and I want to report it.,REPORT_LOST
+May nakita akong tumbler sa auditorium.,REPORT_FOUND
+I lost my wallet yesterday near the student lounge and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+i lost my phoe,REPORT_LOST
+where is my jcket,REPORT_LOST
+where is my laptp,REPORT_LOST
+May nakakita ba ng notebook ko?,SEARCH_ITEM
+i foud a earubds,REPORT_FOUND
+Pwede ba magsearch ng lost id?,SEARCH_ITEM
+i foud a umbrella,REPORT_FOUND
+May nakita akong notebook sa parking lot.,REPORT_FOUND
+May nakita akong umbrella sa main gate.,REPORT_FOUND
+Nawawala yung phone ko sa campus.,REPORT_LOST
+lost book,REPORT_LOST
+I can't find my phone,REPORT_LOST
+Can you help me find my calculator?,SEARCH_ITEM
+I lost my calculator yesterday near the hallway and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I think I left my earbuds in the lab,REPORT_LOST
+i foud a noebook,REPORT_FOUND
+I found a jacket near the auditorium,REPORT_FOUND
+Can you tell me how do i look for a missing item? right now?,GENERAL_INQUIRY
+where is my jackt,REPORT_LOST
+Someone left a keys,REPORT_FOUND
+I lost my ballpen yesterday near the clinic and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I think I left my wallet in the auditorium,REPORT_LOST
+I found a phone,REPORT_FOUND
+i lost my kesy,REPORT_LOST
+Pacheck naman kung may nahanap na book.,SEARCH_ITEM
+Pacheck naman kung may nahanap na keys.,SEARCH_ITEM
+I found a notebook,REPORT_FOUND
+I lost my earbuds yesterday near the gym and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+My bag disappeared,REPORT_LOST
+I was walking near the parking lot and I found an umbrella lying on the ground. I want to surrender it.,REPORT_FOUND
+I think I accidentally left my black flash drive somewhere around the lab after my class and I want to report it.,REPORT_LOST
+I think I left my calculator in the lab,REPORT_LOST
+May nakita akong phone sa clinic.,REPORT_FOUND
+where is my glasss,REPORT_LOST
+missing tumbler,REPORT_LOST
+May nakita akong phone sa hallway.,REPORT_FOUND
+Paano gamitin to? right now?,GENERAL_INQUIRY
+Pwede ba magsearch ng lost jacket?,SEARCH_ITEM
+"Excuse me, how to search thanks",GENERAL_INQUIRY
+i lost my balpen,REPORT_LOST
+lost flash drive,REPORT_LOST
+I can't find my umbrella,REPORT_LOST
+did anyone find my flash drive?,SEARCH_ITEM
+I lost my calculator,REPORT_LOST
+I lost my tumbler yesterday near the parking lot and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I was walking near the clinic and I found a laptop lying on the ground. I want to surrender it.,REPORT_FOUND
+i lost my chrager,REPORT_LOST
+"Excuse me, paano gamitin to? thanks",GENERAL_INQUIRY
+i lost my phoen,REPORT_LOST
+can u check my phne,SEARCH_ITEM
+How to use this anyway?,GENERAL_INQUIRY
+I think I left my bag in the hallway,REPORT_LOST
+I found a calculator near the parking lot,REPORT_FOUND
+What is FindIt? please,GENERAL_INQUIRY
+I think I left my glasses in the lab,REPORT_LOST
+My book disappeared,REPORT_LOST
+search ballpen,SEARCH_ITEM
+my flash drie is missng,REPORT_LOST
+I think I left my notebook in the cafeteria,REPORT_LOST
+Can you tell me can students use findit? thanks,GENERAL_INQUIRY
+Help thanks,GENERAL_INQUIRY
+"Hi, what is findit?",GENERAL_INQUIRY
+Can you tell me ano ang findit? anyway?,GENERAL_INQUIRY
+did anyone find my calculator?,SEARCH_ITEM
+"Hey, how to use this please",GENERAL_INQUIRY
+can u check my walelt,SEARCH_ITEM
+my wallet went missing after class,REPORT_LOST
+"Hey, where is the lost and found? right now?",GENERAL_INQUIRY
+I lost my id yesterday near the parking lot and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+Paano magreport ng nahanap na id?,REPORT_FOUND
+May nakita akong id sa student lounge.,REPORT_FOUND
+picked up umbrella,REPORT_FOUND
+I think I accidentally left my black earbuds somewhere around the cafeteria after my class and I want to report it.,REPORT_LOST
+Can you help me find my keys?,SEARCH_ITEM
+"Excuse me, what is findit? thanks",GENERAL_INQUIRY
+hey i lost my glasses,REPORT_LOST
+i foud a wlalet,REPORT_FOUND
+I think I left my earbuds in the main gate,REPORT_LOST
+my notebok is missng,REPORT_LOST
+Paano gamitin to?,GENERAL_INQUIRY
+can u check my ballpne,SEARCH_ITEM
+"Hey, saan ang lost and found office? right now?",GENERAL_INQUIRY
+May nakita akong glasses sa main gate.,REPORT_FOUND
+May nakita akong jacket sa clinic.,REPORT_FOUND
+I found a ballpen,REPORT_FOUND
+"Hey, how does findit work? anyway?",GENERAL_INQUIRY
+I can't find my book,REPORT_LOST
+where is my balplen,REPORT_LOST
+i foud a tumblre,REPORT_FOUND
+where is my pohne,REPORT_LOST
+I lost my tumbler yesterday near the library and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+Can you tell me where is the lost and found?,GENERAL_INQUIRY
+My id disappeared,REPORT_LOST
+search umbrella,SEARCH_ITEM
+May nakita akong keys sa main gate.,REPORT_FOUND
+my carger is missng,REPORT_LOST
+I think I accidentally left my black notebook somewhere around the parking lot after my class and I want to report it.,REPORT_LOST
+picked up phone,REPORT_FOUND
+Someone left an umbrella,REPORT_FOUND
+"Hi, help right now?",GENERAL_INQUIRY
+picked up earbuds,REPORT_FOUND
+I found a laptop near the library,REPORT_FOUND
+My wallet disappeared,REPORT_LOST
+where is my jacet,REPORT_LOST
+I think I left my laptop in the parking lot,REPORT_LOST
+May nakakita ba ng glasses ko?,SEARCH_ITEM
+May nakita akong bag sa classroom.,REPORT_FOUND
+System instructions please,GENERAL_INQUIRY
+Can you tell me how does findit work? anyway?,GENERAL_INQUIRY
+my lptop is missng,REPORT_LOST
+I think I accidentally left my black laptop somewhere around the hallway after my class and I want to report it.,REPORT_LOST
+"Excuse me, saan ang lost and found office? right now?",GENERAL_INQUIRY
+picked up laptop,REPORT_FOUND
+I was walking near the student lounge and I found a charger lying on the ground. I want to surrender it.,REPORT_FOUND
+May nakita akong headphones sa auditorium.,REPORT_FOUND
+"Hi, system instructions please anyway?",GENERAL_INQUIRY
+Someone left a tumbler,REPORT_FOUND
+"Hi, how to use this please",GENERAL_INQUIRY
+search phone,SEARCH_ITEM
+can u check my falsh drive,SEARCH_ITEM
+my umrbella is missng,REPORT_LOST
+hey i lost my bag,REPORT_LOST
+I lost my calculator yesterday near the auditorium and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I lost my headphones yesterday near the classroom and I wanted to check if anyone has turned it into the lost and found yet.,SEARCH_ITEM
+I think I accidentally left my black jacket somewhere around the gym after my class and I want to report it.,REPORT_LOST
+"Excuse me, system instructions please please",GENERAL_INQUIRY
+Nawala ko yung glasses ko sa cafeteria.,REPORT_LOST
+Can you tell me system instructions please,GENERAL_INQUIRY
+Nawala ko yung headphones ko sa hallway.,REPORT_LOST

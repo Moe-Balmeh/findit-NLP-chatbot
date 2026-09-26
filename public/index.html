@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>FindIt · NU Laguna Lost & Found</title>
+  <link rel="icon" href="img/nu-logo.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <aside class="sidebar" id="sidebar">
+    <div class="brand">
+      <img src="img/nu-logo.png" alt="">
+      <div>
+        <strong>FindIt</strong>
+        <small>NU Laguna Lost &amp; Found</small>
+      </div>
+    </div>
+
+    <button class="new-chat" id="newChat"><span data-icon="plus"></span>New chat</button>
+    <button class="side-link" data-action="REPORT_LOST"><span data-icon="package"></span>I lost something</button>
+    <button class="side-link" data-action="REPORT_FOUND"><span data-icon="inbox"></span>I found something</button>
+    <button class="side-link" data-action="SEARCH_ITEM"><span data-icon="search"></span>Search found items</button>
+    <button class="side-link" data-action="FAQ"><span data-icon="help"></span>How it works</button>
+
+    <h3>My tickets</h3>
+    <ul class="tickets" id="tickets"></ul>
+
+    <div class="side-foot">
+      <div class="office"><span data-icon="pin"></span>Disciplinary Office<br>near the dugout</div>
+      <label><input type="checkbox" id="nlpToggle" checked> Show NLP details</label>
+      <a class="admin-link" href="/admin"><span data-icon="lock"></span>Staff login</a>
+    </div>
+  </aside>
+  <div class="scrim" id="scrim"></div>
+
+  <main>
+    <header class="topbar">
+      <button class="icon-btn" id="menuBtn" aria-label="Menu" data-icon="menu"></button>
+      <strong>FindIt</strong>
+      <button class="icon-btn" id="newChatTop" aria-label="New chat" data-icon="plus"></button>
+    </header>
+
+    <section class="thread" id="thread">
+      <div class="home" id="home">
+        <img src="img/nu-logo.png" alt="NU logo">
+        <h1>What did you lose or find?</h1>
+        <p>I'm FindIt, the lost and found assistant for NU Laguna. Describe it in your own words, English or Taglish.</p>
+        <div class="cards">
+          <button class="card-btn" data-action="REPORT_LOST"><span data-icon="package"></span><strong>I lost something</strong>File a report and check what's been turned in</button>
+          <button class="card-btn" data-action="REPORT_FOUND"><span data-icon="inbox"></span><strong>I found something</strong>Help it get back to its owner</button>
+          <button class="card-btn" data-action="SEARCH_ITEM"><span data-icon="search"></span><strong>Search found items</strong>See if your item is already at the office</button>
+        </div>
+      </div>
+      <div class="messages" id="messages"></div>
+    </section>
+
+    <footer class="composer">
+      <div class="chips" id="chips"></div>
+      <form id="form">
+        <textarea id="input" rows="1" maxlength="500" placeholder="Describe what you lost or found..."></textarea>
+        <button id="sendBtn" aria-label="Send" data-icon="send"></button>
+      </form>
+      <p class="note">FindIt can make mistakes. The Disciplinary Office always checks before releasing items.</p>
+    </footer>
+  </main>
+
+  <script src="js/icons.js"></script>
+  <script src="js/chat.js"></script>
+</body>
+</html>

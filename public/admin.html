@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FindIt Admin · NU Laguna</title>
+  <link rel="icon" href="img/nu-logo.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/admin.css">
+</head>
+<body>
+  <section class="login" id="loginView" hidden>
+    <form class="login-card" id="loginForm">
+      <img src="img/nu-logo.png" alt="">
+      <h1>FindIt Admin</h1>
+      <p>For Disciplinary Office staff only.</p>
+      <input type="email" id="email" placeholder="Email" autocomplete="username" required>
+      <input type="password" id="password" placeholder="Password" autocomplete="current-password" required>
+      <button type="submit">Log in</button>
+      <p class="error" id="loginError"></p>
+      <a href="/">← Back to the chatbot</a>
+    </form>
+  </section>
+
+  <div class="dash" id="dashView" hidden>
+    <header>
+      <img src="img/nu-logo.png" alt="">
+      <h1>FindIt Admin</h1>
+      <span class="who" id="who"></span>
+      <a href="/">Chatbot</a>
+      <button id="logoutBtn">Log out</button>
+    </header>
+
+    <main>
+      <div class="stats">
+        <div class="stat"><span>Lost reports</span><b id="statLost">0</b></div>
+        <div class="stat"><span>Found items</span><b id="statFound">0</b></div>
+        <div class="stat"><span>Claimed by owner</span><b id="statClaimed">0</b></div>
+        <div class="stat"><span>Return rate</span><b id="statRate">0%</b><small>found items that got back to their owner</small></div>
+      </div>
+
+      <div class="charts">
+        <div class="chart-card">
+          <h2>Found items by status</h2>
+          <div class="donut"><canvas id="chartStatus"></canvas><div class="donut-total" id="totalStatus"></div></div>
+          <ul class="legend" id="legendStatus"></ul>
+        </div>
+        <div class="chart-card">
+          <h2>Most reported items</h2>
+          <div class="donut"><canvas id="chartItems"></canvas><div class="donut-total" id="totalItems"></div></div>
+          <ul class="legend" id="legendItems"></ul>
+        </div>
+        <div class="chart-card">
+          <h2>Where things get lost or found</h2>
+          <div class="donut"><canvas id="chartPlaces"></canvas><div class="donut-total" id="totalPlaces"></div></div>
+          <ul class="legend" id="legendPlaces"></ul>
+        </div>
+      </div>
+
+      <div class="table-card">
+        <div class="table-top">
+          <div class="tabs">
+            <button class="tab active" data-tab="found">Found items <span id="countFound"></span></button>
+            <button class="tab" data-tab="lost">Lost reports <span id="countLost"></span></button>
+          </div>
+          <input type="search" id="search" placeholder="Search code, item or place...">
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr><th>Code</th><th>Item</th><th>Details</th><th>Place</th><th>Date</th><th>Possible match</th><th>Status</th></tr>
+            </thead>
+            <tbody id="rows"></tbody>
+          </table>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="js/admin.js"></script>
+</body>
+</html>

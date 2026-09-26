@@ -1,0 +1,664 @@
+text,intent,item,location
+I found a book near the library.,REPORT_FOUND,BOOK,the library
+I saw a eyeglasses in the laboratory.,REPORT_FOUND,GLASSES,the laboratory
+Someone left a sweater at the gym.,REPORT_FOUND,JACKET,the gym
+I picked up a spiral notebook in the laboratory.,REPORT_FOUND,NOTEBOOK,the laboratory
+I'm looking for my thumb drive.,SEARCH_ITEM,USB_DRIVE,the student lounge
+I lost my measuring ruler near the cafeteria.,REPORT_LOST,RULER,the cafeteria
+Is there a rain umbrella in the lost and found?,SEARCH_ITEM,UMBRELLA,the student lounge
+Has anyone seen my spiral notebook? I lost it at the laboratory.,REPORT_LOST,NOTEBOOK,the laboratory
+I think I lost a calculator around the hallway.,REPORT_LOST,CALCULATOR,the hallway
+I saw a notebook computer in the auditorium.,REPORT_FOUND,LAPTOP,the auditorium
+I saw a student identification in the parking area.,REPORT_FOUND,STUDENT_ID,the parking area
+A backpack was left behind in the parking area.,REPORT_FOUND,BACKPACK,the parking area
+Has anyone seen a umbrella?,SEARCH_ITEM,UMBRELLA,Room 202
+A school notebook was left behind in Room 201.,REPORT_FOUND,NOTEBOOK,Room 201
+I lost a hoodie while I was at the library.,REPORT_LOST,JACKET,the library
+There's a school ID at the classroom that someone may have lost.,REPORT_FOUND,STUDENT_ID,the classroom
+I picked up a student ID in the student lounge.,REPORT_FOUND,STUDENT_ID,the student lounge
+I picked up a drink bottle in the laboratory.,REPORT_FOUND,WATER_BOTTLE,the laboratory
+I'm looking for my earphones.,SEARCH_ITEM,EARPHONES,Room 203
+Has anyone found my school notebook?,SEARCH_ITEM,NOTEBOOK,Room 201
+I can't find my iPad; I think I left it at Room 202.,REPORT_LOST,TABLET,Room 202
+Can you help me find my file folder? I lost it near the hallway.,REPORT_LOST,FOLDER,the hallway
+Has anyone seen my spectacles? I lost it at the laboratory.,REPORT_LOST,GLASSES,the laboratory
+My ID lace is missing. I last had it near Room 203.,REPORT_LOST,ID_LANYARD,Room 203
+Can you check if a room keys was found?,SEARCH_ITEM,KEYS,the student lounge
+Is there a USB in the lost and found?,SEARCH_ITEM,USB_DRIVE,Room 201
+Someone left a textbook at the hallway.,REPORT_FOUND,BOOK,the hallway
+Did someone report a wireless earbuds?,SEARCH_ITEM,EARPHONES,the canteen
+Has anyone seen my pencil case? I lost it at the classroom.,REPORT_LOST,PENCIL_CASE,the classroom
+I'm trying to find my identification card.,SEARCH_ITEM,STUDENT_ID,the cafeteria
+I found someone's keys around the student lounge.,REPORT_FOUND,KEYS,the student lounge
+I lost my watch near the library.,REPORT_LOST,WATCH,the library
+Has anyone found my drink bottle?,SEARCH_ITEM,WATER_BOTTLE,the laboratory
+I want to search for my missing typing board.,SEARCH_ITEM,KEYBOARD,Room 203
+Has anyone seen my computer keyboard? I lost it at the front lobby.,REPORT_LOST,KEYBOARD,the front lobby
+I found a tablet on the floor near Room 203.,REPORT_FOUND,TABLET,Room 203
+I saw a identification card in the auditorium.,REPORT_FOUND,STUDENT_ID,the auditorium
+I want to search for my missing neck strap.,SEARCH_ITEM,ID_LANYARD,the student lounge
+Someone left a cellphone at the library.,REPORT_FOUND,PHONE,the library
+I found a clothes near the classroom.,REPORT_FOUND,CLOTHING,the classroom
+I'm looking for my smartwatch.,SEARCH_ITEM,WATCH,Room 203
+I found someone's over-ear headphones around the parking area.,REPORT_FOUND,HEADPHONES,the parking area
+I'm looking for my wallet.,SEARCH_ITEM,WALLET,Room 202
+My charging cable is missing. I last had it near the canteen.,REPORT_LOST,CHARGER,the canteen
+I picked up a lead pencil in the auditorium.,REPORT_FOUND,PENCIL,the auditorium
+I misplaced my book somewhere around the library.,REPORT_LOST,BOOK,the library
+I can't find my tumbler; I think I left it at the canteen.,REPORT_LOST,WATER_BOTTLE,the canteen
+I was at the canteen and now I can't find my keyboard.,REPORT_LOST,KEYBOARD,the canteen
+I'm trying to find my student ID.,SEARCH_ITEM,STUDENT_ID,the student lounge
+I found someone's room keys around Room 202.,REPORT_FOUND,KEYS,Room 202
+Someone left a school backpack at Room 201.,REPORT_FOUND,BACKPACK,Room 201
+Can you help me find my sunglasses? I lost it near the cafeteria.,REPORT_LOST,SUNGLASSES,the cafeteria
+Can you help me find my student identification? I lost it near the student lounge.,REPORT_LOST,STUDENT_ID,the student lounge
+My wristwatch disappeared after I went to the computer laboratory.,REPORT_LOST,WATCH,the computer laboratory
+I found someone's student identification around the student lounge.,REPORT_FOUND,STUDENT_ID,the student lounge
+I picked up a uniform shirt in the hallway.,REPORT_FOUND,CLOTHING,the hallway
+I'm looking for my pencil case.,SEARCH_ITEM,PENCIL_CASE,the classroom
+Did someone report a food container?,SEARCH_ITEM,LUNCH_BOX,Room 203
+Has anyone seen a mechanical pencil?,SEARCH_ITEM,PENCIL,the computer laboratory
+Is there a wireless mouse in the lost and found?,SEARCH_ITEM,MOUSE,the front lobby
+Someone left a sunglasses at the cafeteria.,REPORT_FOUND,SUNGLASSES,the cafeteria
+Has anyone found my keyboard?,SEARCH_ITEM,KEYBOARD,the canteen
+Can you check if a phone was found?,SEARCH_ITEM,PHONE,the auditorium
+My shirt disappeared after I went to the student lounge.,REPORT_LOST,CLOTHING,the student lounge
+Has anyone seen my ball pen? I lost it at the cafeteria.,REPORT_LOST,PEN,the cafeteria
+How do I claim an item that belongs to me?,GENERAL_INQUIRY,NONE,NONE
+I'm trying to find my school notebook.,SEARCH_ITEM,NOTEBOOK,the classroom
+I picked up a school bag in the parking area.,REPORT_FOUND,BACKPACK,the parking area
+There's a school ID at the parking area that someone may have lost.,REPORT_FOUND,STUDENT_ID,the parking area
+My typing board disappeared after I went to Room 203.,REPORT_LOST,KEYBOARD,Room 203
+I found someone's wallet around Room 202.,REPORT_FOUND,WALLET,Room 202
+A ID card was left behind in the front lobby.,REPORT_FOUND,STUDENT_ID,the front lobby
+I saw a bag in the student lounge.,REPORT_FOUND,BACKPACK,the student lounge
+Is there a portable charger in the lost and found?,SEARCH_ITEM,POWER_BANK,the hallway
+Has anyone seen my money wallet? I lost it at the classroom.,REPORT_LOST,WALLET,the classroom
+I'm trying to find my ID card.,SEARCH_ITEM,STUDENT_ID,the front lobby
+I think I lost a textbook around the gym.,REPORT_LOST,BOOK,the gym
+I'm trying to find my house keys.,SEARCH_ITEM,KEYS,the front lobby
+Has anyone seen a charger?,SEARCH_ITEM,CHARGER,the auditorium
+Has anyone seen a journal notebook?,SEARCH_ITEM,NOTEBOOK,the computer laboratory
+My rain umbrella is missing. I last had it near Room 201.,REPORT_LOST,UMBRELLA,Room 201
+Can you check if a shirt was found?,SEARCH_ITEM,CLOTHING,the front lobby
+Has anyone seen my backpack? I lost it at the auditorium.,REPORT_LOST,BACKPACK,the auditorium
+My ID card disappeared after I went to the laboratory.,REPORT_LOST,STUDENT_ID,the laboratory
+I'm looking for my spiral notebook.,SEARCH_ITEM,NOTEBOOK,the laboratory
+Did someone report a card wallet?,SEARCH_ITEM,WALLET,Room 201
+Has anyone seen my computer mouse? I lost it at the gym.,REPORT_LOST,MOUSE,the gym
+Someone left a scientific calculator at Room 203.,REPORT_FOUND,CALCULATOR,Room 203
+Someone left a billfold at the hallway.,REPORT_FOUND,WALLET,the hallway
+Has anyone seen a school cap?,SEARCH_ITEM,CAP,the gym
+I found a bag near the parking area.,REPORT_FOUND,BACKPACK,the parking area
+Can you help me find my cellphone? I lost it near the auditorium.,REPORT_LOST,PHONE,the auditorium
+I found someone's ID strap around the library.,REPORT_FOUND,ID_LANYARD,the library
+Where can I claim my lost item?,GENERAL_INQUIRY,NONE,NONE
+Has anyone found my charging cable?,SEARCH_ITEM,CHARGER,the canteen
+I saw a ink pen in the library.,REPORT_FOUND,PEN,the library
+There's a typing board at the parking area that someone may have lost.,REPORT_FOUND,KEYBOARD,the parking area
+I'm trying to find my book.,SEARCH_ITEM,BOOK,the library
+I'm trying to find my wireless mouse.,SEARCH_ITEM,MOUSE,the canteen
+I found a charger near the auditorium.,REPORT_FOUND,CHARGER,the auditorium
+I lost my laptop near the laboratory.,REPORT_LOST,LAPTOP,the laboratory
+I can't find my food container; I think I left it at Room 203.,REPORT_LOST,LUNCH_BOX,Room 203
+Someone left a backpack at the auditorium.,REPORT_FOUND,BACKPACK,the auditorium
+Can you help me find my school cap? I lost it near the gym.,REPORT_LOST,CAP,the gym
+Can you check if a ID strap was found?,SEARCH_ITEM,ID_LANYARD,the library
+I'm trying to find my bag.,SEARCH_ITEM,BACKPACK,the student lounge
+I'm trying to find my sunglasses.,SEARCH_ITEM,SUNGLASSES,the auditorium
+Has anyone seen my money wallet? I lost it at the auditorium.,REPORT_LOST,WALLET,the auditorium
+I found someone's shirt around the student lounge.,REPORT_FOUND,CLOTHING,the student lounge
+Did someone report a iPad?,SEARCH_ITEM,TABLET,the classroom
+There's a earbuds at the parking area that someone may have lost.,REPORT_FOUND,EARPHONES,the parking area
+I lost a student ID while I was at the cafeteria.,REPORT_LOST,STUDENT_ID,the cafeteria
+I saw a textbook in the gym.,REPORT_FOUND,BOOK,the gym
+I found a wireless earbuds on the floor near the auditorium.,REPORT_FOUND,EARPHONES,the auditorium
+I saw a school bag in the laboratory.,REPORT_FOUND,BACKPACK,the laboratory
+Can you check if a typing board was found?,SEARCH_ITEM,KEYBOARD,the parking area
+I was at Room 201 and now I can't find my spectacles.,REPORT_LOST,GLASSES,Room 201
+I lost a uniform pants while I was at Room 203.,REPORT_LOST,CLOTHING,Room 203
+There's a mobile at Room 201 that someone may have lost.,REPORT_FOUND,PHONE,Room 201
+Someone left a battery pack at the library.,REPORT_FOUND,POWER_BANK,the library
+Can you check if a pencil case was found?,SEARCH_ITEM,PENCIL_CASE,the canteen
+I want to search for my missing clothes.,SEARCH_ITEM,CLOTHING,the classroom
+Can you check if a USB was found?,SEARCH_ITEM,USB_DRIVE,the parking area
+I found someone's umbrella around Room 202.,REPORT_FOUND,UMBRELLA,Room 202
+I found a iPad near Room 202.,REPORT_FOUND,TABLET,Room 202
+I'm looking for my water bottle.,SEARCH_ITEM,WATER_BOTTLE,the canteen
+Is there a student identification in the lost and found?,SEARCH_ITEM,STUDENT_ID,the parking area
+Has anyone seen my hoodie? I lost it at the computer laboratory.,REPORT_LOST,JACKET,the computer laboratory
+I can't find my drink bottle; I think I left it at the laboratory.,REPORT_LOST,WATER_BOTTLE,the laboratory
+Is there a keys in the lost and found?,SEARCH_ITEM,KEYS,the student lounge
+I found a ruler near the hallway.,REPORT_FOUND,RULER,the hallway
+I was at Room 201 and now I can't find my USB.,REPORT_LOST,USB_DRIVE,Room 201
+My earphones is missing. I last had it near Room 203.,REPORT_LOST,EARPHONES,Room 203
+I found someone's smartphone around the computer laboratory.,REPORT_FOUND,PHONE,the computer laboratory
+There's a USB at Room 201 that someone may have lost.,REPORT_FOUND,USB_DRIVE,Room 201
+My ballpen disappeared after I went to Room 202.,REPORT_LOST,PEN,Room 202
+I found a power bank on the floor near Room 201.,REPORT_FOUND,POWER_BANK,Room 201
+Is there a school ID in the lost and found?,SEARCH_ITEM,STUDENT_ID,the parking area
+I lost my mouse near the front lobby.,REPORT_LOST,MOUSE,the front lobby
+I found a notebook on the floor near the computer laboratory.,REPORT_FOUND,NOTEBOOK,the computer laboratory
+My wallet disappeared after I went to Room 202.,REPORT_LOST,WALLET,Room 202
+I found someone's pen around Room 201.,REPORT_FOUND,PEN,Room 201
+A calculator was left behind in the hallway.,REPORT_FOUND,CALCULATOR,the hallway
+My earbuds is missing. I last had it near the hallway.,REPORT_LOST,EARPHONES,the hallway
+My pen case is missing. I last had it near Room 201.,REPORT_LOST,PENCIL_CASE,Room 201
+Has anyone seen my flask? I lost it at Room 203.,REPORT_LOST,WATER_BOTTLE,Room 203
+I lost a notebook while I was at the computer laboratory.,REPORT_LOST,NOTEBOOK,the computer laboratory
+I want to search for my missing food container.,SEARCH_ITEM,LUNCH_BOX,Room 203
+I think I lost a lunch box around the front lobby.,REPORT_LOST,LUNCH_BOX,the front lobby
+I saw a pen case in the auditorium.,REPORT_FOUND,PENCIL_CASE,the auditorium
+I found a ID strap on the floor near the computer laboratory.,REPORT_FOUND,ID_LANYARD,the computer laboratory
+Has anyone seen a charging cord?,SEARCH_ITEM,CHARGER,the parking area
+My glasses is missing. I last had it near the canteen.,REPORT_LOST,GLASSES,the canteen
+My neck strap is missing. I last had it near the computer laboratory.,REPORT_LOST,ID_LANYARD,the computer laboratory
+I picked up a measuring ruler in the auditorium.,REPORT_FOUND,RULER,the auditorium
+I misplaced my sun glasses somewhere around the library.,REPORT_LOST,SUNGLASSES,the library
+I was at Room 203 and now I can't find my scientific calculator.,REPORT_LOST,CALCULATOR,Room 203
+I'm looking for my flash drive.,SEARCH_ITEM,USB_DRIVE,the classroom
+I'm looking for my shirt.,SEARCH_ITEM,CLOTHING,the student lounge
+I picked up a tablet in the student lounge.,REPORT_FOUND,TABLET,the student lounge
+Is there a tablet computer in the lost and found?,SEARCH_ITEM,TABLET,the computer laboratory
+My phone charger disappeared after I went to the student lounge.,REPORT_LOST,CHARGER,the student lounge
+I picked up a headset in Room 202.,REPORT_FOUND,HEADPHONES,Room 202
+Has anyone seen a USB drive?,SEARCH_ITEM,USB_DRIVE,the parking area
+Someone left a cellphone at the auditorium.,REPORT_FOUND,PHONE,the auditorium
+I can't find my notebook computer; I think I left it at the auditorium.,REPORT_LOST,LAPTOP,the auditorium
+I lost a school jacket while I was at the parking area.,REPORT_LOST,JACKET,the parking area
+I picked up a notebook in the gym.,REPORT_FOUND,NOTEBOOK,the gym
+I found a lunchbox on the floor near the classroom.,REPORT_FOUND,LUNCH_BOX,the classroom
+Has anyone seen my reference book? I lost it at Room 201.,REPORT_LOST,BOOK,Room 201
+I think I lost a school book around Room 203.,REPORT_LOST,BOOK,Room 203
+I picked up a charging cord in the parking area.,REPORT_FOUND,CHARGER,the parking area
+There's a computer keyboard at Room 202 that someone may have lost.,REPORT_FOUND,KEYBOARD,Room 202
+I saw a lead pencil in the computer laboratory.,REPORT_FOUND,PENCIL,the computer laboratory
+Has anyone found my money wallet?,SEARCH_ITEM,WALLET,the auditorium
+I found someone's money wallet around the auditorium.,REPORT_FOUND,WALLET,the auditorium
+I want to search for my missing identification card.,SEARCH_ITEM,STUDENT_ID,the auditorium
+I'm trying to find my phone charger.,SEARCH_ITEM,CHARGER,the student lounge
+Is there a wireless earbuds in the lost and found?,SEARCH_ITEM,EARPHONES,the auditorium
+I'm trying to find my glasses.,SEARCH_ITEM,GLASSES,the canteen
+I saw a ID card in the laboratory.,REPORT_FOUND,STUDENT_ID,the laboratory
+I'm trying to find my cellphone.,SEARCH_ITEM,PHONE,the library
+I saw a earbuds in the hallway.,REPORT_FOUND,EARPHONES,the hallway
+I'm trying to find my keychain.,SEARCH_ITEM,KEYS,Room 201
+I misplaced my cap somewhere around the student lounge.,REPORT_LOST,CAP,the student lounge
+My textbook disappeared after I went to the hallway.,REPORT_LOST,BOOK,the hallway
+Is there a earbuds in the lost and found?,SEARCH_ITEM,EARPHONES,the hallway
+I lost my memory stick near the cafeteria.,REPORT_LOST,USB_DRIVE,the cafeteria
+I'm looking for my room keys.,SEARCH_ITEM,KEYS,Room 202
+Can you help me find my charging cord? I lost it near the library.,REPORT_LOST,CHARGER,the library
+I'm trying to find my mechanical pencil.,SEARCH_ITEM,PENCIL,the laboratory
+I picked up a keychain in Room 202.,REPORT_FOUND,KEYS,Room 202
+I can't find my laptop; I think I left it at the canteen.,REPORT_LOST,LAPTOP,the canteen
+I saw a lunch box in Room 202.,REPORT_FOUND,LUNCH_BOX,Room 202
+I misplaced my book somewhere around Room 202.,REPORT_LOST,BOOK,Room 202
+I lost my lead pencil near the computer laboratory.,REPORT_LOST,PENCIL,the computer laboratory
+Has anyone seen a student identification?,SEARCH_ITEM,STUDENT_ID,the student lounge
+I can't find my mobile; I think I left it at Room 201.,REPORT_LOST,PHONE,Room 201
+I found someone's pencil pouch around the library.,REPORT_FOUND,PENCIL_CASE,the library
+Has anyone found my notebook?,SEARCH_ITEM,NOTEBOOK,the gym
+There's a earphones at Room 203 that someone may have lost.,REPORT_FOUND,EARPHONES,Room 203
+I think I lost a flash drive around the classroom.,REPORT_LOST,USB_DRIVE,the classroom
+Has anyone seen a flask?,SEARCH_ITEM,WATER_BOTTLE,the hallway
+I found someone's flask around the hallway.,REPORT_FOUND,WATER_BOTTLE,the hallway
+My ID strap is missing. I last had it near the computer laboratory.,REPORT_LOST,ID_LANYARD,the computer laboratory
+There's a computer keyboard at the front lobby that someone may have lost.,REPORT_FOUND,KEYBOARD,the front lobby
+I was at the hallway and now I can't find my ruler.,REPORT_LOST,RULER,the hallway
+Is there a book in the lost and found?,SEARCH_ITEM,BOOK,Room 202
+I'm trying to find my school backpack.,SEARCH_ITEM,BACKPACK,the classroom
+Someone left a ballpen at Room 202.,REPORT_FOUND,PEN,Room 202
+I lost my cellphone near the library.,REPORT_LOST,PHONE,the library
+Is there a smartphone in the lost and found?,SEARCH_ITEM,PHONE,the laboratory
+I saw a glasses in the canteen.,REPORT_FOUND,GLASSES,the canteen
+I found a folder on the floor near the canteen.,REPORT_FOUND,FOLDER,the canteen
+Has anyone seen a uniform pants?,SEARCH_ITEM,CLOTHING,Room 203
+Is there a pencil pouch in the lost and found?,SEARCH_ITEM,PENCIL_CASE,the auditorium
+I found a laptop on the floor near the canteen.,REPORT_FOUND,LAPTOP,the canteen
+My pencil pouch is missing. I last had it near the library.,REPORT_LOST,PENCIL_CASE,the library
+Has anyone found my in-ear headphones?,SEARCH_ITEM,EARPHONES,the hallway
+A lunchbox was left behind in the front lobby.,REPORT_FOUND,LUNCH_BOX,the front lobby
+I think I lost a headset around Room 202.,REPORT_LOST,HEADPHONES,Room 202
+Can you help me find my battery pack? I lost it near the library.,REPORT_LOST,POWER_BANK,the library
+I'm looking for my portable charger.,SEARCH_ITEM,POWER_BANK,the canteen
+I can't find my school backpack; I think I left it at Room 201.,REPORT_LOST,BACKPACK,Room 201
+I found a notebook computer on the floor near Room 203.,REPORT_FOUND,LAPTOP,Room 203
+I lost my backpack near the parking area.,REPORT_LOST,BACKPACK,the parking area
+Can you check if a house keys was found?,SEARCH_ITEM,KEYS,the canteen
+I can't find my room keys; I think I left it at Room 202.,REPORT_LOST,KEYS,Room 202
+Has anyone seen my lanyard? I lost it at the auditorium.,REPORT_LOST,ID_LANYARD,the auditorium
+Has anyone found my mobile?,SEARCH_ITEM,PHONE,the front lobby
+There's a USB charger at the computer laboratory that someone may have lost.,REPORT_FOUND,CHARGER,the computer laboratory
+I lost a keys while I was at the student lounge.,REPORT_LOST,KEYS,the student lounge
+I misplaced my journal notebook somewhere around the computer laboratory.,REPORT_LOST,NOTEBOOK,the computer laboratory
+I found a charging cord near the library.,REPORT_FOUND,CHARGER,the library
+I found someone's neck strap around the student lounge.,REPORT_FOUND,ID_LANYARD,the student lounge
+I lost a wireless mouse while I was at the canteen.,REPORT_LOST,MOUSE,the canteen
+I picked up a identification card in the cafeteria.,REPORT_FOUND,STUDENT_ID,the cafeteria
+Has anyone seen my document folder? I lost it at the gym.,REPORT_LOST,FOLDER,the gym
+I misplaced my notebook computer somewhere around Room 203.,REPORT_LOST,LAPTOP,Room 203
+Can you help me find my clothes? I lost it near the classroom.,REPORT_LOST,CLOTHING,the classroom
+Has anyone seen my ID card? I lost it at the front lobby.,REPORT_LOST,STUDENT_ID,the front lobby
+Can you check if a textbook was found?,SEARCH_ITEM,BOOK,the hallway
+I lost a notebook while I was at the gym.,REPORT_LOST,NOTEBOOK,the gym
+I want to search for my missing school cap.,SEARCH_ITEM,CAP,the auditorium
+I misplaced my power bank somewhere around the library.,REPORT_LOST,POWER_BANK,the library
+Can you help me find my mobile phone? I lost it near the student lounge.,REPORT_LOST,PHONE,the student lounge
+I can't find my flash drive; I think I left it at Room 202.,REPORT_LOST,USB_DRIVE,Room 202
+I found a ruler near the parking area.,REPORT_FOUND,RULER,the parking area
+I want to search for my missing headset.,SEARCH_ITEM,HEADPHONES,Room 202
+My headphones disappeared after I went to the parking area.,REPORT_LOST,HEADPHONES,the parking area
+Did someone report a laptop?,SEARCH_ITEM,LAPTOP,the laboratory
+Someone left a watch at the auditorium.,REPORT_FOUND,WATCH,the auditorium
+I'm looking for my tablet computer.,SEARCH_ITEM,TABLET,the parking area
+I lost my sun glasses near Room 201.,REPORT_LOST,SUNGLASSES,Room 201
+I found someone's house keys around the canteen.,REPORT_FOUND,KEYS,the canteen
+Someone left a wallet at the student lounge.,REPORT_FOUND,WALLET,the student lounge
+I found someone's headset around the classroom.,REPORT_FOUND,HEADPHONES,the classroom
+My phone is missing. I last had it near the auditorium.,REPORT_LOST,PHONE,the auditorium
+How do I report a lost item?,GENERAL_INQUIRY,NONE,NONE
+I saw a thumb drive in the student lounge.,REPORT_FOUND,USB_DRIVE,the student lounge
+What should I do if I find someone's belongings?,GENERAL_INQUIRY,NONE,NONE
+I think I lost a sweater around Room 202.,REPORT_LOST,JACKET,Room 202
+There's a tablet computer at the parking area that someone may have lost.,REPORT_FOUND,TABLET,the parking area
+Has anyone seen my headphones? I lost it at the gym.,REPORT_LOST,HEADPHONES,the gym
+A document folder was left behind in the cafeteria.,REPORT_FOUND,FOLDER,the cafeteria
+I misplaced my pants somewhere around the hallway.,REPORT_LOST,CLOTHING,the hallway
+My ink pen disappeared after I went to Room 203.,REPORT_LOST,PEN,Room 203
+I'm trying to find my mouse.,SEARCH_ITEM,MOUSE,the library
+Can you help me find my school notebook? I lost it near Room 201.,REPORT_LOST,NOTEBOOK,Room 201
+A school cap was left behind in the gym.,REPORT_FOUND,CAP,the gym
+I want to search for my missing sun glasses.,SEARCH_ITEM,SUNGLASSES,the library
+I found a tumbler on the floor near the canteen.,REPORT_FOUND,WATER_BOTTLE,the canteen
+My memory stick disappeared after I went to the classroom.,REPORT_LOST,USB_DRIVE,the classroom
+I want to search for my missing lead pencil.,SEARCH_ITEM,PENCIL,the auditorium
+Has anyone seen a money wallet?,SEARCH_ITEM,WALLET,the classroom
+I found someone's flash drive around Room 202.,REPORT_FOUND,USB_DRIVE,Room 202
+There's a portable charger at the canteen that someone may have lost.,REPORT_FOUND,POWER_BANK,the canteen
+How can I report something I found?,GENERAL_INQUIRY,NONE,NONE
+I picked up a room keys in the student lounge.,REPORT_FOUND,KEYS,the student lounge
+There's a iPad at the classroom that someone may have lost.,REPORT_FOUND,TABLET,the classroom
+I found a umbrella on the floor near Room 202.,REPORT_FOUND,UMBRELLA,Room 202
+I misplaced my lunchbox somewhere around the classroom.,REPORT_LOST,LUNCH_BOX,the classroom
+I'm trying to find my school book.,SEARCH_ITEM,BOOK,Room 203
+I was at the hallway and now I can't find my school jacket.,REPORT_LOST,JACKET,the hallway
+I want to search for my missing cap.,SEARCH_ITEM,CAP,the student lounge
+I picked up a sunglasses in the auditorium.,REPORT_FOUND,SUNGLASSES,the auditorium
+I think I lost a lanyard around the student lounge.,REPORT_LOST,ID_LANYARD,the student lounge
+I'm looking for my sweater.,SEARCH_ITEM,JACKET,Room 202
+Is there a clothes in the lost and found?,SEARCH_ITEM,CLOTHING,the front lobby
+I found someone's computer mouse around the gym.,REPORT_FOUND,MOUSE,the gym
+I lost a typing device while I was at the cafeteria.,REPORT_LOST,KEYBOARD,the cafeteria
+A school cap was left behind in the auditorium.,REPORT_FOUND,CAP,the auditorium
+I can't find my glasses; I think I left it at the cafeteria.,REPORT_LOST,GLASSES,the cafeteria
+Has anyone seen a USB charger?,SEARCH_ITEM,CHARGER,the computer laboratory
+There's a ballpen at the front lobby that someone may have lost.,REPORT_FOUND,PEN,the front lobby
+Did someone report a ID lace?,SEARCH_ITEM,ID_LANYARD,Room 203
+I found someone's clothes around the front lobby.,REPORT_FOUND,CLOTHING,the front lobby
+Is there a calculator in the lost and found?,SEARCH_ITEM,CALCULATOR,the hallway
+I think I lost a ID lace around the parking area.,REPORT_LOST,ID_LANYARD,the parking area
+My mouse is missing. I last had it near the library.,REPORT_LOST,MOUSE,the library
+I'm trying to find my computer keyboard.,SEARCH_ITEM,KEYBOARD,Room 202
+Has anyone seen my pen? I lost it at the auditorium.,REPORT_LOST,PEN,the auditorium
+I'm looking for my smartphone.,SEARCH_ITEM,PHONE,the computer laboratory
+I found someone's charging cable around Room 203.,REPORT_FOUND,CHARGER,Room 203
+Someone left a keychain at Room 201.,REPORT_FOUND,KEYS,Room 201
+Can you help me find my mobile phone? I lost it near the canteen.,REPORT_LOST,PHONE,the canteen
+Is there a pen case in the lost and found?,SEARCH_ITEM,PENCIL_CASE,the auditorium
+Is there a mobile in the lost and found?,SEARCH_ITEM,PHONE,Room 201
+I found a sun glasses on the floor near the library.,REPORT_FOUND,SUNGLASSES,the library
+I found a phone charger on the floor near the canteen.,REPORT_FOUND,CHARGER,the canteen
+I want to search for my missing uniform shirt.,SEARCH_ITEM,CLOTHING,the hallway
+I can't find my folder; I think I left it at the canteen.,REPORT_LOST,FOLDER,the canteen
+My USB is missing. I last had it near the parking area.,REPORT_LOST,USB_DRIVE,the parking area
+A pencil case was left behind in the canteen.,REPORT_FOUND,PENCIL_CASE,the canteen
+I saw a ball pen in the cafeteria.,REPORT_FOUND,PEN,the cafeteria
+I found someone's memory stick around the cafeteria.,REPORT_FOUND,USB_DRIVE,the cafeteria
+I saw a wireless mouse in the canteen.,REPORT_FOUND,MOUSE,the canteen
+Can you check if a typing device was found?,SEARCH_ITEM,KEYBOARD,the cafeteria
+Has anyone found my ruler?,SEARCH_ITEM,RULER,the hallway
+Did someone report a bag?,SEARCH_ITEM,BACKPACK,the parking area
+Someone left a tablet computer at the computer laboratory.,REPORT_FOUND,TABLET,the computer laboratory
+I misplaced my school book somewhere around Room 203.,REPORT_LOST,BOOK,Room 203
+I want to search for my missing charging cable.,SEARCH_ITEM,CHARGER,Room 203
+Can you help me find my keys? I lost it near the student lounge.,REPORT_LOST,KEYS,the student lounge
+I saw a student ID in the cafeteria.,REPORT_FOUND,STUDENT_ID,the cafeteria
+I found a ink pen on the floor near Room 203.,REPORT_FOUND,PEN,Room 203
+My in-ear headphones is missing. I last had it near the parking area.,REPORT_LOST,EARPHONES,the parking area
+Can you help me find my school bag? I lost it near the laboratory.,REPORT_LOST,BACKPACK,the laboratory
+I was at the computer laboratory and now I can't find my smartphone.,REPORT_LOST,PHONE,the computer laboratory
+I misplaced my baseball cap somewhere around the canteen.,REPORT_LOST,CAP,the canteen
+Has anyone seen a scientific calculator?,SEARCH_ITEM,CALCULATOR,Room 203
+Someone left a USB drive at the parking area.,REPORT_FOUND,USB_DRIVE,the parking area
+I lost a smartwatch while I was at Room 203.,REPORT_LOST,WATCH,Room 203
+I found someone's uniform shirt around the gym.,REPORT_FOUND,CLOTHING,the gym
+I want to search for my missing power bank.,SEARCH_ITEM,POWER_BANK,the library
+Can you help me find my rain umbrella? I lost it near the student lounge.,REPORT_LOST,UMBRELLA,the student lounge
+Has anyone seen a eyeglasses?,SEARCH_ITEM,GLASSES,the parking area
+I found a reference book near Room 203.,REPORT_FOUND,BOOK,Room 203
+Can you check if a notebook computer was found?,SEARCH_ITEM,LAPTOP,Room 203
+Has anyone seen my charging cord? I lost it at the parking area.,REPORT_LOST,CHARGER,the parking area
+There's a pencil case at the classroom that someone may have lost.,REPORT_FOUND,PENCIL_CASE,the classroom
+I lost my flask near the hallway.,REPORT_LOST,WATER_BOTTLE,the hallway
+A hoodie was left behind in the computer laboratory.,REPORT_FOUND,JACKET,the computer laboratory
+My uniform pants is missing. I last had it near Room 202.,REPORT_LOST,CLOTHING,Room 202
+My drink bottle disappeared after I went to the laboratory.,REPORT_LOST,WATER_BOTTLE,the laboratory
+Has anyone found my phone?,SEARCH_ITEM,PHONE,the canteen
+Someone left a money wallet at the classroom.,REPORT_FOUND,WALLET,the classroom
+I'm trying to find my sweater.,SEARCH_ITEM,JACKET,the gym
+I lost a eyeglasses while I was at the parking area.,REPORT_LOST,GLASSES,the parking area
+I'm looking for my lunchbox.,SEARCH_ITEM,LUNCH_BOX,the front lobby
+I saw a mobile phone in the student lounge.,REPORT_FOUND,PHONE,the student lounge
+A card wallet was left behind in Room 201.,REPORT_FOUND,WALLET,Room 201
+I saw a pants in the computer laboratory.,REPORT_FOUND,CLOTHING,the computer laboratory
+I found someone's lanyard around the auditorium.,REPORT_FOUND,ID_LANYARD,the auditorium
+Has anyone seen my phone? I lost it at the canteen.,REPORT_LOST,PHONE,the canteen
+Has anyone seen a pencil?,SEARCH_ITEM,PENCIL,the parking area
+I found someone's eyeglasses around the parking area.,REPORT_FOUND,GLASSES,the parking area
+Has anyone found my calculator?,SEARCH_ITEM,CALCULATOR,the hallway
+Has anyone seen my school bag? I lost it at the parking area.,REPORT_LOST,BACKPACK,the parking area
+I found a pants on the floor near the hallway.,REPORT_FOUND,CLOTHING,the hallway
+I misplaced my bag somewhere around the parking area.,REPORT_LOST,BACKPACK,the parking area
+I lost a document folder while I was at the cafeteria.,REPORT_LOST,FOLDER,the cafeteria
+I was at the hallway and now I can't find my in-ear headphones.,REPORT_LOST,EARPHONES,the hallway
+My mobile is missing. I last had it near the front lobby.,REPORT_LOST,PHONE,the front lobby
+Can you check if a baseball cap was found?,SEARCH_ITEM,CAP,the laboratory
+I lost a thumb drive while I was at the student lounge.,REPORT_LOST,USB_DRIVE,the student lounge
+My card wallet disappeared after I went to Room 202.,REPORT_LOST,WALLET,Room 202
+Has anyone seen my spiral notebook? I lost it at the library.,REPORT_LOST,NOTEBOOK,the library
+I found someone's headphones around the gym.,REPORT_FOUND,HEADPHONES,the gym
+Is there a billfold in the lost and found?,SEARCH_ITEM,WALLET,the front lobby
+I saw a wireless mouse in the front lobby.,REPORT_FOUND,MOUSE,the front lobby
+Can you help me find my headset? I lost it near the classroom.,REPORT_LOST,HEADPHONES,the classroom
+Did someone report a uniform shirt?,SEARCH_ITEM,CLOTHING,the gym
+Did someone report a journal notebook?,SEARCH_ITEM,NOTEBOOK,the computer laboratory
+I found a charging cable on the floor near the canteen.,REPORT_FOUND,CHARGER,the canteen
+I'm looking for my watch.,SEARCH_ITEM,WATCH,the auditorium
+Someone left a smartwatch at Room 203.,REPORT_FOUND,WATCH,Room 203
+I think I lost a portable charger around the canteen.,REPORT_LOST,POWER_BANK,the canteen
+I found a lanyard on the floor near the student lounge.,REPORT_FOUND,ID_LANYARD,the student lounge
+I lost a cap while I was at the student lounge.,REPORT_LOST,CAP,the student lounge
+My pants disappeared after I went to the computer laboratory.,REPORT_LOST,CLOTHING,the computer laboratory
+Someone left a smartwatch at Room 201.,REPORT_FOUND,WATCH,Room 201
+Can you check if a ID card was found?,SEARCH_ITEM,STUDENT_ID,the laboratory
+Has anyone seen my ink pen? I lost it at the library.,REPORT_LOST,PEN,the library
+Has anyone seen my phone charger? I lost it at the canteen.,REPORT_LOST,CHARGER,the canteen
+I was at the parking area and now I can't find my pencil.,REPORT_LOST,PENCIL,the parking area
+My charger is missing. I last had it near the auditorium.,REPORT_LOST,CHARGER,the auditorium
+I saw a pencil pouch in the auditorium.,REPORT_FOUND,PENCIL_CASE,the auditorium
+Did someone report a power bank?,SEARCH_ITEM,POWER_BANK,Room 201
+I found someone's measuring ruler around the cafeteria.,REPORT_FOUND,RULER,the cafeteria
+I found a spiral notebook on the floor near the library.,REPORT_FOUND,NOTEBOOK,the library
+I saw a file folder in the hallway.,REPORT_FOUND,FOLDER,the hallway
+There's a ID lace at Room 203 that someone may have lost.,REPORT_FOUND,ID_LANYARD,Room 203
+I picked up a computer mouse in the canteen.,REPORT_FOUND,MOUSE,the canteen
+I lost my pencil near the computer laboratory.,REPORT_LOST,PENCIL,the computer laboratory
+I misplaced my lead pencil somewhere around the auditorium.,REPORT_LOST,PENCIL,the auditorium
+Someone left a in-ear headphones at the hallway.,REPORT_FOUND,EARPHONES,the hallway
+Has anyone found my smartwatch?,SEARCH_ITEM,WATCH,Room 201
+A keys was left behind in the student lounge.,REPORT_FOUND,KEYS,the student lounge
+I think I lost a tablet around the student lounge.,REPORT_LOST,TABLET,the student lounge
+Someone left a jacket at the classroom.,REPORT_FOUND,JACKET,the classroom
+I think I lost a identification card around the cafeteria.,REPORT_LOST,STUDENT_ID,the cafeteria
+I think I lost a tablet computer around the parking area.,REPORT_LOST,TABLET,the parking area
+Has anyone found my pants?,SEARCH_ITEM,CLOTHING,the hallway
+Someone left a keyboard at the canteen.,REPORT_FOUND,KEYBOARD,the canteen
+I picked up a uniform pants in Room 202.,REPORT_FOUND,CLOTHING,Room 202
+Can you help me find my computer mouse? I lost it near the canteen.,REPORT_LOST,MOUSE,the canteen
+Has anyone seen a ball pen?,SEARCH_ITEM,PEN,the student lounge
+Has anyone seen a neck strap?,SEARCH_ITEM,ID_LANYARD,the computer laboratory
+I'm trying to find my earphones.,SEARCH_ITEM,EARPHONES,the front lobby
+I found a rain umbrella near the student lounge.,REPORT_FOUND,UMBRELLA,the student lounge
+I found a rain umbrella on the floor near Room 201.,REPORT_FOUND,UMBRELLA,Room 201
+Has anyone seen a ruler?,SEARCH_ITEM,RULER,the parking area
+Has anyone seen my sweater? I lost it at the gym.,REPORT_LOST,JACKET,the gym
+Has anyone seen a cellphone?,SEARCH_ITEM,PHONE,the auditorium
+Can you help me find my lunchbox? I lost it near the front lobby.,REPORT_LOST,LUNCH_BOX,the front lobby
+I found someone's billfold around the front lobby.,REPORT_FOUND,WALLET,the front lobby
+I lost my computer keyboard near Room 202.,REPORT_LOST,KEYBOARD,Room 202
+Can you check if a USB drive was found?,SEARCH_ITEM,USB_DRIVE,the canteen
+Has anyone seen my pen case? I lost it at the auditorium.,REPORT_LOST,PENCIL_CASE,the auditorium
+I found a food container on the floor near Room 203.,REPORT_FOUND,LUNCH_BOX,Room 203
+Has anyone seen my jacket? I lost it at the classroom.,REPORT_LOST,JACKET,the classroom
+There's a journal notebook at the computer laboratory that someone may have lost.,REPORT_FOUND,NOTEBOOK,the computer laboratory
+Can you help me find my school ID? I lost it near the parking area.,REPORT_LOST,STUDENT_ID,the parking area
+Is there a iPad in the lost and found?,SEARCH_ITEM,TABLET,Room 202
+I'm looking for my rain umbrella.,SEARCH_ITEM,UMBRELLA,Room 201
+Has anyone seen my house keys? I lost it at the front lobby.,REPORT_LOST,KEYS,the front lobby
+My water bottle is missing. I last had it near the canteen.,REPORT_LOST,WATER_BOTTLE,the canteen
+Did someone report a flash drive?,SEARCH_ITEM,USB_DRIVE,Room 202
+Did someone report a sunglasses?,SEARCH_ITEM,SUNGLASSES,the cafeteria
+I lost a pencil case while I was at the canteen.,REPORT_LOST,PENCIL_CASE,the canteen
+Can you check if a pencil was found?,SEARCH_ITEM,PENCIL,the computer laboratory
+I want to search for my missing computer mouse.,SEARCH_ITEM,MOUSE,the gym
+I misplaced my measuring ruler somewhere around the auditorium.,REPORT_LOST,RULER,the auditorium
+My thumb drive is missing. I last had it near the front lobby.,REPORT_LOST,USB_DRIVE,the front lobby
+Has anyone found my glasses?,SEARCH_ITEM,GLASSES,the cafeteria
+I found someone's school notebook around the classroom.,REPORT_FOUND,NOTEBOOK,the classroom
+Has anyone found my spectacles?,SEARCH_ITEM,GLASSES,Room 201
+Has anyone seen my billfold? I lost it at the hallway.,REPORT_LOST,WALLET,the hallway
+I was at the gym and now I can't find my typing device.,REPORT_LOST,KEYBOARD,the gym
+Is there a lead pencil in the lost and found?,SEARCH_ITEM,PENCIL,the computer laboratory
+I saw a mechanical pencil in the laboratory.,REPORT_FOUND,PENCIL,the laboratory
+I found someone's pen case around Room 201.,REPORT_FOUND,PENCIL_CASE,Room 201
+I found a portable charger near the hallway.,REPORT_FOUND,POWER_BANK,the hallway
+I'm trying to find my notebook.,SEARCH_ITEM,NOTEBOOK,the computer laboratory
+I found a water bottle near the canteen.,REPORT_FOUND,WATER_BOTTLE,the canteen
+A mouse was left behind in the front lobby.,REPORT_FOUND,MOUSE,the front lobby
+Can I check the lost and found records?,GENERAL_INQUIRY,NONE,NONE
+My food container disappeared after I went to Room 203.,REPORT_LOST,LUNCH_BOX,Room 203
+I found someone's mechanical pencil around the computer laboratory.,REPORT_FOUND,PENCIL,the computer laboratory
+I misplaced my umbrella somewhere around Room 202.,REPORT_LOST,UMBRELLA,Room 202
+There's a spectacles at the laboratory that someone may have lost.,REPORT_FOUND,GLASSES,the laboratory
+Has anyone found my mouse?,SEARCH_ITEM,MOUSE,the front lobby
+Someone left a baseball cap at the laboratory.,REPORT_FOUND,CAP,the laboratory
+Is there a reference book in the lost and found?,SEARCH_ITEM,BOOK,Room 201
+Can you check if a scientific calculator was found?,SEARCH_ITEM,CALCULATOR,the parking area
+I'm trying to find my lanyard.,SEARCH_ITEM,ID_LANYARD,the auditorium
+Did someone report a keyboard?,SEARCH_ITEM,KEYBOARD,the student lounge
+I lost a uniform shirt while I was at the gym.,REPORT_LOST,CLOTHING,the gym
+Someone left a portable computer at the gym.,REPORT_FOUND,LAPTOP,the gym
+I found a mouse near the library.,REPORT_FOUND,MOUSE,the library
+I'm looking for my headset.,SEARCH_ITEM,HEADPHONES,the classroom
+Can you check if a ballpen was found?,SEARCH_ITEM,PEN,the front lobby
+Is there a lunch box in the lost and found?,SEARCH_ITEM,LUNCH_BOX,Room 202
+Can you check if a portable computer was found?,SEARCH_ITEM,LAPTOP,the gym
+I lost my folder near the auditorium.,REPORT_LOST,FOLDER,the auditorium
+There's a scientific calculator at the parking area that someone may have lost.,REPORT_FOUND,CALCULATOR,the parking area
+Is there a backpack in the lost and found?,SEARCH_ITEM,BACKPACK,the auditorium
+Has anyone seen a school backpack?,SEARCH_ITEM,BACKPACK,Room 201
+I lost my USB drive near the parking area.,REPORT_LOST,USB_DRIVE,the parking area
+Did someone report a ball pen?,SEARCH_ITEM,PEN,the cafeteria
+Someone left a keyboard at the student lounge.,REPORT_FOUND,KEYBOARD,the student lounge
+I lost a USB charger while I was at the computer laboratory.,REPORT_LOST,CHARGER,the computer laboratory
+Did someone report a battery pack?,SEARCH_ITEM,POWER_BANK,the library
+Has anyone seen a measuring ruler?,SEARCH_ITEM,RULER,the cafeteria
+I was at the parking area and now I can't find my scientific calculator.,REPORT_LOST,CALCULATOR,the parking area
+I picked up a USB in the parking area.,REPORT_FOUND,USB_DRIVE,the parking area
+I misplaced my mechanical pencil somewhere around the laboratory.,REPORT_LOST,PENCIL,the laboratory
+Can you help me find my portable charger? I lost it near the hallway.,REPORT_LOST,POWER_BANK,the hallway
+Can you check if a keys was found?,SEARCH_ITEM,KEYS,the student lounge
+Can you help me find my room keys? I lost it near the student lounge.,REPORT_LOST,KEYS,the student lounge
+I can't find my charging cable; I think I left it at Room 203.,REPORT_LOST,CHARGER,Room 203
+I found a spectacles near Room 201.,REPORT_FOUND,GLASSES,Room 201
+Is there a jacket in the lost and found?,SEARCH_ITEM,JACKET,the computer laboratory
+I picked up a typing device in the cafeteria.,REPORT_FOUND,KEYBOARD,the cafeteria
+Someone left a ball pen at the student lounge.,REPORT_FOUND,PEN,the student lounge
+Has anyone seen my keychain? I lost it at Room 201.,REPORT_LOST,KEYS,Room 201
+I found a cap on the floor near the student lounge.,REPORT_FOUND,CAP,the student lounge
+I found a in-ear headphones near the parking area.,REPORT_FOUND,EARPHONES,the parking area
+I lost a house keys while I was at the canteen.,REPORT_LOST,KEYS,the canteen
+Can you check if a school book was found?,SEARCH_ITEM,BOOK,Room 203
+My student ID is missing. I last had it near the student lounge.,REPORT_LOST,STUDENT_ID,the student lounge
+I think I lost a wireless earbuds around the auditorium.,REPORT_LOST,EARPHONES,the auditorium
+I'm trying to find my typing device.,SEARCH_ITEM,KEYBOARD,the gym
+Can you check if a sun glasses was found?,SEARCH_ITEM,SUNGLASSES,Room 201
+I want to search for my missing school jacket.,SEARCH_ITEM,JACKET,the parking area
+I lost my USB charger near the parking area.,REPORT_LOST,CHARGER,the parking area
+Has anyone found my lanyard?,SEARCH_ITEM,ID_LANYARD,the student lounge
+Has anyone seen my umbrella? I lost it at Room 202.,REPORT_LOST,UMBRELLA,Room 202
+I saw a school jacket in the hallway.,REPORT_FOUND,JACKET,the hallway
+I can't find my tablet; I think I left it at Room 203.,REPORT_LOST,TABLET,Room 203
+I lost my uniform shirt near the hallway.,REPORT_LOST,CLOTHING,the hallway
+I found a file folder on the floor near the parking area.,REPORT_FOUND,FOLDER,the parking area
+Is there a pants in the lost and found?,SEARCH_ITEM,CLOTHING,the computer laboratory
+I lost my school backpack near the classroom.,REPORT_LOST,BACKPACK,the classroom
+I picked up a thumb drive in the front lobby.,REPORT_FOUND,USB_DRIVE,the front lobby
+There's a card wallet at Room 202 that someone may have lost.,REPORT_FOUND,WALLET,Room 202
+Is there a umbrella in the lost and found?,SEARCH_ITEM,UMBRELLA,Room 202
+Can you check if a jacket was found?,SEARCH_ITEM,JACKET,the classroom
+I'm trying to find my cap.,SEARCH_ITEM,CAP,the student lounge
+I lost my tablet computer near the computer laboratory.,REPORT_LOST,TABLET,the computer laboratory
+Has anyone found my charging cord?,SEARCH_ITEM,CHARGER,the library
+Someone left a headphones at the parking area.,REPORT_FOUND,HEADPHONES,the parking area
+I found someone's glasses around the cafeteria.,REPORT_FOUND,GLASSES,the cafeteria
+Has anyone seen a folder?,SEARCH_ITEM,FOLDER,the auditorium
+I'm trying to find my headphones.,SEARCH_ITEM,HEADPHONES,the parking area
+I was at the auditorium and now I can't find my school cap.,REPORT_LOST,CAP,the auditorium
+I misplaced my calculator somewhere around the hallway.,REPORT_LOST,CALCULATOR,the hallway
+I found a pencil near the parking area.,REPORT_FOUND,PENCIL,the parking area
+My sunglasses is missing. I last had it near the auditorium.,REPORT_LOST,SUNGLASSES,the auditorium
+Has anyone seen my school notebook? I lost it at the classroom.,REPORT_LOST,NOTEBOOK,the classroom
+I found a flash drive near the classroom.,REPORT_FOUND,USB_DRIVE,the classroom
+Did someone report a school bag?,SEARCH_ITEM,BACKPACK,the laboratory
+I'm looking for my folder.,SEARCH_ITEM,FOLDER,the canteen
+I want to search for my missing file folder.,SEARCH_ITEM,FOLDER,the hallway
+I want to search for my missing in-ear headphones.,SEARCH_ITEM,EARPHONES,the parking area
+I found a shirt near the front lobby.,REPORT_FOUND,CLOTHING,the front lobby
+My keychain is missing. I last had it near Room 202.,REPORT_LOST,KEYS,Room 202
+I'm trying to find my flask.,SEARCH_ITEM,WATER_BOTTLE,Room 203
+I saw a reference book in Room 201.,REPORT_FOUND,BOOK,Room 201
+Did someone report a hoodie?,SEARCH_ITEM,JACKET,the library
+My clothes disappeared after I went to the front lobby.,REPORT_LOST,CLOTHING,the front lobby
+I picked up a ID lace in the parking area.,REPORT_FOUND,ID_LANYARD,the parking area
+Has anyone seen my shirt? I lost it at the front lobby.,REPORT_LOST,CLOTHING,the front lobby
+Has anyone found my laptop?,SEARCH_ITEM,LAPTOP,the canteen
+Has anyone found my over-ear headphones?,SEARCH_ITEM,HEADPHONES,the auditorium
+I misplaced my charger somewhere around Room 203.,REPORT_LOST,CHARGER,Room 203
+There's a baseball cap at the canteen that someone may have lost.,REPORT_FOUND,CAP,the canteen
+Can you help me find my billfold? I lost it near the front lobby.,REPORT_LOST,WALLET,the front lobby
+Did someone report a phone charger?,SEARCH_ITEM,CHARGER,the canteen
+Has anyone found my ID lace?,SEARCH_ITEM,ID_LANYARD,the parking area
+Did someone report a watch?,SEARCH_ITEM,WATCH,the library
+I found a neck strap near the computer laboratory.,REPORT_FOUND,ID_LANYARD,the computer laboratory
+I lost my portable computer near the gym.,REPORT_LOST,LAPTOP,the gym
+Can you help me find my over-ear headphones? I lost it near the auditorium.,REPORT_LOST,HEADPHONES,the auditorium
+I found a tumbler on the floor near the hallway.,REPORT_FOUND,WATER_BOTTLE,the hallway
+Can you help me find my eyeglasses? I lost it near the laboratory.,REPORT_LOST,GLASSES,the laboratory
+Someone left a earphones at the front lobby.,REPORT_FOUND,EARPHONES,the front lobby
+I think I lost a ballpen around the front lobby.,REPORT_LOST,PEN,the front lobby
+Did someone report a ballpen?,SEARCH_ITEM,PEN,Room 202
+I lost a watch while I was at the auditorium.,REPORT_LOST,WATCH,the auditorium
+I saw a wireless earbuds in the canteen.,REPORT_FOUND,EARPHONES,the canteen
+I picked up a phone in the canteen.,REPORT_FOUND,PHONE,the canteen
+Can you check if a spectacles was found?,SEARCH_ITEM,GLASSES,the laboratory
+I found someone's house keys around the front lobby.,REPORT_FOUND,KEYS,the front lobby
+My portable computer disappeared after I went to the laboratory.,REPORT_LOST,LAPTOP,the laboratory
+Has anyone seen a ink pen?,SEARCH_ITEM,PEN,Room 203
+Is there a school jacket in the lost and found?,SEARCH_ITEM,JACKET,the hallway
+I lost a card wallet while I was at Room 201.,REPORT_LOST,WALLET,Room 201
+I lost a wallet while I was at the student lounge.,REPORT_LOST,WALLET,the student lounge
+I lost my battery pack near the library.,REPORT_LOST,POWER_BANK,the library
+I found a typing board on the floor near Room 203.,REPORT_FOUND,KEYBOARD,Room 203
+I saw a mobile in the front lobby.,REPORT_FOUND,PHONE,the front lobby
+I want to search for my missing eyeglasses.,SEARCH_ITEM,GLASSES,the laboratory
+Did someone report a headphones?,SEARCH_ITEM,HEADPHONES,the gym
+I found someone's food container around Room 203.,REPORT_FOUND,LUNCH_BOX,Room 203
+Someone left a document folder at the gym.,REPORT_FOUND,FOLDER,the gym
+My bag disappeared after I went to the student lounge.,REPORT_LOST,BACKPACK,the student lounge
+Has anyone seen my mechanical pencil? I lost it at the computer laboratory.,REPORT_LOST,PENCIL,the computer laboratory
+I found someone's pen around the auditorium.,REPORT_FOUND,PEN,the auditorium
+There's a school jacket at the parking area that someone may have lost.,REPORT_FOUND,JACKET,the parking area
+Has anyone found my computer keyboard?,SEARCH_ITEM,KEYBOARD,the front lobby
+I lost my school ID near the classroom.,REPORT_LOST,STUDENT_ID,the classroom
+Someone left a flask at Room 203.,REPORT_FOUND,WATER_BOTTLE,Room 203
+I saw a typing device in the gym.,REPORT_FOUND,KEYBOARD,the gym
+Is there a uniform pants in the lost and found?,SEARCH_ITEM,CLOTHING,Room 202
+I lost my baseball cap near the laboratory.,REPORT_LOST,CAP,the laboratory
+I'm looking for my school ID.,SEARCH_ITEM,STUDENT_ID,the classroom
+I'm trying to find my mobile phone.,SEARCH_ITEM,PHONE,the canteen
+My wireless mouse is missing. I last had it near the front lobby.,REPORT_LOST,MOUSE,the front lobby
+I'm looking for my billfold.,SEARCH_ITEM,WALLET,the hallway
+I found someone's jacket around the computer laboratory.,REPORT_FOUND,JACKET,the computer laboratory
+I want to search for my missing document folder.,SEARCH_ITEM,FOLDER,the gym
+I picked up a USB charger in the parking area.,REPORT_FOUND,CHARGER,the parking area
+I think I lost a wireless earbuds around the canteen.,REPORT_LOST,EARPHONES,the canteen
+Can you check if a card wallet was found?,SEARCH_ITEM,WALLET,Room 202
+Is there a textbook in the lost and found?,SEARCH_ITEM,BOOK,the gym
+I found a school backpack on the floor near the classroom.,REPORT_FOUND,BACKPACK,the classroom
+I think I lost a USB drive around the canteen.,REPORT_LOST,USB_DRIVE,the canteen
+Can you check if a tumbler was found?,SEARCH_ITEM,WATER_BOTTLE,the hallway
+Did someone report a water bottle?,SEARCH_ITEM,WATER_BOTTLE,the canteen
+What information do I need to report a lost item?,GENERAL_INQUIRY,NONE,NONE
+I picked up a memory stick in the classroom.,REPORT_FOUND,USB_DRIVE,the classroom
+I found a battery pack on the floor near the library.,REPORT_FOUND,POWER_BANK,the library
+I'm looking for my charger.,SEARCH_ITEM,CHARGER,Room 203
+I found someone's watch around the library.,REPORT_FOUND,WATCH,the library
+Has anyone seen my ball pen? I lost it at the student lounge.,REPORT_LOST,PEN,the student lounge
+Can you help me find my lunch box? I lost it near Room 202.,REPORT_LOST,LUNCH_BOX,Room 202
+Has anyone found my tablet?,SEARCH_ITEM,TABLET,the student lounge
+I'm looking for my wristwatch.,SEARCH_ITEM,WATCH,the computer laboratory
+I want to search for my missing pen.,SEARCH_ITEM,PEN,Room 201
+I found a phone near the auditorium.,REPORT_FOUND,PHONE,the auditorium
+I misplaced my neck strap somewhere around the student lounge.,REPORT_LOST,ID_LANYARD,the student lounge
+I found a wristwatch on the floor near the hallway.,REPORT_FOUND,WATCH,the hallway
+I was at the parking area and now I can't find my student identification.,REPORT_LOST,STUDENT_ID,the parking area
+I was at the front lobby and now I can't find my earphones.,REPORT_LOST,EARPHONES,the front lobby
+Has anyone seen a wallet?,SEARCH_ITEM,WALLET,the student lounge
+Can you check if a hoodie was found?,SEARCH_ITEM,JACKET,the computer laboratory
+I can't find my ruler; I think I left it at the parking area.,REPORT_LOST,RULER,the parking area
+Has anyone seen my water bottle? I lost it at the canteen.,REPORT_LOST,WATER_BOTTLE,the canteen
+Has anyone found my spiral notebook?,SEARCH_ITEM,NOTEBOOK,the library
+Has anyone found my notebook computer?,SEARCH_ITEM,LAPTOP,the auditorium
+I picked up a school book in Room 203.,REPORT_FOUND,BOOK,Room 203
+I picked up a wristwatch in the computer laboratory.,REPORT_FOUND,WATCH,the computer laboratory
+Can you check if a reference book was found?,SEARCH_ITEM,BOOK,Room 203
+I found someone's over-ear headphones around the auditorium.,REPORT_FOUND,HEADPHONES,the auditorium
+I found a mobile phone near the canteen.,REPORT_FOUND,PHONE,the canteen
+I found a calculator near the hallway.,REPORT_FOUND,CALCULATOR,the hallway
+There's a sun glasses at Room 201 that someone may have lost.,REPORT_FOUND,SUNGLASSES,Room 201
+Has anyone seen my pen? I lost it at Room 201.,REPORT_LOST,PEN,Room 201
+Is there a memory stick in the lost and found?,SEARCH_ITEM,USB_DRIVE,the cafeteria
+Someone left a phone charger at the student lounge.,REPORT_FOUND,CHARGER,the student lounge
+Where is the lost and found office?,GENERAL_INQUIRY,NONE,NONE
+Has anyone found my lunchbox?,SEARCH_ITEM,LUNCH_BOX,the classroom
+I found someone's uniform pants around Room 203.,REPORT_FOUND,CLOTHING,Room 203
+A hoodie was left behind in the library.,REPORT_FOUND,JACKET,the library
+I can't find my over-ear headphones; I think I left it at the parking area.,REPORT_LOST,HEADPHONES,the parking area
+I lost a smartwatch while I was at Room 201.,REPORT_LOST,WATCH,Room 201
+I want to search for my missing wristwatch.,SEARCH_ITEM,WATCH,the hallway
+I found someone's power bank around the library.,REPORT_FOUND,POWER_BANK,the library
+I'm looking for my lunch box.,SEARCH_ITEM,LUNCH_BOX,the front lobby
+I found someone's sweater around Room 202.,REPORT_FOUND,JACKET,Room 202
+Can you check if a student ID was found?,SEARCH_ITEM,STUDENT_ID,the cafeteria
+Someone left a lunch box at the front lobby.,REPORT_FOUND,LUNCH_BOX,the front lobby
+I think I lost a wristwatch around the hallway.,REPORT_LOST,WATCH,the hallway
+I found a USB drive on the floor near the canteen.,REPORT_FOUND,USB_DRIVE,the canteen
+I saw a smartphone in the laboratory.,REPORT_FOUND,PHONE,the laboratory
+Did someone report a pencil pouch?,SEARCH_ITEM,PENCIL_CASE,the library
+Has anyone seen my tumbler? I lost it at the hallway.,REPORT_LOST,WATER_BOTTLE,the hallway
+I found a charger on the floor near Room 203.,REPORT_FOUND,CHARGER,Room 203
+I'm trying to find my backpack.,SEARCH_ITEM,BACKPACK,the parking area
+I misplaced my power bank somewhere around Room 201.,REPORT_LOST,POWER_BANK,Room 201
+I can't find my file folder; I think I left it at the parking area.,REPORT_LOST,FOLDER,the parking area
+A pencil was left behind in the computer laboratory.,REPORT_FOUND,PENCIL,the computer laboratory
+I misplaced my jacket somewhere around the computer laboratory.,REPORT_LOST,JACKET,the computer laboratory
+Can you help me find my reference book? I lost it near Room 203.,REPORT_LOST,BOOK,Room 203
+Can you help me find my pencil pouch? I lost it near the auditorium.,REPORT_LOST,PENCIL_CASE,the auditorium
+Can you help me find my typing board? I lost it near the parking area.,REPORT_LOST,KEYBOARD,the parking area
+Someone left a portable computer at the laboratory.,REPORT_FOUND,LAPTOP,the laboratory
+Someone left a folder at the auditorium.,REPORT_FOUND,FOLDER,the auditorium
+Someone left a laptop at the laboratory.,REPORT_FOUND,LAPTOP,the laboratory
+Has anyone found my tumbler?,SEARCH_ITEM,WATER_BOTTLE,the canteen
+Someone left a book at Room 202.,REPORT_FOUND,BOOK,Room 202
+I think I lost a earbuds around the parking area.,REPORT_LOST,EARPHONES,the parking area
+I found someone's drink bottle around the laboratory.,REPORT_FOUND,WATER_BOTTLE,the laboratory
+I lost a keyboard while I was at the student lounge.,REPORT_LOST,KEYBOARD,the student lounge
+I can't find my ID strap; I think I left it at the library.,REPORT_LOST,ID_LANYARD,the library
+I can't find my smartphone; I think I left it at the laboratory.,REPORT_LOST,PHONE,the laboratory
+I lost a identification card while I was at the auditorium.,REPORT_LOST,STUDENT_ID,the auditorium
+I think I lost a iPad around the classroom.,REPORT_LOST,TABLET,the classroom
+Has anyone seen a memory stick?,SEARCH_ITEM,USB_DRIVE,the classroom
+I want to search for my missing measuring ruler.,SEARCH_ITEM,RULER,the auditorium
+I'm looking for my tablet.,SEARCH_ITEM,TABLET,Room 203

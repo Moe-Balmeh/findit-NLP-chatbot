@@ -1,0 +1,7 @@
+# files vercel doesn't need to run the site
+.env
+.venv/
+ml/
+tests/
+__pycache__/
+*.md

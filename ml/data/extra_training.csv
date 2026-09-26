@@ -1,0 +1,99 @@
+text,intent
+has my wallet been found?,SEARCH_ITEM
+was a phone found in the library?,SEARCH_ITEM
+were any keys found near the parking?,SEARCH_ITEM
+has anyone found an id?,SEARCH_ITEM
+any umbrellas found today?,SEARCH_ITEM
+any found items at the cafeteria?,SEARCH_ITEM
+is there a found laptop?,SEARCH_ITEM
+do you have any found chargers?,SEARCH_ITEM
+do you have my calculator?,SEARCH_ITEM
+show me the found items,SEARCH_ITEM
+show found items from yesterday,SEARCH_ITEM
+list of items that were found,SEARCH_ITEM
+what items have been found this week?,SEARCH_ITEM
+did someone turn in a bag?,SEARCH_ITEM
+did anyone return a tumbler?,SEARCH_ITEM
+has somebody surrendered a watch?,SEARCH_ITEM
+was my jacket turned in?,SEARCH_ITEM
+check the records for a lost phone,SEARCH_ITEM
+browse the found items,SEARCH_ITEM
+may nakita bang cellphone?,SEARCH_ITEM
+meron bang naisurrender na payong?,SEARCH_ITEM
+may nagsurrender ba ng wallet?,SEARCH_ITEM
+may nakakita ba ng id ko?,SEARCH_ITEM
+nahanap na ba yung bag ko?,SEARCH_ITEM
+nakita na ba yung susi ko?,SEARCH_ITEM
+pa-check naman kung may nakita na earphones,SEARCH_ITEM
+could you see if someone found my airpods,SEARCH_ITEM
+maybe someone found my power bank can you check,SEARCH_ITEM
+is anyone holding a lost notebook?,SEARCH_ITEM
+was an ipad left in the lost and found?,SEARCH_ITEM
+there's a lost phone here i found it,REPORT_FOUND
+i found a lost wallet on the bench,REPORT_FOUND
+there is a lost id on the floor near the stairs,REPORT_FOUND
+someone lost their umbrella here i have it,REPORT_FOUND
+someone lost this bag i picked it up,REPORT_FOUND
+i want to report an item i found,REPORT_FOUND
+i'd like to turn in something i found,REPORT_FOUND
+report found item,REPORT_FOUND
+i have a found item to report,REPORT_FOUND
+how do i surrender this phone i picked up,REPORT_FOUND
+where do i bring this wallet i found,REPORT_FOUND
+i'm holding someone's keys,REPORT_FOUND
+i have somebody's id with me,REPORT_FOUND
+this charger was left behind in our room,REPORT_FOUND
+a laptop was left unattended in the lounge,REPORT_FOUND
+there's an unattended backpack in the hallway,REPORT_FOUND
+i spotted a watch left on the sink,REPORT_FOUND
+naiwan ng kaklase ko yung tumbler niya dito,REPORT_FOUND
+may napulot akong earphones,REPORT_FOUND
+nakapulot ako ng cellphone sa gym,REPORT_FOUND
+may naiwan na bag sa classroom,REPORT_FOUND
+ito may nahanap akong susi,REPORT_FOUND
+i can't find my bag anywhere,REPORT_LOST
+i can't find my keys since this morning,REPORT_LOST
+cannot find my id,REPORT_LOST
+i have been looking for my phone all day,REPORT_LOST
+my airpods fell out of my bag,REPORT_LOST
+i left my tumbler somewhere,REPORT_LOST
+someone took my charger,REPORT_LOST
+my bag was taken by mistake,REPORT_LOST
+i dropped my keys,REPORT_LOST
+di ko makita yung phone ko,REPORT_LOST
+nawala yung id ko kahapon,REPORT_LOST
+naiwan ko yung laptop ko sa lab,REPORT_LOST
+hindi ko na mahanap yung payong ko,REPORT_LOST
+i'd like to report a missing item,REPORT_LOST
+file a lost item report,REPORT_LOST
+what happens if nobody claims an item?,GENERAL_INQUIRY
+what do you do with unclaimed things?,GENERAL_INQUIRY
+are found items donated after some time?,GENERAL_INQUIRY
+how many days are items kept?,GENERAL_INQUIRY
+can my friend claim it for me?,GENERAL_INQUIRY
+can my parent get my item?,GENERAL_INQUIRY
+can i claim an item for my classmate?,GENERAL_INQUIRY
+can i file a report for someone else?,GENERAL_INQUIRY
+do i have to pay anything?,GENERAL_INQUIRY
+is claiming free?,GENERAL_INQUIRY
+who is in charge of lost and found?,GENERAL_INQUIRY
+which office handles found items?,GENERAL_INQUIRY
+who created findit?,GENERAL_INQUIRY
+who built this?,GENERAL_INQUIRY
+what's the process for claiming?,GENERAL_INQUIRY
+what's the procedure for surrendering items?,GENERAL_INQUIRY
+what are the steps to claim?,GENERAL_INQUIRY
+how do i get my item back?,GENERAL_INQUIRY
+what proof do i need to show?,GENERAL_INQUIRY
+what documents are needed to claim?,GENERAL_INQUIRY
+when is the office open?,GENERAL_INQUIRY
+what time does the office close?,GENERAL_INQUIRY
+open ba sila ngayon?,GENERAL_INQUIRY
+saan yung disciplinary office?,GENERAL_INQUIRY
+saan dadalhin yung mga napulot na gamit?,GENERAL_INQUIRY
+paano ko makukuha yung gamit ko?,GENERAL_INQUIRY
+kailangan ba ng id para mag claim?,GENERAL_INQUIRY
+will i get notified when my item shows up?,GENERAL_INQUIRY
+do you send an email when there's a match?,GENERAL_INQUIRY
+is my information private?,GENERAL_INQUIRY
+what details should i include in my report?,GENERAL_INQUIRY

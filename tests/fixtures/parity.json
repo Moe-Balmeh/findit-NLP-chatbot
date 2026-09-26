@@ -1,0 +1,2828 @@
+[
+ {
+  "text": "i think i left my airpods in the hoops gym earlier",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003699,
+   "REPORT_FOUND": 0.012414,
+   "REPORT_LOST": 0.97115,
+   "SEARCH_ITEM": 0.012737
+  }
+ },
+ {
+  "text": "lost my wallet somewhere between the canteen and the lrc",
+  "probs": {
+   "GENERAL_INQUIRY": 0.00776,
+   "REPORT_FOUND": 0.011896,
+   "REPORT_LOST": 0.96475,
+   "SEARCH_ITEM": 0.015595
+  }
+ },
+ {
+  "text": "hello, my calculator went missing after our math exam",
+  "probs": {
+   "GENERAL_INQUIRY": 0.008866,
+   "REPORT_FOUND": 0.007269,
+   "REPORT_LOST": 0.963969,
+   "SEARCH_ITEM": 0.019896
+  }
+ },
+ {
+  "text": "nawala ko yung payong ko sa may dugout kanina",
+  "probs": {
+   "GENERAL_INQUIRY": 0.008829,
+   "REPORT_FOUND": 0.011513,
+   "REPORT_LOST": 0.965794,
+   "SEARCH_ITEM": 0.013863
+  }
+ },
+ {
+  "text": "naiwan ko cp ko sa cr sa 2nd floor",
+  "probs": {
+   "GENERAL_INQUIRY": 0.045268,
+   "REPORT_FOUND": 0.594346,
+   "REPORT_LOST": 0.320659,
+   "SEARCH_ITEM": 0.039727
+  }
+ },
+ {
+  "text": "i cant find my school id since yesterday",
+  "probs": {
+   "GENERAL_INQUIRY": 0.019758,
+   "REPORT_FOUND": 0.032863,
+   "REPORT_LOST": 0.447769,
+   "SEARCH_ITEM": 0.49961
+  }
+ },
+ {
+  "text": "my black jansport bag is gone i left it at the gazebo",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003157,
+   "REPORT_FOUND": 0.030814,
+   "REPORT_LOST": 0.961512,
+   "SEARCH_ITEM": 0.004518
+  }
+ },
+ {
+  "text": "help, i lost my iphone 13 near the parking lot",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004996,
+   "REPORT_FOUND": 0.012216,
+   "REPORT_LOST": 0.979158,
+   "SEARCH_ITEM": 0.00363
+  }
+ },
+ {
+  "text": "i misplaced my car keys around the front gate this morning",
+  "probs": {
+   "GENERAL_INQUIRY": 0.00856,
+   "REPORT_FOUND": 0.04171,
+   "REPORT_LOST": 0.937947,
+   "SEARCH_ITEM": 0.011783
+  }
+ },
+ {
+  "text": "my aquaflask was stolen or lost in room 305",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004033,
+   "REPORT_FOUND": 0.014581,
+   "REPORT_LOST": 0.956327,
+   "SEARCH_ITEM": 0.025059
+  }
+ },
+ {
+  "text": "left my jacket at the auditorium during the seminar",
+  "probs": {
+   "GENERAL_INQUIRY": 0.005986,
+   "REPORT_FOUND": 0.208391,
+   "REPORT_LOST": 0.776613,
+   "SEARCH_ITEM": 0.009011
+  }
+ },
+ {
+  "text": "nawawala yung lanyard ko",
+  "probs": {
+   "GENERAL_INQUIRY": 0.016824,
+   "REPORT_FOUND": 0.013659,
+   "REPORT_LOST": 0.949931,
+   "SEARCH_ITEM": 0.019586
+  }
+ },
+ {
+  "text": "i dropped my earbuds somewhere in the football field",
+  "probs": {
+   "GENERAL_INQUIRY": 0.020176,
+   "REPORT_FOUND": 0.148613,
+   "REPORT_LOST": 0.731883,
+   "SEARCH_ITEM": 0.099328
+  }
+ },
+ {
+  "text": "my laptop charger is missing i was at the library",
+  "probs": {
+   "GENERAL_INQUIRY": 0.000399,
+   "REPORT_FOUND": 0.002136,
+   "REPORT_LOST": 0.994528,
+   "SEARCH_ITEM": 0.002937
+  }
+ },
+ {
+  "text": "forgot my tumbler at the food stalls",
+  "probs": {
+   "GENERAL_INQUIRY": 0.012769,
+   "REPORT_FOUND": 0.205208,
+   "REPORT_LOST": 0.722537,
+   "SEARCH_ITEM": 0.059486
+  }
+ },
+ {
+  "text": "i lost a gold ring in the restroom",
+  "probs": {
+   "GENERAL_INQUIRY": 0.016088,
+   "REPORT_FOUND": 0.211987,
+   "REPORT_LOST": 0.684609,
+   "SEARCH_ITEM": 0.087315
+  }
+ },
+ {
+  "text": "my glasses fell somewhere near the stairs i cant find them",
+  "probs": {
+   "GENERAL_INQUIRY": 0.018762,
+   "REPORT_FOUND": 0.15076,
+   "REPORT_LOST": 0.793466,
+   "SEARCH_ITEM": 0.037012
+  }
+ },
+ {
+  "text": "di ko mahanap yung wallet ko",
+  "probs": {
+   "GENERAL_INQUIRY": 0.021696,
+   "REPORT_FOUND": 0.086765,
+   "REPORT_LOST": 0.845636,
+   "SEARCH_ITEM": 0.045903
+  }
+ },
+ {
+  "text": "i left my notebook in the computer lab last monday",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004287,
+   "REPORT_FOUND": 0.121695,
+   "REPORT_LOST": 0.834641,
+   "SEARCH_ITEM": 0.039377
+  }
+ },
+ {
+  "text": "my phone is missing pls help",
+  "probs": {
+   "GENERAL_INQUIRY": 0.01135,
+   "REPORT_FOUND": 0.001088,
+   "REPORT_LOST": 0.971037,
+   "SEARCH_ITEM": 0.016525
+  }
+ },
+ {
+  "text": "i lost my flashdrive with my thesis on it",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004596,
+   "REPORT_FOUND": 0.00744,
+   "REPORT_LOST": 0.981245,
+   "SEARCH_ITEM": 0.006719
+  }
+ },
+ {
+  "text": "my samsung tablet got lost in the dormitel lobby",
+  "probs": {
+   "GENERAL_INQUIRY": 0.014396,
+   "REPORT_FOUND": 0.028514,
+   "REPORT_LOST": 0.906962,
+   "SEARCH_ITEM": 0.050128
+  }
+ },
+ {
+  "text": "i think someone took my umbrella by mistake at the chapel",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003649,
+   "REPORT_FOUND": 0.034445,
+   "REPORT_LOST": 0.951586,
+   "SEARCH_ITEM": 0.01032
+  }
+ },
+ {
+  "text": "lost my headset at the multipurpose gym",
+  "probs": {
+   "GENERAL_INQUIRY": 0.005876,
+   "REPORT_FOUND": 0.0095,
+   "REPORT_LOST": 0.979166,
+   "SEARCH_ITEM": 0.005458
+  }
+ },
+ {
+  "text": "my power bank is gone after pe class",
+  "probs": {
+   "GENERAL_INQUIRY": 0.025781,
+   "REPORT_FOUND": 0.015945,
+   "REPORT_LOST": 0.863364,
+   "SEARCH_ITEM": 0.09491
+  }
+ },
+ {
+  "text": "i lost my student id and my atm card together",
+  "probs": {
+   "GENERAL_INQUIRY": 0.006261,
+   "REPORT_FOUND": 0.004428,
+   "REPORT_LOST": 0.971973,
+   "SEARCH_ITEM": 0.017337
+  }
+ },
+ {
+  "text": "nahulog yung susi ko sa parking",
+  "probs": {
+   "GENERAL_INQUIRY": 0.048453,
+   "REPORT_FOUND": 0.160257,
+   "REPORT_LOST": 0.710464,
+   "SEARCH_ITEM": 0.080826
+  }
+ },
+ {
+  "text": "my watch disappeared after swimming class at the pool",
+  "probs": {
+   "GENERAL_INQUIRY": 0.005144,
+   "REPORT_FOUND": 0.008267,
+   "REPORT_LOST": 0.981752,
+   "SEARCH_ITEM": 0.004837
+  }
+ },
+ {
+  "text": "i must have left my pencil case at the engineering lab",
+  "probs": {
+   "GENERAL_INQUIRY": 0.014979,
+   "REPORT_FOUND": 0.236912,
+   "REPORT_LOST": 0.727152,
+   "SEARCH_ITEM": 0.020958
+  }
+ },
+ {
+  "text": "lost my cap near the tennis court",
+  "probs": {
+   "GENERAL_INQUIRY": 0.00334,
+   "REPORT_FOUND": 0.009028,
+   "REPORT_LOST": 0.982235,
+   "SEARCH_ITEM": 0.005398
+  }
+ },
+ {
+  "text": "my wallet is missing",
+  "probs": {
+   "GENERAL_INQUIRY": 0.000655,
+   "REPORT_FOUND": 0.000469,
+   "REPORT_LOST": 0.993181,
+   "SEARCH_ITEM": 0.005695
+  }
+ },
+ {
+  "text": "i lost my phone",
+  "probs": {
+   "GENERAL_INQUIRY": 0.000124,
+   "REPORT_FOUND": 8.1e-05,
+   "REPORT_LOST": 0.998964,
+   "SEARCH_ITEM": 0.000832
+  }
+ },
+ {
+  "text": "i lost my ipad yesterday afternoon",
+  "probs": {
+   "GENERAL_INQUIRY": 0.011382,
+   "REPORT_FOUND": 0.004178,
+   "REPORT_LOST": 0.88989,
+   "SEARCH_ITEM": 0.094549
+  }
+ },
+ {
+  "text": "my reviewer notes are missing i left them at the lounge",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004683,
+   "REPORT_FOUND": 0.025497,
+   "REPORT_LOST": 0.967874,
+   "SEARCH_ITEM": 0.001946
+  }
+ },
+ {
+  "text": "i forgot my hoodie in the classroom",
+  "probs": {
+   "GENERAL_INQUIRY": 0.032124,
+   "REPORT_FOUND": 0.374584,
+   "REPORT_LOST": 0.466899,
+   "SEARCH_ITEM": 0.126393
+  }
+ },
+ {
+  "text": "i found a phone in the gym",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001038,
+   "REPORT_FOUND": 0.979154,
+   "REPORT_LOST": 0.002354,
+   "SEARCH_ITEM": 0.017453
+  }
+ },
+ {
+  "text": "someone left their laptop in the library",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002315,
+   "REPORT_FOUND": 0.963621,
+   "REPORT_LOST": 0.013443,
+   "SEARCH_ITEM": 0.020621
+  }
+ },
+ {
+  "text": "i picked up a wallet at the cafeteria",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001353,
+   "REPORT_FOUND": 0.986531,
+   "REPORT_LOST": 0.010273,
+   "SEARCH_ITEM": 0.001843
+  }
+ },
+ {
+  "text": "may naiwan na payong dito sa lobby",
+  "probs": {
+   "GENERAL_INQUIRY": 0.059791,
+   "REPORT_FOUND": 0.7218,
+   "REPORT_LOST": 0.08754,
+   "SEARCH_ITEM": 0.13087
+  }
+ },
+ {
+  "text": "nakapulot ako ng id sa hallway",
+  "probs": {
+   "GENERAL_INQUIRY": 0.037532,
+   "REPORT_FOUND": 0.861923,
+   "REPORT_LOST": 0.065698,
+   "SEARCH_ITEM": 0.034848
+  }
+ },
+ {
+  "text": "there's a tumbler left on the table at the food stalls",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004577,
+   "REPORT_FOUND": 0.951142,
+   "REPORT_LOST": 0.031825,
+   "SEARCH_ITEM": 0.012457
+  }
+ },
+ {
+  "text": "i found some keys near the guardhouse",
+  "probs": {
+   "GENERAL_INQUIRY": 0.007597,
+   "REPORT_FOUND": 0.975753,
+   "REPORT_LOST": 0.007549,
+   "SEARCH_ITEM": 0.009101
+  }
+ },
+ {
+  "text": "i want to surrender an item i found",
+  "probs": {
+   "GENERAL_INQUIRY": 0.030563,
+   "REPORT_FOUND": 0.938903,
+   "REPORT_LOST": 0.00246,
+   "SEARCH_ITEM": 0.028073
+  }
+ },
+ {
+  "text": "found a black umbrella by the elevator",
+  "probs": {
+   "GENERAL_INQUIRY": 0.011107,
+   "REPORT_FOUND": 0.865825,
+   "REPORT_LOST": 0.037786,
+   "SEARCH_ITEM": 0.085282
+  }
+ },
+ {
+  "text": "i saw an unattended bag in the auditorium",
+  "probs": {
+   "GENERAL_INQUIRY": 0.006334,
+   "REPORT_FOUND": 0.975833,
+   "REPORT_LOST": 0.010509,
+   "SEARCH_ITEM": 0.007325
+  }
+ },
+ {
+  "text": "i have someone's calculator i found it in room 204",
+  "probs": {
+   "GENERAL_INQUIRY": 0.000809,
+   "REPORT_FOUND": 0.995119,
+   "REPORT_LOST": 0.00137,
+   "SEARCH_ITEM": 0.002702
+  }
+ },
+ {
+  "text": "i found a telecommunication device inside the gym",
+  "probs": {
+   "GENERAL_INQUIRY": 0.038406,
+   "REPORT_FOUND": 0.912225,
+   "REPORT_LOST": 0.017579,
+   "SEARCH_ITEM": 0.03179
+  }
+ },
+ {
+  "text": "i found an iphone inside the gym",
+  "probs": {
+   "GENERAL_INQUIRY": 0.006307,
+   "REPORT_FOUND": 0.974575,
+   "REPORT_LOST": 0.004363,
+   "SEARCH_ITEM": 0.014755
+  }
+ },
+ {
+  "text": "someone forgot their jacket at the gazebo",
+  "probs": {
+   "GENERAL_INQUIRY": 0.007488,
+   "REPORT_FOUND": 0.951104,
+   "REPORT_LOST": 0.016904,
+   "SEARCH_ITEM": 0.024504
+  }
+ },
+ {
+  "text": "there is a lost charger plugged in at the lrc",
+  "probs": {
+   "GENERAL_INQUIRY": 0.019556,
+   "REPORT_FOUND": 0.101283,
+   "REPORT_LOST": 0.786473,
+   "SEARCH_ITEM": 0.092688
+  }
+ },
+ {
+  "text": "i found earphones on the bleachers near the dugout",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001276,
+   "REPORT_FOUND": 0.991924,
+   "REPORT_LOST": 0.002662,
+   "SEARCH_ITEM": 0.004138
+  }
+ },
+ {
+  "text": "may nakita akong wallet sa cr",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001019,
+   "REPORT_FOUND": 0.991605,
+   "REPORT_LOST": 0.001698,
+   "SEARCH_ITEM": 0.005678
+  }
+ },
+ {
+  "text": "i found a student id belonging to a freshman",
+  "probs": {
+   "GENERAL_INQUIRY": 0.05618,
+   "REPORT_FOUND": 0.867073,
+   "REPORT_LOST": 0.0123,
+   "SEARCH_ITEM": 0.064448
+  }
+ },
+ {
+  "text": "i picked up a flash drive from the computer lab",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002487,
+   "REPORT_FOUND": 0.968922,
+   "REPORT_LOST": 0.021538,
+   "SEARCH_ITEM": 0.007053
+  }
+ },
+ {
+  "text": "i found glasses in the chapel",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003766,
+   "REPORT_FOUND": 0.939839,
+   "REPORT_LOST": 0.007589,
+   "SEARCH_ITEM": 0.048806
+  }
+ },
+ {
+  "text": "how do i turn in a phone i found",
+  "probs": {
+   "GENERAL_INQUIRY": 0.23062,
+   "REPORT_FOUND": 0.625332,
+   "REPORT_LOST": 0.007875,
+   "SEARCH_ITEM": 0.136174
+  }
+ },
+ {
+  "text": "found this watch at the swimming pool area",
+  "probs": {
+   "GENERAL_INQUIRY": 0.03764,
+   "REPORT_FOUND": 0.848858,
+   "REPORT_LOST": 0.04866,
+   "SEARCH_ITEM": 0.064841
+  }
+ },
+ {
+  "text": "someone dropped their notebook on the stairs",
+  "probs": {
+   "GENERAL_INQUIRY": 0.010711,
+   "REPORT_FOUND": 0.940097,
+   "REPORT_LOST": 0.015679,
+   "SEARCH_ITEM": 0.033513
+  }
+ },
+ {
+  "text": "i found a ring in the comfort room",
+  "probs": {
+   "GENERAL_INQUIRY": 0.000838,
+   "REPORT_FOUND": 0.988716,
+   "REPORT_LOST": 0.000922,
+   "SEARCH_ITEM": 0.009524
+  }
+ },
+ {
+  "text": "nakita ko tong power bank sa canteen",
+  "probs": {
+   "GENERAL_INQUIRY": 0.052839,
+   "REPORT_FOUND": 0.483194,
+   "REPORT_LOST": 0.292376,
+   "SEARCH_ITEM": 0.171591
+  }
+ },
+ {
+  "text": "there's a lanyard with keys on the bench outside",
+  "probs": {
+   "GENERAL_INQUIRY": 0.034863,
+   "REPORT_FOUND": 0.832738,
+   "REPORT_LOST": 0.032256,
+   "SEARCH_ITEM": 0.100143
+  }
+ },
+ {
+  "text": "i got a book that someone left in the classroom",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001006,
+   "REPORT_FOUND": 0.991712,
+   "REPORT_LOST": 0.004011,
+   "SEARCH_ITEM": 0.003271
+  }
+ },
+ {
+  "text": "i found a cap at the basketball court",
+  "probs": {
+   "GENERAL_INQUIRY": 0.009386,
+   "REPORT_FOUND": 0.949621,
+   "REPORT_LOST": 0.021533,
+   "SEARCH_ITEM": 0.01946
+  }
+ },
+ {
+  "text": "i found a lunch box in the dorm",
+  "probs": {
+   "GENERAL_INQUIRY": 0.015062,
+   "REPORT_FOUND": 0.847295,
+   "REPORT_LOST": 0.00966,
+   "SEARCH_ITEM": 0.127982
+  }
+ },
+ {
+  "text": "i would like to report a found item",
+  "probs": {
+   "GENERAL_INQUIRY": 0.125363,
+   "REPORT_FOUND": 0.7961,
+   "REPORT_LOST": 0.026982,
+   "SEARCH_ITEM": 0.051554
+  }
+ },
+ {
+  "text": "has anyone turned in a black wallet?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001554,
+   "REPORT_FOUND": 0.004374,
+   "REPORT_LOST": 0.002437,
+   "SEARCH_ITEM": 0.991635
+  }
+ },
+ {
+  "text": "did someone find a phone at the gym?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.007908,
+   "REPORT_FOUND": 0.316521,
+   "REPORT_LOST": 0.043306,
+   "SEARCH_ITEM": 0.632265
+  }
+ },
+ {
+  "text": "is there an umbrella in lost and found?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.021897,
+   "REPORT_FOUND": 0.024013,
+   "REPORT_LOST": 0.014212,
+   "SEARCH_ITEM": 0.939878
+  }
+ },
+ {
+  "text": "can you check if my id was surrendered",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002947,
+   "REPORT_FOUND": 0.001248,
+   "REPORT_LOST": 0.005178,
+   "SEARCH_ITEM": 0.990627
+  }
+ },
+ {
+  "text": "may nakapulot ba ng susi?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.063902,
+   "REPORT_FOUND": 0.195028,
+   "REPORT_LOST": 0.021473,
+   "SEARCH_ITEM": 0.719597
+  }
+ },
+ {
+  "text": "pacheck po kung may naisurrender na tumbler",
+  "probs": {
+   "GENERAL_INQUIRY": 0.009409,
+   "REPORT_FOUND": 0.044377,
+   "REPORT_LOST": 0.016662,
+   "SEARCH_ITEM": 0.929552
+  }
+ },
+ {
+  "text": "are there any laptops that were found recently",
+  "probs": {
+   "GENERAL_INQUIRY": 0.041104,
+   "REPORT_FOUND": 0.088058,
+   "REPORT_LOST": 0.016163,
+   "SEARCH_ITEM": 0.854676
+  }
+ },
+ {
+  "text": "has a blue hydro flask been turned in?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.024868,
+   "REPORT_FOUND": 0.067335,
+   "REPORT_LOST": 0.052346,
+   "SEARCH_ITEM": 0.85545
+  }
+ },
+ {
+  "text": "check if there is a calculator in the found items",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001045,
+   "REPORT_FOUND": 0.005966,
+   "REPORT_LOST": 0.000643,
+   "SEARCH_ITEM": 0.992345
+  }
+ },
+ {
+  "text": "did anybody return an ipad?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.042349,
+   "REPORT_FOUND": 0.022288,
+   "REPORT_LOST": 0.018713,
+   "SEARCH_ITEM": 0.91665
+  }
+ },
+ {
+  "text": "any found airpods?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.062828,
+   "REPORT_FOUND": 0.111805,
+   "REPORT_LOST": 0.024304,
+   "SEARCH_ITEM": 0.801062
+  }
+ },
+ {
+  "text": "search for a lost charger",
+  "probs": {
+   "GENERAL_INQUIRY": 0.011412,
+   "REPORT_FOUND": 0.003508,
+   "REPORT_LOST": 0.015431,
+   "SEARCH_ITEM": 0.969648
+  }
+ },
+ {
+  "text": "look up found items near the library",
+  "probs": {
+   "GENERAL_INQUIRY": 0.03649,
+   "REPORT_FOUND": 0.683328,
+   "REPORT_LOST": 0.025006,
+   "SEARCH_ITEM": 0.255176
+  }
+ },
+ {
+  "text": "was a jacket found at the auditorium?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003173,
+   "REPORT_FOUND": 0.964043,
+   "REPORT_LOST": 0.024458,
+   "SEARCH_ITEM": 0.008325
+  }
+ },
+ {
+  "text": "meron bang nakitang wallet sa cafeteria?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.038934,
+   "REPORT_FOUND": 0.411269,
+   "REPORT_LOST": 0.135747,
+   "SEARCH_ITEM": 0.41405
+  }
+ },
+ {
+  "text": "i want to check if someone found my glasses",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001801,
+   "REPORT_FOUND": 0.088279,
+   "REPORT_LOST": 0.001534,
+   "SEARCH_ITEM": 0.908386
+  }
+ },
+ {
+  "text": "can you search for my earphones",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002881,
+   "REPORT_FOUND": 0.000427,
+   "REPORT_LOST": 0.000754,
+   "SEARCH_ITEM": 0.995938
+  }
+ },
+ {
+  "text": "is my flash drive in the lost and found?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.023294,
+   "REPORT_FOUND": 0.027382,
+   "REPORT_LOST": 0.269494,
+   "SEARCH_ITEM": 0.679831
+  }
+ },
+ {
+  "text": "has anyone seen a gray backpack",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002466,
+   "REPORT_FOUND": 0.003575,
+   "REPORT_LOST": 0.00929,
+   "SEARCH_ITEM": 0.984668
+  }
+ },
+ {
+  "text": "do you have a found watch?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.102899,
+   "REPORT_FOUND": 0.349248,
+   "REPORT_LOST": 0.006126,
+   "SEARCH_ITEM": 0.541728
+  }
+ },
+ {
+  "text": "can i see the list of found items",
+  "probs": {
+   "GENERAL_INQUIRY": 0.180283,
+   "REPORT_FOUND": 0.065869,
+   "REPORT_LOST": 0.020767,
+   "SEARCH_ITEM": 0.733081
+  }
+ },
+ {
+  "text": "please check if a notebook was found",
+  "probs": {
+   "GENERAL_INQUIRY": 0.031417,
+   "REPORT_FOUND": 0.108136,
+   "REPORT_LOST": 0.003685,
+   "SEARCH_ITEM": 0.856762
+  }
+ },
+ {
+  "text": "did anyone surrender a power bank",
+  "probs": {
+   "GENERAL_INQUIRY": 0.008275,
+   "REPORT_FOUND": 0.014711,
+   "REPORT_LOST": 0.008261,
+   "SEARCH_ITEM": 0.968753
+  }
+ },
+ {
+  "text": "i'm looking for my umbrella did someone return it",
+  "probs": {
+   "GENERAL_INQUIRY": 0.000367,
+   "REPORT_FOUND": 0.001496,
+   "REPORT_LOST": 0.001285,
+   "SEARCH_ITEM": 0.996851
+  }
+ },
+ {
+  "text": "nahanap na ba yung cellphone ko?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.017503,
+   "REPORT_FOUND": 0.06439,
+   "REPORT_LOST": 0.045315,
+   "SEARCH_ITEM": 0.872791
+  }
+ },
+ {
+  "text": "where is the lost and found?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.861686,
+   "REPORT_FOUND": 0.005588,
+   "REPORT_LOST": 0.067138,
+   "SEARCH_ITEM": 0.065588
+  }
+ },
+ {
+  "text": "where do i claim a lost item?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.977615,
+   "REPORT_FOUND": 0.002455,
+   "REPORT_LOST": 0.01897,
+   "SEARCH_ITEM": 0.00096
+  }
+ },
+ {
+  "text": "what are the office hours of the lost and found?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.966214,
+   "REPORT_FOUND": 0.008123,
+   "REPORT_LOST": 0.005532,
+   "SEARCH_ITEM": 0.020131
+  }
+ },
+ {
+  "text": "what do i need to bring to claim my item?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.986182,
+   "REPORT_FOUND": 0.00469,
+   "REPORT_LOST": 0.005011,
+   "SEARCH_ITEM": 0.004117
+  }
+ },
+ {
+  "text": "how long do you keep found items?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.840452,
+   "REPORT_FOUND": 0.018975,
+   "REPORT_LOST": 0.002523,
+   "SEARCH_ITEM": 0.13805
+  }
+ },
+ {
+  "text": "how does this chatbot work?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.914259,
+   "REPORT_FOUND": 0.036258,
+   "REPORT_LOST": 0.028245,
+   "SEARCH_ITEM": 0.021238
+  }
+ },
+ {
+  "text": "what can you do?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.913385,
+   "REPORT_FOUND": 0.002274,
+   "REPORT_LOST": 0.004068,
+   "SEARCH_ITEM": 0.080273
+  }
+ },
+ {
+  "text": "saan pwede kunin yung naiwan ko?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.206328,
+   "REPORT_FOUND": 0.37616,
+   "REPORT_LOST": 0.169781,
+   "SEARCH_ITEM": 0.247731
+  }
+ },
+ {
+  "text": "paano mag claim?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.941198,
+   "REPORT_FOUND": 0.043189,
+   "REPORT_LOST": 0.009412,
+   "SEARCH_ITEM": 0.006201
+  }
+ },
+ {
+  "text": "who handles lost items in the school?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.429547,
+   "REPORT_FOUND": 0.030917,
+   "REPORT_LOST": 0.199346,
+   "SEARCH_ITEM": 0.34019
+  }
+ },
+ {
+  "text": "is the disciplinary office open on saturday?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.901168,
+   "REPORT_FOUND": 0.04177,
+   "REPORT_LOST": 0.037477,
+   "SEARCH_ITEM": 0.019585
+  }
+ },
+ {
+  "text": "what happens to unclaimed items?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.950496,
+   "REPORT_FOUND": 0.00852,
+   "REPORT_LOST": 0.012049,
+   "SEARCH_ITEM": 0.028935
+  }
+ },
+ {
+  "text": "can someone else claim my item for me?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.940934,
+   "REPORT_FOUND": 0.02034,
+   "REPORT_LOST": 0.004712,
+   "SEARCH_ITEM": 0.034014
+  }
+ },
+ {
+  "text": "do i need my id to claim?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.896347,
+   "REPORT_FOUND": 0.02273,
+   "REPORT_LOST": 0.055958,
+   "SEARCH_ITEM": 0.024966
+  }
+ },
+ {
+  "text": "what is findit?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.980399,
+   "REPORT_FOUND": 0.002098,
+   "REPORT_LOST": 0.011751,
+   "SEARCH_ITEM": 0.005752
+  }
+ },
+ {
+  "text": "how do i use this?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.990531,
+   "REPORT_FOUND": 0.004638,
+   "REPORT_LOST": 0.003038,
+   "SEARCH_ITEM": 0.001794
+  }
+ },
+ {
+  "text": "where is the disciplinary office?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.903335,
+   "REPORT_FOUND": 0.00764,
+   "REPORT_LOST": 0.083634,
+   "SEARCH_ITEM": 0.005392
+  }
+ },
+ {
+  "text": "what information should i give when reporting?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.970809,
+   "REPORT_FOUND": 0.010132,
+   "REPORT_LOST": 0.006473,
+   "SEARCH_ITEM": 0.012587
+  }
+ },
+ {
+  "text": "can i report on behalf of my friend?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.579861,
+   "REPORT_FOUND": 0.064679,
+   "REPORT_LOST": 0.134962,
+   "SEARCH_ITEM": 0.220498
+  }
+ },
+ {
+  "text": "what's the process for returning something i found?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.749949,
+   "REPORT_FOUND": 0.146557,
+   "REPORT_LOST": 0.014492,
+   "SEARCH_ITEM": 0.089002
+  }
+ },
+ {
+  "text": "anong oras bukas yung office?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.852973,
+   "REPORT_FOUND": 0.027082,
+   "REPORT_LOST": 0.091612,
+   "SEARCH_ITEM": 0.028332
+  }
+ },
+ {
+  "text": "is there a fee to claim items?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.623884,
+   "REPORT_FOUND": 0.008069,
+   "REPORT_LOST": 0.014591,
+   "SEARCH_ITEM": 0.353456
+  }
+ },
+ {
+  "text": "how will i know if my item is found?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.884737,
+   "REPORT_FOUND": 0.028766,
+   "REPORT_LOST": 0.031131,
+   "SEARCH_ITEM": 0.055365
+  }
+ },
+ {
+  "text": "who made this chatbot?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.804462,
+   "REPORT_FOUND": 0.075234,
+   "REPORT_LOST": 0.060569,
+   "SEARCH_ITEM": 0.059735
+  }
+ },
+ {
+  "text": "i found a book near the library.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001052,
+   "REPORT_FOUND": 0.987204,
+   "REPORT_LOST": 0.007841,
+   "SEARCH_ITEM": 0.003903
+  }
+ },
+ {
+  "text": "i saw a eyeglasses in the laboratory.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.005678,
+   "REPORT_FOUND": 0.956324,
+   "REPORT_LOST": 0.027166,
+   "SEARCH_ITEM": 0.010831
+  }
+ },
+ {
+  "text": "someone left a sweater at the gym.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004498,
+   "REPORT_FOUND": 0.973189,
+   "REPORT_LOST": 0.017969,
+   "SEARCH_ITEM": 0.004344
+  }
+ },
+ {
+  "text": "i picked up a spiral notebook in the laboratory.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002137,
+   "REPORT_FOUND": 0.979421,
+   "REPORT_LOST": 0.012912,
+   "SEARCH_ITEM": 0.005531
+  }
+ },
+ {
+  "text": "i'm looking for my thumb drive.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004719,
+   "REPORT_FOUND": 0.00698,
+   "REPORT_LOST": 0.015317,
+   "SEARCH_ITEM": 0.972984
+  }
+ },
+ {
+  "text": "i lost my measuring ruler near the cafeteria.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.007258,
+   "REPORT_FOUND": 0.044764,
+   "REPORT_LOST": 0.933738,
+   "SEARCH_ITEM": 0.01424
+  }
+ },
+ {
+  "text": "is there a rain umbrella in the lost and found?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.014417,
+   "REPORT_FOUND": 0.022674,
+   "REPORT_LOST": 0.012301,
+   "SEARCH_ITEM": 0.950609
+  }
+ },
+ {
+  "text": "has anyone seen my spiral notebook? i lost it at the laboratory.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001943,
+   "REPORT_FOUND": 0.008029,
+   "REPORT_LOST": 0.968353,
+   "SEARCH_ITEM": 0.021676
+  }
+ },
+ {
+  "text": "i think i lost a calculator around the hallway.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001848,
+   "REPORT_FOUND": 0.014412,
+   "REPORT_LOST": 0.98215,
+   "SEARCH_ITEM": 0.00159
+  }
+ },
+ {
+  "text": "i saw a notebook computer in the auditorium.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003631,
+   "REPORT_FOUND": 0.953811,
+   "REPORT_LOST": 0.03232,
+   "SEARCH_ITEM": 0.010238
+  }
+ },
+ {
+  "text": "i saw a student identification in the parking area.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.012493,
+   "REPORT_FOUND": 0.928631,
+   "REPORT_LOST": 0.036426,
+   "SEARCH_ITEM": 0.022451
+  }
+ },
+ {
+  "text": "a backpack was left behind in the parking area.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004184,
+   "REPORT_FOUND": 0.958331,
+   "REPORT_LOST": 0.021664,
+   "SEARCH_ITEM": 0.015822
+  }
+ },
+ {
+  "text": "has anyone seen a umbrella?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002527,
+   "REPORT_FOUND": 0.004389,
+   "REPORT_LOST": 0.011038,
+   "SEARCH_ITEM": 0.982046
+  }
+ },
+ {
+  "text": "a school notebook was left behind in room 201.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003451,
+   "REPORT_FOUND": 0.959813,
+   "REPORT_LOST": 0.025268,
+   "SEARCH_ITEM": 0.011469
+  }
+ },
+ {
+  "text": "i lost a hoodie while i was at the library.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.007001,
+   "REPORT_FOUND": 0.014193,
+   "REPORT_LOST": 0.974517,
+   "SEARCH_ITEM": 0.004289
+  }
+ },
+ {
+  "text": "there's a school id at the classroom that someone may have lost.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002999,
+   "REPORT_FOUND": 0.978199,
+   "REPORT_LOST": 0.010601,
+   "SEARCH_ITEM": 0.008201
+  }
+ },
+ {
+  "text": "i picked up a student id in the student lounge.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.00215,
+   "REPORT_FOUND": 0.984642,
+   "REPORT_LOST": 0.009564,
+   "SEARCH_ITEM": 0.003644
+  }
+ },
+ {
+  "text": "i picked up a drink bottle in the laboratory.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.0037,
+   "REPORT_FOUND": 0.971711,
+   "REPORT_LOST": 0.017051,
+   "SEARCH_ITEM": 0.007538
+  }
+ },
+ {
+  "text": "i'm looking for my earphones.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001966,
+   "REPORT_FOUND": 0.002834,
+   "REPORT_LOST": 0.00694,
+   "SEARCH_ITEM": 0.988261
+  }
+ },
+ {
+  "text": "has anyone found my school notebook?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001169,
+   "REPORT_FOUND": 0.006997,
+   "REPORT_LOST": 0.004448,
+   "SEARCH_ITEM": 0.987386
+  }
+ },
+ {
+  "text": "i can't find my ipad; i think i left it at room 202.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.000806,
+   "REPORT_FOUND": 0.002257,
+   "REPORT_LOST": 0.996424,
+   "SEARCH_ITEM": 0.000513
+  }
+ },
+ {
+  "text": "can you help me find my file folder? i lost it near the hallway.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.01428,
+   "REPORT_FOUND": 0.00909,
+   "REPORT_LOST": 0.94268,
+   "SEARCH_ITEM": 0.033951
+  }
+ },
+ {
+  "text": "has anyone seen my spectacles? i lost it at the laboratory.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.00304,
+   "REPORT_FOUND": 0.006873,
+   "REPORT_LOST": 0.970853,
+   "SEARCH_ITEM": 0.019234
+  }
+ },
+ {
+  "text": "my id lace is missing. i last had it near room 203.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.00104,
+   "REPORT_FOUND": 0.003751,
+   "REPORT_LOST": 0.994065,
+   "SEARCH_ITEM": 0.001144
+  }
+ },
+ {
+  "text": "can you check if a room keys was found?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003097,
+   "REPORT_FOUND": 0.006536,
+   "REPORT_LOST": 0.000587,
+   "SEARCH_ITEM": 0.989779
+  }
+ },
+ {
+  "text": "is there a usb in the lost and found?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.016092,
+   "REPORT_FOUND": 0.010148,
+   "REPORT_LOST": 0.004887,
+   "SEARCH_ITEM": 0.968872
+  }
+ },
+ {
+  "text": "someone left a textbook at the hallway.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003313,
+   "REPORT_FOUND": 0.975409,
+   "REPORT_LOST": 0.017644,
+   "SEARCH_ITEM": 0.003635
+  }
+ },
+ {
+  "text": "did someone report a wireless earbuds?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.011925,
+   "REPORT_FOUND": 0.035402,
+   "REPORT_LOST": 0.008168,
+   "SEARCH_ITEM": 0.944504
+  }
+ },
+ {
+  "text": "has anyone seen my pencil case? i lost it at the classroom.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003199,
+   "REPORT_FOUND": 0.003774,
+   "REPORT_LOST": 0.974051,
+   "SEARCH_ITEM": 0.018976
+  }
+ },
+ {
+  "text": "i'm trying to find my identification card.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.00913,
+   "REPORT_FOUND": 0.010416,
+   "REPORT_LOST": 0.017306,
+   "SEARCH_ITEM": 0.963148
+  }
+ },
+ {
+  "text": "i found someone's keys around the student lounge.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001033,
+   "REPORT_FOUND": 0.994009,
+   "REPORT_LOST": 0.003581,
+   "SEARCH_ITEM": 0.001377
+  }
+ },
+ {
+  "text": "i lost my watch near the library.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003364,
+   "REPORT_FOUND": 0.023733,
+   "REPORT_LOST": 0.963825,
+   "SEARCH_ITEM": 0.009078
+  }
+ },
+ {
+  "text": "has anyone found my drink bottle?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.005674,
+   "REPORT_FOUND": 0.011302,
+   "REPORT_LOST": 0.010448,
+   "SEARCH_ITEM": 0.972576
+  }
+ },
+ {
+  "text": "i want to search for my missing typing board.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.010112,
+   "REPORT_FOUND": 0.004511,
+   "REPORT_LOST": 0.02348,
+   "SEARCH_ITEM": 0.961897
+  }
+ },
+ {
+  "text": "has anyone seen my computer keyboard? i lost it at the front lobby.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.00231,
+   "REPORT_FOUND": 0.007339,
+   "REPORT_LOST": 0.968092,
+   "SEARCH_ITEM": 0.022259
+  }
+ },
+ {
+  "text": "i found a tablet on the floor near room 203.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001463,
+   "REPORT_FOUND": 0.992855,
+   "REPORT_LOST": 0.003494,
+   "SEARCH_ITEM": 0.002188
+  }
+ },
+ {
+  "text": "i saw a identification card in the auditorium.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.012336,
+   "REPORT_FOUND": 0.936519,
+   "REPORT_LOST": 0.028852,
+   "SEARCH_ITEM": 0.022293
+  }
+ },
+ {
+  "text": "i want to search for my missing neck strap.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.007644,
+   "REPORT_FOUND": 0.002333,
+   "REPORT_LOST": 0.01354,
+   "SEARCH_ITEM": 0.976484
+  }
+ },
+ {
+  "text": "someone left a cellphone at the library.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003405,
+   "REPORT_FOUND": 0.966394,
+   "REPORT_LOST": 0.020275,
+   "SEARCH_ITEM": 0.009926
+  }
+ },
+ {
+  "text": "i found a clothes near the classroom.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.005749,
+   "REPORT_FOUND": 0.966017,
+   "REPORT_LOST": 0.020748,
+   "SEARCH_ITEM": 0.007486
+  }
+ },
+ {
+  "text": "i'm looking for my smartwatch.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004432,
+   "REPORT_FOUND": 0.003811,
+   "REPORT_LOST": 0.008397,
+   "SEARCH_ITEM": 0.98336
+  }
+ },
+ {
+  "text": "i found someone's over-ear headphones around the parking area.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003256,
+   "REPORT_FOUND": 0.977643,
+   "REPORT_LOST": 0.012019,
+   "SEARCH_ITEM": 0.007083
+  }
+ },
+ {
+  "text": "i'm looking for my wallet.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.000767,
+   "REPORT_FOUND": 0.001092,
+   "REPORT_LOST": 0.003699,
+   "SEARCH_ITEM": 0.994442
+  }
+ },
+ {
+  "text": "my charging cable is missing. i last had it near the canteen.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002267,
+   "REPORT_FOUND": 0.008022,
+   "REPORT_LOST": 0.986498,
+   "SEARCH_ITEM": 0.003213
+  }
+ },
+ {
+  "text": "i picked up a lead pencil in the auditorium.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002688,
+   "REPORT_FOUND": 0.981582,
+   "REPORT_LOST": 0.009599,
+   "SEARCH_ITEM": 0.006131
+  }
+ },
+ {
+  "text": "i misplaced my book somewhere around the library.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001862,
+   "REPORT_FOUND": 0.0071,
+   "REPORT_LOST": 0.987616,
+   "SEARCH_ITEM": 0.003422
+  }
+ },
+ {
+  "text": "i can't find my tumbler; i think i left it at the canteen.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.00044,
+   "REPORT_FOUND": 0.002074,
+   "REPORT_LOST": 0.997142,
+   "SEARCH_ITEM": 0.000343
+  }
+ },
+ {
+  "text": "i was at the canteen and now i can't find my keyboard.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.00941,
+   "REPORT_FOUND": 0.012307,
+   "REPORT_LOST": 0.962876,
+   "SEARCH_ITEM": 0.015407
+  }
+ },
+ {
+  "text": "i'm trying to find my student id.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.006821,
+   "REPORT_FOUND": 0.011541,
+   "REPORT_LOST": 0.02471,
+   "SEARCH_ITEM": 0.956928
+  }
+ },
+ {
+  "text": "i found someone's room keys around room 202.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001517,
+   "REPORT_FOUND": 0.992346,
+   "REPORT_LOST": 0.003998,
+   "SEARCH_ITEM": 0.00214
+  }
+ },
+ {
+  "text": "someone left a school backpack at room 201.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004647,
+   "REPORT_FOUND": 0.962066,
+   "REPORT_LOST": 0.022708,
+   "SEARCH_ITEM": 0.010579
+  }
+ },
+ {
+  "text": "can you help me find my sunglasses? i lost it near the cafeteria.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.010241,
+   "REPORT_FOUND": 0.007067,
+   "REPORT_LOST": 0.931677,
+   "SEARCH_ITEM": 0.051015
+  }
+ },
+ {
+  "text": "can you help me find my student identification? i lost it near the student lounge.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.018952,
+   "REPORT_FOUND": 0.018248,
+   "REPORT_LOST": 0.909712,
+   "SEARCH_ITEM": 0.053088
+  }
+ },
+ {
+  "text": "my wristwatch disappeared after i went to the computer laboratory.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.006658,
+   "REPORT_FOUND": 0.020025,
+   "REPORT_LOST": 0.966388,
+   "SEARCH_ITEM": 0.006929
+  }
+ },
+ {
+  "text": "i found someone's student identification around the student lounge.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.006272,
+   "REPORT_FOUND": 0.972721,
+   "REPORT_LOST": 0.012872,
+   "SEARCH_ITEM": 0.008135
+  }
+ },
+ {
+  "text": "i picked up a uniform shirt in the hallway.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.005135,
+   "REPORT_FOUND": 0.969285,
+   "REPORT_LOST": 0.011912,
+   "SEARCH_ITEM": 0.013668
+  }
+ },
+ {
+  "text": "i'm looking for my pencil case.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.00395,
+   "REPORT_FOUND": 0.004194,
+   "REPORT_LOST": 0.011671,
+   "SEARCH_ITEM": 0.980184
+  }
+ },
+ {
+  "text": "did someone report a food container?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.013744,
+   "REPORT_FOUND": 0.032386,
+   "REPORT_LOST": 0.006021,
+   "SEARCH_ITEM": 0.94785
+  }
+ },
+ {
+  "text": "has anyone seen a mechanical pencil?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.010492,
+   "REPORT_FOUND": 0.013187,
+   "REPORT_LOST": 0.023533,
+   "SEARCH_ITEM": 0.952788
+  }
+ },
+ {
+  "text": "is there a wireless mouse in the lost and found?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.020596,
+   "REPORT_FOUND": 0.021702,
+   "REPORT_LOST": 0.009524,
+   "SEARCH_ITEM": 0.948177
+  }
+ },
+ {
+  "text": "someone left a sunglasses at the cafeteria.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003504,
+   "REPORT_FOUND": 0.962557,
+   "REPORT_LOST": 0.027392,
+   "SEARCH_ITEM": 0.006547
+  }
+ },
+ {
+  "text": "has anyone found my keyboard?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001934,
+   "REPORT_FOUND": 0.004689,
+   "REPORT_LOST": 0.003682,
+   "SEARCH_ITEM": 0.989694
+  }
+ },
+ {
+  "text": "can you check if a phone was found?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.000882,
+   "REPORT_FOUND": 0.001019,
+   "REPORT_LOST": 8.7e-05,
+   "SEARCH_ITEM": 0.998012
+  }
+ },
+ {
+  "text": "my shirt disappeared after i went to the student lounge.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.005957,
+   "REPORT_FOUND": 0.011531,
+   "REPORT_LOST": 0.97864,
+   "SEARCH_ITEM": 0.003872
+  }
+ },
+ {
+  "text": "has anyone seen my ball pen? i lost it at the cafeteria.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002185,
+   "REPORT_FOUND": 0.003778,
+   "REPORT_LOST": 0.964859,
+   "SEARCH_ITEM": 0.029179
+  }
+ },
+ {
+  "text": "how do i claim an item that belongs to me?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.985219,
+   "REPORT_FOUND": 0.010229,
+   "REPORT_LOST": 0.002399,
+   "SEARCH_ITEM": 0.002153
+  }
+ },
+ {
+  "text": "i'm trying to find my school notebook.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003155,
+   "REPORT_FOUND": 0.006373,
+   "REPORT_LOST": 0.016357,
+   "SEARCH_ITEM": 0.974115
+  }
+ },
+ {
+  "text": "i picked up a school bag in the parking area.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001974,
+   "REPORT_FOUND": 0.981398,
+   "REPORT_LOST": 0.010067,
+   "SEARCH_ITEM": 0.006561
+  }
+ },
+ {
+  "text": "there's a school id at the parking area that someone may have lost.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003075,
+   "REPORT_FOUND": 0.97731,
+   "REPORT_LOST": 0.01038,
+   "SEARCH_ITEM": 0.009234
+  }
+ },
+ {
+  "text": "my typing board disappeared after i went to room 203.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.006555,
+   "REPORT_FOUND": 0.01561,
+   "REPORT_LOST": 0.971155,
+   "SEARCH_ITEM": 0.006681
+  }
+ },
+ {
+  "text": "i found someone's wallet around room 202.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.000991,
+   "REPORT_FOUND": 0.994797,
+   "REPORT_LOST": 0.002313,
+   "SEARCH_ITEM": 0.001899
+  }
+ },
+ {
+  "text": "a id card was left behind in the front lobby.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003446,
+   "REPORT_FOUND": 0.963525,
+   "REPORT_LOST": 0.024024,
+   "SEARCH_ITEM": 0.009005
+  }
+ },
+ {
+  "text": "i saw a bag in the student lounge.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003346,
+   "REPORT_FOUND": 0.970983,
+   "REPORT_LOST": 0.019564,
+   "SEARCH_ITEM": 0.006108
+  }
+ },
+ {
+  "text": "is there a portable charger in the lost and found?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.015337,
+   "REPORT_FOUND": 0.022194,
+   "REPORT_LOST": 0.015455,
+   "SEARCH_ITEM": 0.947015
+  }
+ },
+ {
+  "text": "has anyone seen my money wallet? i lost it at the classroom.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001992,
+   "REPORT_FOUND": 0.004562,
+   "REPORT_LOST": 0.968838,
+   "SEARCH_ITEM": 0.024608
+  }
+ },
+ {
+  "text": "i'm trying to find my id card.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003687,
+   "REPORT_FOUND": 0.005052,
+   "REPORT_LOST": 0.012243,
+   "SEARCH_ITEM": 0.979018
+  }
+ },
+ {
+  "text": "i think i lost a textbook around the gym.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.005592,
+   "REPORT_FOUND": 0.0195,
+   "REPORT_LOST": 0.971621,
+   "SEARCH_ITEM": 0.003287
+  }
+ },
+ {
+  "text": "i'm trying to find my house keys.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.009302,
+   "REPORT_FOUND": 0.007913,
+   "REPORT_LOST": 0.017783,
+   "SEARCH_ITEM": 0.965002
+  }
+ },
+ {
+  "text": "has anyone seen a charger?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002248,
+   "REPORT_FOUND": 0.002497,
+   "REPORT_LOST": 0.008889,
+   "SEARCH_ITEM": 0.986366
+  }
+ },
+ {
+  "text": "has anyone seen a journal notebook?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.005343,
+   "REPORT_FOUND": 0.008896,
+   "REPORT_LOST": 0.016637,
+   "SEARCH_ITEM": 0.969124
+  }
+ },
+ {
+  "text": "my rain umbrella is missing. i last had it near room 201.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001493,
+   "REPORT_FOUND": 0.008902,
+   "REPORT_LOST": 0.987326,
+   "SEARCH_ITEM": 0.002279
+  }
+ },
+ {
+  "text": "can you check if a shirt was found?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004182,
+   "REPORT_FOUND": 0.002313,
+   "REPORT_LOST": 0.000297,
+   "SEARCH_ITEM": 0.993208
+  }
+ },
+ {
+  "text": "has anyone seen my backpack? i lost it at the auditorium.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002303,
+   "REPORT_FOUND": 0.004954,
+   "REPORT_LOST": 0.970908,
+   "SEARCH_ITEM": 0.021835
+  }
+ },
+ {
+  "text": "my id card disappeared after i went to the laboratory.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003832,
+   "REPORT_FOUND": 0.013255,
+   "REPORT_LOST": 0.979875,
+   "SEARCH_ITEM": 0.003038
+  }
+ },
+ {
+  "text": "i'm looking for my spiral notebook.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004595,
+   "REPORT_FOUND": 0.00749,
+   "REPORT_LOST": 0.016255,
+   "SEARCH_ITEM": 0.971661
+  }
+ },
+ {
+  "text": "did someone report a card wallet?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.008633,
+   "REPORT_FOUND": 0.030388,
+   "REPORT_LOST": 0.00497,
+   "SEARCH_ITEM": 0.95601
+  }
+ },
+ {
+  "text": "has anyone seen my computer mouse? i lost it at the gym.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002769,
+   "REPORT_FOUND": 0.003856,
+   "REPORT_LOST": 0.972591,
+   "SEARCH_ITEM": 0.020785
+  }
+ },
+ {
+  "text": "someone left a scientific calculator at room 203.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.005384,
+   "REPORT_FOUND": 0.949382,
+   "REPORT_LOST": 0.034697,
+   "SEARCH_ITEM": 0.010537
+  }
+ },
+ {
+  "text": "someone left a billfold at the hallway.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004469,
+   "REPORT_FOUND": 0.973316,
+   "REPORT_LOST": 0.017431,
+   "SEARCH_ITEM": 0.004784
+  }
+ },
+ {
+  "text": "has anyone seen a school cap?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.006365,
+   "REPORT_FOUND": 0.006655,
+   "REPORT_LOST": 0.016198,
+   "SEARCH_ITEM": 0.970782
+  }
+ },
+ {
+  "text": "i found a bag near the parking area.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001305,
+   "REPORT_FOUND": 0.988314,
+   "REPORT_LOST": 0.007952,
+   "SEARCH_ITEM": 0.002428
+  }
+ },
+ {
+  "text": "can you help me find my cellphone? i lost it near the auditorium.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.011892,
+   "REPORT_FOUND": 0.008769,
+   "REPORT_LOST": 0.93319,
+   "SEARCH_ITEM": 0.04615
+  }
+ },
+ {
+  "text": "i found someone's id strap around the library.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002358,
+   "REPORT_FOUND": 0.988162,
+   "REPORT_LOST": 0.00455,
+   "SEARCH_ITEM": 0.004931
+  }
+ },
+ {
+  "text": "where can i claim my lost item?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.947098,
+   "REPORT_FOUND": 0.000838,
+   "REPORT_LOST": 0.050179,
+   "SEARCH_ITEM": 0.001885
+  }
+ },
+ {
+  "text": "has anyone found my charging cable?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003897,
+   "REPORT_FOUND": 0.009109,
+   "REPORT_LOST": 0.006366,
+   "SEARCH_ITEM": 0.980628
+  }
+ },
+ {
+  "text": "i saw a ink pen in the library.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.008707,
+   "REPORT_FOUND": 0.937702,
+   "REPORT_LOST": 0.034812,
+   "SEARCH_ITEM": 0.018779
+  }
+ },
+ {
+  "text": "there's a typing board at the parking area that someone may have lost.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004432,
+   "REPORT_FOUND": 0.96982,
+   "REPORT_LOST": 0.014098,
+   "SEARCH_ITEM": 0.011651
+  }
+ },
+ {
+  "text": "i'm trying to find my book.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001798,
+   "REPORT_FOUND": 0.002144,
+   "REPORT_LOST": 0.006719,
+   "SEARCH_ITEM": 0.989339
+  }
+ },
+ {
+  "text": "i'm trying to find my wireless mouse.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.006557,
+   "REPORT_FOUND": 0.009311,
+   "REPORT_LOST": 0.016253,
+   "SEARCH_ITEM": 0.967879
+  }
+ },
+ {
+  "text": "i found a charger near the auditorium.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001083,
+   "REPORT_FOUND": 0.988645,
+   "REPORT_LOST": 0.00875,
+   "SEARCH_ITEM": 0.001522
+  }
+ },
+ {
+  "text": "i lost my laptop near the laboratory.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001049,
+   "REPORT_FOUND": 0.026335,
+   "REPORT_LOST": 0.97125,
+   "SEARCH_ITEM": 0.001366
+  }
+ },
+ {
+  "text": "i can't find my food container; i think i left it at room 203.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002231,
+   "REPORT_FOUND": 0.00782,
+   "REPORT_LOST": 0.987873,
+   "SEARCH_ITEM": 0.002076
+  }
+ },
+ {
+  "text": "someone left a backpack at the auditorium.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002735,
+   "REPORT_FOUND": 0.977698,
+   "REPORT_LOST": 0.016054,
+   "SEARCH_ITEM": 0.003513
+  }
+ },
+ {
+  "text": "can you help me find my school cap? i lost it near the gym.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.012876,
+   "REPORT_FOUND": 0.006569,
+   "REPORT_LOST": 0.931932,
+   "SEARCH_ITEM": 0.048623
+  }
+ },
+ {
+  "text": "can you check if a id strap was found?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004068,
+   "REPORT_FOUND": 0.004194,
+   "REPORT_LOST": 0.000383,
+   "SEARCH_ITEM": 0.991356
+  }
+ },
+ {
+  "text": "i'm trying to find my bag.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002183,
+   "REPORT_FOUND": 0.00226,
+   "REPORT_LOST": 0.008852,
+   "SEARCH_ITEM": 0.986706
+  }
+ },
+ {
+  "text": "i'm trying to find my sunglasses.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.00426,
+   "REPORT_FOUND": 0.005425,
+   "REPORT_LOST": 0.015526,
+   "SEARCH_ITEM": 0.974789
+  }
+ },
+ {
+  "text": "has anyone seen my money wallet? i lost it at the auditorium.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.00211,
+   "REPORT_FOUND": 0.006359,
+   "REPORT_LOST": 0.968174,
+   "SEARCH_ITEM": 0.023357
+  }
+ },
+ {
+  "text": "i found someone's shirt around the student lounge.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002793,
+   "REPORT_FOUND": 0.987938,
+   "REPORT_LOST": 0.006217,
+   "SEARCH_ITEM": 0.003053
+  }
+ },
+ {
+  "text": "did someone report a ipad?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.007712,
+   "REPORT_FOUND": 0.011438,
+   "REPORT_LOST": 0.001969,
+   "SEARCH_ITEM": 0.978881
+  }
+ },
+ {
+  "text": "there's a earbuds at the parking area that someone may have lost.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002417,
+   "REPORT_FOUND": 0.980707,
+   "REPORT_LOST": 0.009712,
+   "SEARCH_ITEM": 0.007164
+  }
+ },
+ {
+  "text": "i lost a student id while i was at the cafeteria.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003878,
+   "REPORT_FOUND": 0.017484,
+   "REPORT_LOST": 0.976321,
+   "SEARCH_ITEM": 0.002318
+  }
+ },
+ {
+  "text": "i saw a textbook in the gym.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.008647,
+   "REPORT_FOUND": 0.952369,
+   "REPORT_LOST": 0.021713,
+   "SEARCH_ITEM": 0.017271
+  }
+ },
+ {
+  "text": "i found a wireless earbuds on the floor near the auditorium.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001528,
+   "REPORT_FOUND": 0.989484,
+   "REPORT_LOST": 0.005593,
+   "SEARCH_ITEM": 0.003395
+  }
+ },
+ {
+  "text": "i saw a school bag in the laboratory.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003639,
+   "REPORT_FOUND": 0.96399,
+   "REPORT_LOST": 0.022981,
+   "SEARCH_ITEM": 0.00939
+  }
+ },
+ {
+  "text": "can you check if a typing board was found?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.00531,
+   "REPORT_FOUND": 0.006662,
+   "REPORT_LOST": 0.000923,
+   "SEARCH_ITEM": 0.987105
+  }
+ },
+ {
+  "text": "i was at room 201 and now i can't find my spectacles.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.011958,
+   "REPORT_FOUND": 0.017328,
+   "REPORT_LOST": 0.956486,
+   "SEARCH_ITEM": 0.014228
+  }
+ },
+ {
+  "text": "i lost a uniform pants while i was at room 203.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.011639,
+   "REPORT_FOUND": 0.027201,
+   "REPORT_LOST": 0.951171,
+   "SEARCH_ITEM": 0.00999
+  }
+ },
+ {
+  "text": "there's a mobile at room 201 that someone may have lost.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004561,
+   "REPORT_FOUND": 0.975725,
+   "REPORT_LOST": 0.010944,
+   "SEARCH_ITEM": 0.00877
+  }
+ },
+ {
+  "text": "someone left a battery pack at the library.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.006147,
+   "REPORT_FOUND": 0.941852,
+   "REPORT_LOST": 0.037835,
+   "SEARCH_ITEM": 0.014166
+  }
+ },
+ {
+  "text": "can you check if a pencil case was found?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.005669,
+   "REPORT_FOUND": 0.004491,
+   "REPORT_LOST": 0.000503,
+   "SEARCH_ITEM": 0.989337
+  }
+ },
+ {
+  "text": "i want to search for my missing clothes.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.008938,
+   "REPORT_FOUND": 0.002118,
+   "REPORT_LOST": 0.016467,
+   "SEARCH_ITEM": 0.972477
+  }
+ },
+ {
+  "text": "can you check if a usb was found?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002473,
+   "REPORT_FOUND": 0.001347,
+   "REPORT_LOST": 0.000118,
+   "SEARCH_ITEM": 0.996063
+  }
+ },
+ {
+  "text": "i found someone's umbrella around room 202.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001221,
+   "REPORT_FOUND": 0.992887,
+   "REPORT_LOST": 0.003193,
+   "SEARCH_ITEM": 0.002699
+  }
+ },
+ {
+  "text": "i found a ipad near room 202.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.005634,
+   "REPORT_FOUND": 0.96369,
+   "REPORT_LOST": 0.017376,
+   "SEARCH_ITEM": 0.013299
+  }
+ },
+ {
+  "text": "i'm looking for my water bottle.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004701,
+   "REPORT_FOUND": 0.00607,
+   "REPORT_LOST": 0.01439,
+   "SEARCH_ITEM": 0.97484
+  }
+ },
+ {
+  "text": "is there a student identification in the lost and found?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.030371,
+   "REPORT_FOUND": 0.035199,
+   "REPORT_LOST": 0.014975,
+   "SEARCH_ITEM": 0.919454
+  }
+ },
+ {
+  "text": "has anyone seen my hoodie? i lost it at the computer laboratory.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002831,
+   "REPORT_FOUND": 0.007097,
+   "REPORT_LOST": 0.973841,
+   "SEARCH_ITEM": 0.01623
+  }
+ },
+ {
+  "text": "i can't find my drink bottle; i think i left it at the laboratory.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001132,
+   "REPORT_FOUND": 0.005686,
+   "REPORT_LOST": 0.992393,
+   "SEARCH_ITEM": 0.00079
+  }
+ },
+ {
+  "text": "is there a keys in the lost and found?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.011293,
+   "REPORT_FOUND": 0.010562,
+   "REPORT_LOST": 0.006626,
+   "SEARCH_ITEM": 0.971519
+  }
+ },
+ {
+  "text": "i found a ruler near the hallway.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002738,
+   "REPORT_FOUND": 0.984049,
+   "REPORT_LOST": 0.009405,
+   "SEARCH_ITEM": 0.003808
+  }
+ },
+ {
+  "text": "i was at room 201 and now i can't find my usb.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.008488,
+   "REPORT_FOUND": 0.010292,
+   "REPORT_LOST": 0.974152,
+   "SEARCH_ITEM": 0.007068
+  }
+ },
+ {
+  "text": "my earphones is missing. i last had it near room 203.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001239,
+   "REPORT_FOUND": 0.006723,
+   "REPORT_LOST": 0.990284,
+   "SEARCH_ITEM": 0.001755
+  }
+ },
+ {
+  "text": "i found someone's smartphone around the computer laboratory.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002293,
+   "REPORT_FOUND": 0.983543,
+   "REPORT_LOST": 0.009428,
+   "SEARCH_ITEM": 0.004736
+  }
+ },
+ {
+  "text": "there's a usb at room 201 that someone may have lost.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004191,
+   "REPORT_FOUND": 0.979447,
+   "REPORT_LOST": 0.008157,
+   "SEARCH_ITEM": 0.008206
+  }
+ },
+ {
+  "text": "my ballpen disappeared after i went to room 202.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003355,
+   "REPORT_FOUND": 0.008478,
+   "REPORT_LOST": 0.985002,
+   "SEARCH_ITEM": 0.003165
+  }
+ },
+ {
+  "text": "i found a power bank on the floor near room 201.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003667,
+   "REPORT_FOUND": 0.981965,
+   "REPORT_LOST": 0.007574,
+   "SEARCH_ITEM": 0.006795
+  }
+ },
+ {
+  "text": "is there a school id in the lost and found?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.012661,
+   "REPORT_FOUND": 0.016166,
+   "REPORT_LOST": 0.007456,
+   "SEARCH_ITEM": 0.963718
+  }
+ },
+ {
+  "text": "i lost my mouse near the front lobby.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004561,
+   "REPORT_FOUND": 0.047218,
+   "REPORT_LOST": 0.944619,
+   "SEARCH_ITEM": 0.003602
+  }
+ },
+ {
+  "text": "i found a notebook on the floor near the computer laboratory.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.000575,
+   "REPORT_FOUND": 0.994377,
+   "REPORT_LOST": 0.003995,
+   "SEARCH_ITEM": 0.001053
+  }
+ },
+ {
+  "text": "my wallet disappeared after i went to room 202.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.0029,
+   "REPORT_FOUND": 0.008104,
+   "REPORT_LOST": 0.986057,
+   "SEARCH_ITEM": 0.002939
+  }
+ },
+ {
+  "text": "i found someone's pen around room 201.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001445,
+   "REPORT_FOUND": 0.995121,
+   "REPORT_LOST": 0.001839,
+   "SEARCH_ITEM": 0.001595
+  }
+ },
+ {
+  "text": "a calculator was left behind in the hallway.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001874,
+   "REPORT_FOUND": 0.973271,
+   "REPORT_LOST": 0.016084,
+   "SEARCH_ITEM": 0.008771
+  }
+ },
+ {
+  "text": "my earbuds is missing. i last had it near the hallway.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.000727,
+   "REPORT_FOUND": 0.005185,
+   "REPORT_LOST": 0.993107,
+   "SEARCH_ITEM": 0.000981
+  }
+ },
+ {
+  "text": "my pen case is missing. i last had it near room 201.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002078,
+   "REPORT_FOUND": 0.006822,
+   "REPORT_LOST": 0.989439,
+   "SEARCH_ITEM": 0.001661
+  }
+ },
+ {
+  "text": "has anyone seen my flask? i lost it at room 203.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.00226,
+   "REPORT_FOUND": 0.003513,
+   "REPORT_LOST": 0.97117,
+   "SEARCH_ITEM": 0.023057
+  }
+ },
+ {
+  "text": "i lost a notebook while i was at the computer laboratory.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001831,
+   "REPORT_FOUND": 0.019346,
+   "REPORT_LOST": 0.976984,
+   "SEARCH_ITEM": 0.001839
+  }
+ },
+ {
+  "text": "i want to search for my missing food container.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.010002,
+   "REPORT_FOUND": 0.003997,
+   "REPORT_LOST": 0.01608,
+   "SEARCH_ITEM": 0.969922
+  }
+ },
+ {
+  "text": "i think i lost a lunch box around the front lobby.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.007582,
+   "REPORT_FOUND": 0.045769,
+   "REPORT_LOST": 0.940855,
+   "SEARCH_ITEM": 0.005793
+  }
+ },
+ {
+  "text": "i saw a pen case in the auditorium.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.008395,
+   "REPORT_FOUND": 0.961337,
+   "REPORT_LOST": 0.02077,
+   "SEARCH_ITEM": 0.009499
+  }
+ },
+ {
+  "text": "i found a id strap on the floor near the computer laboratory.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.00118,
+   "REPORT_FOUND": 0.991661,
+   "REPORT_LOST": 0.005429,
+   "SEARCH_ITEM": 0.001729
+  }
+ },
+ {
+  "text": "has anyone seen a charging cord?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.010084,
+   "REPORT_FOUND": 0.008573,
+   "REPORT_LOST": 0.020739,
+   "SEARCH_ITEM": 0.960604
+  }
+ },
+ {
+  "text": "my glasses is missing. i last had it near the canteen.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.000786,
+   "REPORT_FOUND": 0.003676,
+   "REPORT_LOST": 0.994535,
+   "SEARCH_ITEM": 0.001004
+  }
+ },
+ {
+  "text": "my neck strap is missing. i last had it near the computer laboratory.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001958,
+   "REPORT_FOUND": 0.015259,
+   "REPORT_LOST": 0.979683,
+   "SEARCH_ITEM": 0.0031
+  }
+ },
+ {
+  "text": "i picked up a measuring ruler in the auditorium.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004761,
+   "REPORT_FOUND": 0.970289,
+   "REPORT_LOST": 0.015003,
+   "SEARCH_ITEM": 0.009948
+  }
+ },
+ {
+  "text": "i misplaced my sun glasses somewhere around the library.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003534,
+   "REPORT_FOUND": 0.01418,
+   "REPORT_LOST": 0.975872,
+   "SEARCH_ITEM": 0.006414
+  }
+ },
+ {
+  "text": "i was at room 203 and now i can't find my scientific calculator.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.010403,
+   "REPORT_FOUND": 0.022172,
+   "REPORT_LOST": 0.946807,
+   "SEARCH_ITEM": 0.020618
+  }
+ },
+ {
+  "text": "i'm looking for my flash drive.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001289,
+   "REPORT_FOUND": 0.002748,
+   "REPORT_LOST": 0.010192,
+   "SEARCH_ITEM": 0.985771
+  }
+ },
+ {
+  "text": "i'm looking for my shirt.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003219,
+   "REPORT_FOUND": 0.002269,
+   "REPORT_LOST": 0.007329,
+   "SEARCH_ITEM": 0.987182
+  }
+ },
+ {
+  "text": "i picked up a tablet in the student lounge.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002161,
+   "REPORT_FOUND": 0.984255,
+   "REPORT_LOST": 0.008882,
+   "SEARCH_ITEM": 0.004703
+  }
+ },
+ {
+  "text": "is there a tablet computer in the lost and found?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.017008,
+   "REPORT_FOUND": 0.026322,
+   "REPORT_LOST": 0.016205,
+   "SEARCH_ITEM": 0.940464
+  }
+ },
+ {
+  "text": "my phone charger disappeared after i went to the student lounge.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002037,
+   "REPORT_FOUND": 0.009455,
+   "REPORT_LOST": 0.985308,
+   "SEARCH_ITEM": 0.003201
+  }
+ },
+ {
+  "text": "i picked up a headset in room 202.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004496,
+   "REPORT_FOUND": 0.980138,
+   "REPORT_LOST": 0.010141,
+   "SEARCH_ITEM": 0.005225
+  }
+ },
+ {
+  "text": "has anyone seen a usb drive?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.005952,
+   "REPORT_FOUND": 0.004993,
+   "REPORT_LOST": 0.012064,
+   "SEARCH_ITEM": 0.97699
+  }
+ },
+ {
+  "text": "someone left a cellphone at the auditorium.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002676,
+   "REPORT_FOUND": 0.976592,
+   "REPORT_LOST": 0.016714,
+   "SEARCH_ITEM": 0.004018
+  }
+ },
+ {
+  "text": "i can't find my notebook computer; i think i left it at the auditorium.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.000427,
+   "REPORT_FOUND": 0.003758,
+   "REPORT_LOST": 0.995409,
+   "SEARCH_ITEM": 0.000406
+  }
+ },
+ {
+  "text": "i lost a school jacket while i was at the parking area.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003589,
+   "REPORT_FOUND": 0.021781,
+   "REPORT_LOST": 0.970503,
+   "SEARCH_ITEM": 0.004128
+  }
+ },
+ {
+  "text": "i picked up a notebook in the gym.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001009,
+   "REPORT_FOUND": 0.9909,
+   "REPORT_LOST": 0.004635,
+   "SEARCH_ITEM": 0.003457
+  }
+ },
+ {
+  "text": "i found a lunchbox on the floor near the classroom.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002375,
+   "REPORT_FOUND": 0.989669,
+   "REPORT_LOST": 0.005025,
+   "SEARCH_ITEM": 0.002932
+  }
+ },
+ {
+  "text": "has anyone seen my reference book? i lost it at room 201.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003194,
+   "REPORT_FOUND": 0.007992,
+   "REPORT_LOST": 0.954961,
+   "SEARCH_ITEM": 0.033852
+  }
+ },
+ {
+  "text": "i think i lost a school book around room 203.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003502,
+   "REPORT_FOUND": 0.022354,
+   "REPORT_LOST": 0.970668,
+   "SEARCH_ITEM": 0.003476
+  }
+ },
+ {
+  "text": "i picked up a charging cord in the parking area.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004758,
+   "REPORT_FOUND": 0.971891,
+   "REPORT_LOST": 0.013795,
+   "SEARCH_ITEM": 0.009556
+  }
+ },
+ {
+  "text": "there's a computer keyboard at room 202 that someone may have lost.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.00441,
+   "REPORT_FOUND": 0.967117,
+   "REPORT_LOST": 0.015421,
+   "SEARCH_ITEM": 0.013053
+  }
+ },
+ {
+  "text": "i saw a lead pencil in the computer laboratory.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.005941,
+   "REPORT_FOUND": 0.937646,
+   "REPORT_LOST": 0.041399,
+   "SEARCH_ITEM": 0.015013
+  }
+ },
+ {
+  "text": "has anyone found my money wallet?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002158,
+   "REPORT_FOUND": 0.009757,
+   "REPORT_LOST": 0.004895,
+   "SEARCH_ITEM": 0.98319
+  }
+ },
+ {
+  "text": "i found someone's money wallet around the auditorium.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001676,
+   "REPORT_FOUND": 0.989616,
+   "REPORT_LOST": 0.005566,
+   "SEARCH_ITEM": 0.003141
+  }
+ },
+ {
+  "text": "i want to search for my missing identification card.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.013209,
+   "REPORT_FOUND": 0.004662,
+   "REPORT_LOST": 0.017847,
+   "SEARCH_ITEM": 0.964282
+  }
+ },
+ {
+  "text": "i'm trying to find my phone charger.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001779,
+   "REPORT_FOUND": 0.004181,
+   "REPORT_LOST": 0.016253,
+   "SEARCH_ITEM": 0.977787
+  }
+ },
+ {
+  "text": "is there a wireless earbuds in the lost and found?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.0116,
+   "REPORT_FOUND": 0.021408,
+   "REPORT_LOST": 0.011667,
+   "SEARCH_ITEM": 0.955326
+  }
+ },
+ {
+  "text": "i'm trying to find my glasses.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.001928,
+   "REPORT_FOUND": 0.00257,
+   "REPORT_LOST": 0.009925,
+   "SEARCH_ITEM": 0.985577
+  }
+ },
+ {
+  "text": "i saw a id card in the laboratory.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003588,
+   "REPORT_FOUND": 0.973069,
+   "REPORT_LOST": 0.017177,
+   "SEARCH_ITEM": 0.006166
+  }
+ },
+ {
+  "text": "i'm trying to find my cellphone.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003447,
+   "REPORT_FOUND": 0.004079,
+   "REPORT_LOST": 0.010173,
+   "SEARCH_ITEM": 0.982301
+  }
+ },
+ {
+  "text": "i saw a earbuds in the hallway.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002797,
+   "REPORT_FOUND": 0.974748,
+   "REPORT_LOST": 0.015044,
+   "SEARCH_ITEM": 0.007411
+  }
+ },
+ {
+  "text": "i'm trying to find my keychain.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.006403,
+   "REPORT_FOUND": 0.00668,
+   "REPORT_LOST": 0.015516,
+   "SEARCH_ITEM": 0.9714
+  }
+ },
+ {
+  "text": "i misplaced my cap somewhere around the student lounge.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003731,
+   "REPORT_FOUND": 0.015348,
+   "REPORT_LOST": 0.977838,
+   "SEARCH_ITEM": 0.003083
+  }
+ },
+ {
+  "text": "my textbook disappeared after i went to the hallway.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.00667,
+   "REPORT_FOUND": 0.013857,
+   "REPORT_LOST": 0.974384,
+   "SEARCH_ITEM": 0.00509
+  }
+ },
+ {
+  "text": "is there a earbuds in the lost and found?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.009508,
+   "REPORT_FOUND": 0.014801,
+   "REPORT_LOST": 0.007196,
+   "SEARCH_ITEM": 0.968495
+  }
+ },
+ {
+  "text": "i lost my memory stick near the cafeteria.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.007694,
+   "REPORT_FOUND": 0.042431,
+   "REPORT_LOST": 0.933965,
+   "SEARCH_ITEM": 0.01591
+  }
+ },
+ {
+  "text": "i'm looking for my room keys.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.003376,
+   "REPORT_FOUND": 0.008016,
+   "REPORT_LOST": 0.02037,
+   "SEARCH_ITEM": 0.968238
+  }
+ },
+ {
+  "text": "can you help me find my charging cord? i lost it near the library.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.014301,
+   "REPORT_FOUND": 0.007437,
+   "REPORT_LOST": 0.913172,
+   "SEARCH_ITEM": 0.06509
+  }
+ },
+ {
+  "text": "i'm trying to find my mechanical pencil.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.007951,
+   "REPORT_FOUND": 0.010392,
+   "REPORT_LOST": 0.019383,
+   "SEARCH_ITEM": 0.962274
+  }
+ },
+ {
+  "text": "i picked up a keychain in room 202.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004937,
+   "REPORT_FOUND": 0.979083,
+   "REPORT_LOST": 0.009783,
+   "SEARCH_ITEM": 0.006197
+  }
+ },
+ {
+  "text": "i can't find my laptop; i think i left it at the canteen.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.000392,
+   "REPORT_FOUND": 0.001521,
+   "REPORT_LOST": 0.99781,
+   "SEARCH_ITEM": 0.000277
+  }
+ },
+ {
+  "text": "i saw a lunch box in room 202.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.011815,
+   "REPORT_FOUND": 0.938407,
+   "REPORT_LOST": 0.0303,
+   "SEARCH_ITEM": 0.019479
+  }
+ },
+ {
+  "text": "i misplaced my book somewhere around room 202.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.002729,
+   "REPORT_FOUND": 0.011109,
+   "REPORT_LOST": 0.982888,
+   "SEARCH_ITEM": 0.003274
+  }
+ },
+ {
+  "text": "i lost my lead pencil near the computer laboratory.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.00341,
+   "REPORT_FOUND": 0.056931,
+   "REPORT_LOST": 0.933872,
+   "SEARCH_ITEM": 0.005788
+  }
+ },
+ {
+  "text": "has anyone seen a student identification?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.016592,
+   "REPORT_FOUND": 0.018187,
+   "REPORT_LOST": 0.036487,
+   "SEARCH_ITEM": 0.928734
+  }
+ },
+ {
+  "text": "i can't find my mobile; i think i left it at room 201.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.000955,
+   "REPORT_FOUND": 0.003434,
+   "REPORT_LOST": 0.995131,
+   "SEARCH_ITEM": 0.00048
+  }
+ },
+ {
+  "text": "i found someone's pencil pouch around the library.",
+  "probs": {
+   "GENERAL_INQUIRY": 0.004091,
+   "REPORT_FOUND": 0.975623,
+   "REPORT_LOST": 0.007527,
+   "SEARCH_ITEM": 0.012759
+  }
+ },
+ {
+  "text": "has anyone found my notebook?",
+  "probs": {
+   "GENERAL_INQUIRY": 0.000434,
+   "REPORT_FOUND": 0.002337,
+   "REPORT_LOST": 0.001354,
+   "SEARCH_ITEM": 0.995876
+  }
+ }
+]

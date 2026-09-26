@@ -1,0 +1,115 @@
+text,intent
+i think i left my airpods in the hoops gym earlier,REPORT_LOST
+lost my wallet somewhere between the canteen and the lrc,REPORT_LOST
+"hello, my calculator went missing after our math exam",REPORT_LOST
+nawala ko yung payong ko sa may dugout kanina,REPORT_LOST
+naiwan ko cp ko sa cr sa 2nd floor,REPORT_LOST
+i cant find my school id since yesterday,REPORT_LOST
+my black jansport bag is gone i left it at the gazebo,REPORT_LOST
+"help, i lost my iphone 13 near the parking lot",REPORT_LOST
+i misplaced my car keys around the front gate this morning,REPORT_LOST
+my aquaflask was stolen or lost in room 305,REPORT_LOST
+left my jacket at the auditorium during the seminar,REPORT_LOST
+nawawala yung lanyard ko,REPORT_LOST
+i dropped my earbuds somewhere in the football field,REPORT_LOST
+my laptop charger is missing i was at the library,REPORT_LOST
+forgot my tumbler at the food stalls,REPORT_LOST
+i lost a gold ring in the restroom,REPORT_LOST
+my glasses fell somewhere near the stairs i cant find them,REPORT_LOST
+di ko mahanap yung wallet ko,REPORT_LOST
+i left my notebook in the computer lab last monday,REPORT_LOST
+my phone is missing pls help,REPORT_LOST
+i lost my flashdrive with my thesis on it,REPORT_LOST
+my samsung tablet got lost in the dormitel lobby,REPORT_LOST
+i think someone took my umbrella by mistake at the chapel,REPORT_LOST
+lost my headset at the multipurpose gym,REPORT_LOST
+my power bank is gone after pe class,REPORT_LOST
+i lost my student id and my atm card together,REPORT_LOST
+nahulog yung susi ko sa parking,REPORT_LOST
+my watch disappeared after swimming class at the pool,REPORT_LOST
+i must have left my pencil case at the engineering lab,REPORT_LOST
+lost my cap near the tennis court,REPORT_LOST
+my wallet is missing,REPORT_LOST
+i lost my phone,REPORT_LOST
+i lost my ipad yesterday afternoon,REPORT_LOST
+my reviewer notes are missing i left them at the lounge,REPORT_LOST
+i forgot my hoodie in the classroom,REPORT_LOST
+i found a phone in the gym,REPORT_FOUND
+someone left their laptop in the library,REPORT_FOUND
+i picked up a wallet at the cafeteria,REPORT_FOUND
+may naiwan na payong dito sa lobby,REPORT_FOUND
+nakapulot ako ng id sa hallway,REPORT_FOUND
+there's a tumbler left on the table at the food stalls,REPORT_FOUND
+i found some keys near the guardhouse,REPORT_FOUND
+i want to surrender an item i found,REPORT_FOUND
+found a black umbrella by the elevator,REPORT_FOUND
+i saw an unattended bag in the auditorium,REPORT_FOUND
+i have someone's calculator i found it in room 204,REPORT_FOUND
+i found a telecommunication device inside the gym,REPORT_FOUND
+i found an iphone inside the gym,REPORT_FOUND
+someone forgot their jacket at the gazebo,REPORT_FOUND
+there is a lost charger plugged in at the lrc,REPORT_FOUND
+i found earphones on the bleachers near the dugout,REPORT_FOUND
+may nakita akong wallet sa cr,REPORT_FOUND
+i found a student id belonging to a freshman,REPORT_FOUND
+i picked up a flash drive from the computer lab,REPORT_FOUND
+i found glasses in the chapel,REPORT_FOUND
+how do i turn in a phone i found,REPORT_FOUND
+found this watch at the swimming pool area,REPORT_FOUND
+someone dropped their notebook on the stairs,REPORT_FOUND
+i found a ring in the comfort room,REPORT_FOUND
+nakita ko tong power bank sa canteen,REPORT_FOUND
+there's a lanyard with keys on the bench outside,REPORT_FOUND
+i got a book that someone left in the classroom,REPORT_FOUND
+i found a cap at the basketball court,REPORT_FOUND
+i found a lunch box in the dorm,REPORT_FOUND
+i would like to report a found item,REPORT_FOUND
+has anyone turned in a black wallet?,SEARCH_ITEM
+did someone find a phone at the gym?,SEARCH_ITEM
+is there an umbrella in lost and found?,SEARCH_ITEM
+can you check if my id was surrendered,SEARCH_ITEM
+may nakapulot ba ng susi?,SEARCH_ITEM
+pacheck po kung may naisurrender na tumbler,SEARCH_ITEM
+are there any laptops that were found recently,SEARCH_ITEM
+has a blue hydro flask been turned in?,SEARCH_ITEM
+check if there is a calculator in the found items,SEARCH_ITEM
+did anybody return an ipad?,SEARCH_ITEM
+any found airpods?,SEARCH_ITEM
+search for a lost charger,SEARCH_ITEM
+look up found items near the library,SEARCH_ITEM
+was a jacket found at the auditorium?,SEARCH_ITEM
+meron bang nakitang wallet sa cafeteria?,SEARCH_ITEM
+i want to check if someone found my glasses,SEARCH_ITEM
+can you search for my earphones,SEARCH_ITEM
+is my flash drive in the lost and found?,SEARCH_ITEM
+has anyone seen a gray backpack,SEARCH_ITEM
+do you have a found watch?,SEARCH_ITEM
+can i see the list of found items,SEARCH_ITEM
+please check if a notebook was found,SEARCH_ITEM
+did anyone surrender a power bank,SEARCH_ITEM
+i'm looking for my umbrella did someone return it,SEARCH_ITEM
+nahanap na ba yung cellphone ko?,SEARCH_ITEM
+where is the lost and found?,GENERAL_INQUIRY
+where do i claim a lost item?,GENERAL_INQUIRY
+what are the office hours of the lost and found?,GENERAL_INQUIRY
+what do i need to bring to claim my item?,GENERAL_INQUIRY
+how long do you keep found items?,GENERAL_INQUIRY
+how does this chatbot work?,GENERAL_INQUIRY
+what can you do?,GENERAL_INQUIRY
+saan pwede kunin yung naiwan ko?,GENERAL_INQUIRY
+paano mag claim?,GENERAL_INQUIRY
+who handles lost items in the school?,GENERAL_INQUIRY
+is the disciplinary office open on saturday?,GENERAL_INQUIRY
+what happens to unclaimed items?,GENERAL_INQUIRY
+can someone else claim my item for me?,GENERAL_INQUIRY
+do i need my id to claim?,GENERAL_INQUIRY
+what is findit?,GENERAL_INQUIRY
+how do i use this?,GENERAL_INQUIRY
+where is the disciplinary office?,GENERAL_INQUIRY
+what information should i give when reporting?,GENERAL_INQUIRY
+can i report on behalf of my friend?,GENERAL_INQUIRY
+what's the process for returning something i found?,GENERAL_INQUIRY
+anong oras bukas yung office?,GENERAL_INQUIRY
+is there a fee to claim items?,GENERAL_INQUIRY
+how will i know if my item is found?,GENERAL_INQUIRY
+who made this chatbot?,GENERAL_INQUIRY
