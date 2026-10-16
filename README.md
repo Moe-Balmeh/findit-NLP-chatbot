@@ -2,8 +2,6 @@
 
 A lost and found assistant for NU Laguna. Students and faculty describe what they lost or found in plain English or Taglish, and FindIt records the report and checks it against items that were already turned in.
 
-> Work in progress. See [PLAN.md](PLAN.md) for the roadmap.
-
 ## How it works
 
 ```

@@ -1,5 +1,4 @@
-# checks our plain python classifier gives the same answers as scikit-learn,
-# plus a few messages that must always be classified right.
+# plain python classifier matches sklearn, plus a few fixed examples.
 
 import json
 from pathlib import Path

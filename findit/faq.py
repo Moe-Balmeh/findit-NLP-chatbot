@@ -1,5 +1,4 @@
-# answers general questions like "where is the lost and found?" by finding the most
-# similar question in data/faq.csv (tf-idf + cosine similarity).
+# faq retrieval: tf-idf + cosine similarity against the questions in data/faq.csv.
 
 import csv
 import math
@@ -20,7 +19,7 @@ def words(text):
 
 class FAQ:
     def __init__(self, path=FAQ_PATH):
-        # every example question becomes its own tf-idf vector
+        # one tf-idf vector per example question
         self.questions = []
         with open(path, encoding="utf-8") as f:
             for row in csv.DictReader(f):
@@ -41,7 +40,7 @@ class FAQ:
         return {t: v / norm for t, v in vec.items()}
 
     def search(self, text):
-        # cosine similarity against every example question, return the best one
+        # answer of the most similar question
         query = self.vector(Counter(words(text)))
         best, best_score = None, 0.0
         for entry, vec in self.questions:

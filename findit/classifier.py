@@ -1,6 +1,5 @@
-# intent classifier: decides if a message is REPORT_LOST, REPORT_FOUND,
-# SEARCH_ITEM or GENERAL_INQUIRY. it runs the tf-idf + logistic regression model
-# from ml/train.py using plain python math, so the website doesn't need scikit-learn.
+# runs the exported tf-idf + logistic regression model in plain python,
+# so the server doesn't need scikit-learn.
 
 import json
 import math
@@ -11,7 +10,7 @@ from .text import normalize
 
 MODEL_PATH = Path(__file__).resolve().parent.parent / "data" / "model.json"
 
-# same regexes sklearn uses, so features line up exactly
+# same regexes as sklearn so the features match
 _WORD = re.compile(r"(?u)\b\w\w+\b")
 _MULTI_WS = re.compile(r"\s\s+")
 

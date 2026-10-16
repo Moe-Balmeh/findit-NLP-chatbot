@@ -1,6 +1,4 @@
-# text helpers used by every other file: lowercase, split into words, and
-# measure how far apart two words are (for typos like "walet").
-# keeping this in one place means every message gets cleaned the same way.
+# text helpers shared by all modules: normalize, tokenize, edit distance.
 
 import re
 import unicodedata
@@ -21,7 +19,7 @@ CONTRACTIONS = {
     "it's": "it is",
 }
 
-# real words that should never get "typo corrected" into an item or place
+# real words that should never be typo-corrected into an item or place
 COMMON_WORDS = set("""
 a an the and or but if so to of in on at by for from with without into onto near
 around inside outside beside behind between under over after before during since

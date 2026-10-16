@@ -1,6 +1,5 @@
-# saves reports and gives each one a reference code like L-2609-7KQ3.
-# SupabaseStore saves to our real database; MemoryStore keeps everything in
-# lists and is used for tests or when the supabase keys aren't set.
+# storage: SupabaseStore uses the database, MemoryStore keeps data in memory
+# for tests and local runs without keys.
 
 import os
 import random
@@ -37,7 +36,7 @@ def new_record(slots, prefix, status):
 
 
 def status_update(kind, status):
-    # also remember when an item was claimed / a report was closed
+    # timestamp when a report is resolved
     done = status in ("claimed", "disposed", "returned", "closed")
     stamp = datetime.now(timezone.utc).isoformat() if done else None
     return {"status": status, ("claimed_at" if kind == "found" else "resolved_at"): stamp}
@@ -99,18 +98,18 @@ class MemoryStore:
         return False
 
     def sign_in(self, email, password):
-        # only for local testing without supabase, set ADMIN_PASSWORD yourself
+        # local testing only, password comes from ADMIN_PASSWORD
         admin_password = os.environ.get("ADMIN_PASSWORD")
         return email if admin_password and password == admin_password else None
 
 
 class SupabaseStore:
-    # talks to supabase's REST api (postgrest), so each method is one http request
+    # supabase rest api (postgrest), one http request per method
 
     def __init__(self, url, key):
         self.api = url.rstrip("/") + "/rest/v1/"
         self.headers = {"apikey": key, "Content-Type": "application/json"}
-        # old style keys are JWTs and also go in the Authorization header
+        # legacy jwt keys also need the Authorization header
         if key.startswith("eyJ"):
             self.headers["Authorization"] = f"Bearer {key}"
 
@@ -148,14 +147,14 @@ class SupabaseStore:
         return self.select("lost_reports", params)
 
     def add_match(self, lost_id, found_id, score):
-        # the same pair can come up twice, so ignore duplicates
+        # ignore duplicate pairs
         row = {"lost_id": lost_id, "found_id": found_id, "score": score}
         res = requests.post(self.api + "matches?on_conflict=lost_id,found_id", json=row, timeout=10,
                             headers={**self.headers, "Prefer": "resolution=ignore-duplicates"})
         res.raise_for_status()
 
     def log(self, session_id, message, intent, confidence):
-        # logging should never break the chat
+        # a failed log shouldn't break the chat
         try:
             self.insert("chat_logs", {"session_id": session_id, "message": message,
                                       "intent": intent, "confidence": confidence})
@@ -179,7 +178,7 @@ class SupabaseStore:
         return bool(res.json())
 
     def sign_in(self, email, password):
-        # check the password with supabase auth, then make sure they're in the admins table
+        # verify the password with supabase auth, then check the admins table
         res = requests.post(self.api.replace("/rest/v1/", "/auth/v1/token"), timeout=10,
                             params={"grant_type": "password"}, headers=self.headers,
                             json={"email": email, "password": password})

@@ -1,6 +1,5 @@
-# trains the intent classifier with scikit-learn, tests it on our handwritten
-# messages (the honest accuracy number) and exports the weights to data/model.json.
-# run it again whenever the training data changes.
+# trains the intent classifier with scikit-learn, evaluates it on the handwritten
+# test set and exports the weights to data/model.json.
 
 import json
 import sys
@@ -36,7 +35,7 @@ def load_training():
 def build_model():
     features = FeatureUnion([
         ("word", TfidfVectorizer(ngram_range=(1, 2), sublinear_tf=True)),
-        # char n-grams inside words make it robust to typos like "walet"
+        # char n-grams handle typos like "walet"
         ("char", TfidfVectorizer(analyzer="char_wb", ngram_range=(2, 5),
                                  sublinear_tf=True, min_df=2)),
     ])
@@ -78,7 +77,7 @@ def main():
     df = load_training()
     X, y = df["text"].tolist(), df["intent"].tolist()
 
-    # heads up: this number is inflated, the training csvs are mostly templates
+    # inflated, the training data is mostly templates
     cv = StratifiedKFold(5, shuffle=True, random_state=42)
     cv_acc = cross_val_score(build_model(), X, y, cv=cv).mean()
     print(f"5-fold cv accuracy (templated data): {cv_acc:.3f}")
@@ -86,7 +85,7 @@ def main():
     model = build_model()
     model.fit(X, y)
 
-    # the real test: handwritten messages the model never sees in training
+    # held-out handwritten test set
     test = pd.read_csv(ROOT / "data" / "test_intents.csv")
     X_test = test["text"].map(normalize).tolist()
     y_test = test["intent"].tolist()
@@ -111,7 +110,7 @@ def main():
 
 
 def save_parity_fixture(model, texts):
-    # sklearn's own probabilities, so tests can check findit/classifier.py matches
+    # sklearn probabilities, used to test that classifier.py matches
     probs = model.predict_proba(texts)
     classes = model.named_steps["clf"].classes_.tolist()
     rows = [{"text": t, "probs": dict(zip(classes, p.round(6).tolist()))}

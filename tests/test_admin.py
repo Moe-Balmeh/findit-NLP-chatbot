@@ -1,5 +1,4 @@
-# tests the admin dashboard api: you must log in first, the numbers for the charts
-# add up, and marking an item as claimed actually saves.
+# admin api: login required, dashboard numbers, status updates.
 
 import pytest
 
@@ -9,7 +8,7 @@ from findit.store import MemoryStore
 
 @pytest.fixture
 def client(monkeypatch):
-    # use a fresh in-memory store so tests never touch the real database
+    # fresh in-memory store, never the real database
     store = MemoryStore()
     monkeypatch.setattr(server, "store", store)
     monkeypatch.setenv("ADMIN_PASSWORD", "test-pass")

@@ -14,7 +14,7 @@
   --gold-text: #7a5b00;
 }
 
-/* dark mode follows the phone / computer setting */
+/* dark mode */
 @media (prefers-color-scheme: dark) {
   :root {
     --bg: #1b1a18;
@@ -573,7 +573,7 @@ textarea {
   color: var(--muted);
 }
 
-/* ipad and phone: sidebar slides in from the left */
+/* tablet and phone: sidebar slides in from the left */
 
 @media (max-width: 1024px) {
   .topbar {

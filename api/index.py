@@ -1,6 +1,5 @@
-# flask web server. the website sends messages to /api/chat and this passes them
-# to findit/dialogue.py. the /api/admin routes power the admin dashboard.
-# vercel runs this file as our backend.
+# flask app: /api/chat runs the chatbot, /api/admin/* serves the admin dashboard.
+# deployed on vercel as a serverless function.
 
 import os
 import re
@@ -15,7 +14,7 @@ from flask import Flask, jsonify, request, send_from_directory, session
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
-load_dotenv(ROOT / ".env")  # locally the keys come from .env, on vercel from its settings
+load_dotenv(ROOT / ".env")  # loads keys from .env when running locally
 
 from findit.admin import dashboard  # noqa: E402
 from findit.dialogue import respond  # noqa: E402
@@ -29,7 +28,7 @@ app = Flask(__name__)
 
 
 def restore_vercel_path(wsgi_app):
-    # vercel sends every /api/* request here as /api/index?route=..., so put the real path back
+    # vercel rewrites /api/* to /api/index?route=..., this restores the original path
     def fixed(environ, start_response):
         if environ.get("PATH_INFO") == "/api/index":
             query = parse_qs(environ.get("QUERY_STRING", ""))
@@ -40,7 +39,7 @@ def restore_vercel_path(wsgi_app):
 
 
 app.wsgi_app = restore_vercel_path(app.wsgi_app)
-# signs the admin login cookie. without a fixed key, logins reset on every restart
+# signs the session cookie, a random key logs everyone out on restart
 app.secret_key = os.environ.get("FLASK_SECRET_KEY") or os.urandom(32)
 app.config.update(SESSION_COOKIE_SAMESITE="Lax", SESSION_COOKIE_SECURE=bool(os.environ.get("VERCEL")))
 store = get_store()
@@ -48,7 +47,7 @@ store = get_store()
 
 @app.errorhandler(404)
 def not_found(e):
-    # json for api calls, and shows the path we got which helps when debugging on vercel
+    # json errors for api routes, with the path for debugging
     if request.path.startswith("/api"):
         return jsonify(error="not found", path=request.path), 404
     return e
@@ -138,7 +137,7 @@ def health():
     return jsonify(ok=True, store=type(store).__name__)
 
 
-# vercel serves public/ on its own, these are just for running locally
+# static files, vercel serves these itself in production
 @app.get("/")
 def index():
     return send_from_directory(PUBLIC, "index.html")

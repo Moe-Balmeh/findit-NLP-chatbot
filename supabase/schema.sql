@@ -1,4 +1,4 @@
--- run this once in supabase: SQL Editor -> New query -> paste -> Run
+-- database schema for findit
 
 create table if not exists found_items (
   id uuid primary key default gen_random_uuid(),
@@ -69,8 +69,7 @@ create index if not exists found_items_open_idx on found_items (item, status);
 create index if not exists lost_reports_open_idx on lost_reports (item, status);
 create index if not exists chat_logs_created_idx on chat_logs (created_at);
 
--- lock everything down. the flask api uses the service role key (server only),
--- so the public anon key can't read or write any of this directly
+-- rls with no policies: only the server's secret key can access these tables
 alter table found_items enable row level security;
 alter table lost_reports enable row level security;
 alter table matches enable row level security;

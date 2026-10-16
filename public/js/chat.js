@@ -8,7 +8,7 @@ const sidebar = document.getElementById("sidebar");
 const scrim = document.getElementById("scrim");
 const nlpToggle = document.getElementById("nlpToggle");
 
-// the server is stateless, so we keep the conversation state here and send it back each time
+// the server is stateless, so the conversation state lives here
 let state = null;
 let chips = [];
 let busy = false;
@@ -20,7 +20,7 @@ function escapeHtml(text) {
   return div.innerHTML;
 }
 
-// **bold**, *italic* and new lines
+// minimal markdown: **bold**, *italic*, new lines
 function format(text) {
   return escapeHtml(text)
     .replace(/\*\*(.+?)\*\*/g, "<b>$1</b>")
@@ -64,7 +64,7 @@ function matchList(msg) {
     </div>`).join("") + `</div>`;
 }
 
-// one line showing what the nlp picked up, for the class demo
+// shows the detected intent and entities
 function nlpLine(nlp) {
   if (!nlp) return "";
   const parts = [nlp.method];
@@ -100,7 +100,7 @@ async function send({ text, action, label }) {
   busy = true;
   home.hidden = true;
   chipsBox.innerHTML = "";
-  // old report cards shouldn't be clickable anymore
+  // disable buttons on older report cards
   document.querySelectorAll(".report-actions").forEach((el) => el.remove());
 
   addUser(text || label);
@@ -133,7 +133,7 @@ function scrollDown() {
   thread.scrollTo({ top: thread.scrollHeight, behavior: "smooth" });
 }
 
-// tickets are saved in the browser so students can find their codes later
+// tickets are kept in localStorage so users can find their codes later
 function saveTickets(msgs) {
   const saved = JSON.parse(localStorage.getItem("findit.tickets") || "[]");
   for (const m of msgs) {
@@ -154,7 +154,7 @@ function showTickets() {
     : `<li class="empty">Reports you file show up here.</li>`;
 }
 
-// removes the ticket from this list only, the report itself stays with the office
+// removes it from this list only, the report itself isn't deleted
 document.getElementById("tickets").addEventListener("click", (e) => {
   const btn = e.target.closest("[data-remove]");
   if (!btn) return;
@@ -209,7 +209,7 @@ chipsBox.addEventListener("click", (e) => {
   else send({ action: chip.action, label: chip.label });
 });
 
-// sidebar links, home cards and the confirm/edit buttons all use data-action
+// one click handler for everything with data-action
 document.addEventListener("click", (e) => {
   const btn = e.target.closest("[data-action]");
   if (!btn) return;

@@ -1,5 +1,4 @@
-# tests the evaluation metrics on the admin page: the math is right on a tiny
-# made-up example, and the api only shows it to logged in admins.
+# evaluation math on a small example, and the endpoint requires login.
 
 from findit.evaluation import evaluation, intent_metrics
 from tests.test_admin import client, login  # noqa: F401

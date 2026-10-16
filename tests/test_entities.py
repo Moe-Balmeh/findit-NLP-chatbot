@@ -1,5 +1,4 @@
-# tests for items, places, typos, dates and times, including bugs from the old
-# notebook (like "what happened" being detected as a pen).
+# items, places, typos, dates and times, including bugs from the old notebook.
 
 from datetime import date
 

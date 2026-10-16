@@ -1,5 +1,4 @@
-# tests full conversations the way a real user would have them, e.g. someone
-# reports a found phone, then the owner reports it lost and gets a match.
+# full conversations, including a found report matching a later lost report.
 
 from datetime import date
 
@@ -10,7 +9,7 @@ TODAY = date(2026, 9, 26)
 
 
 class Chat:
-    # fakes a browser: keeps the state between messages like chat.js does
+    # keeps the state between messages like chat.js does
     def __init__(self, store=None):
         self.store = store or MemoryStore()
         self.state = None

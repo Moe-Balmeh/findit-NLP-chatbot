@@ -1,6 +1,5 @@
-# scores how likely a lost report and a found item are the same thing
-# (item type, place, date, color, brand). this is the part that actually
-# gets people their stuff back.
+# scores how likely a lost report and a found item are the same object
+# (item, place, date, color, brand).
 
 from datetime import date
 

@@ -1,5 +1,4 @@
-# turns date and time words into real dates ("kahapon", "3 days ago", "sept 20", "3pm").
-# matching needs actual dates to compare when something was lost vs found.
+# parses date and time words ("kahapon", "3 days ago", "sept 20", "3pm").
 
 import re
 from datetime import date, datetime, timedelta, timezone

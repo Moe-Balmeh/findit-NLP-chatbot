@@ -1,6 +1,4 @@
-# builds everything the admin dashboard shows: the summary numbers, the data for
-# the circle charts, and the tables of found items and lost reports.
-# the office uses this page to see what's going on and mark items as claimed.
+# builds the admin dashboard data: summary numbers, chart data and report tables.
 
 from collections import Counter
 
@@ -12,7 +10,7 @@ LOST_STATUS = {"open": "Open", "matched": "Matched", "returned": "Returned", "cl
 
 
 def top_counts(values, limit=5):
-    # biggest few slices, everything else goes into "Other" so the chart stays readable
+    # top slices, the rest grouped as "Other"
     counts = Counter(v for v in values if v).most_common()
     top = counts[:limit]
     rest = sum(c for _, c in counts[limit:])
@@ -37,7 +35,7 @@ def row(rec, other_refs):
 def dashboard(found, lost, matches):
     found_ref = {f["id"]: f["ref_code"] for f in found}
     lost_ref = {r["id"]: r["ref_code"] for r in lost}
-    # which reports might belong together, shown next to each row
+    # ref codes of each report's possible matches
     found_matches, lost_matches = {}, {}
     for m in matches:
         if m["found_id"] in found_ref and m["lost_id"] in lost_ref:

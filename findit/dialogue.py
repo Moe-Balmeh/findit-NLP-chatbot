@@ -1,7 +1,5 @@
-# the brain of the chatbot. takes a message, uses the classifier and entities to
-# understand it, asks for whatever is still missing, then saves the report and
-# checks for matches. the conversation state goes back and forth with the browser,
-# so every user has their own conversation.
+# dialogue manager: classifies the message, fills slots, confirms, saves and matches.
+# the conversation state is kept in the browser and sent with every request.
 
 import re
 from datetime import timedelta
@@ -65,7 +63,7 @@ def new_state():
 
 
 def load_state(raw):
-    # the browser sends the state back each time, so only keep what we expect
+    # state comes from the browser, so only keep known fields
     state = new_state()
     if not isinstance(raw, dict):
         return state
@@ -105,7 +103,7 @@ def say(reply, text):
 
 def handle_action(reply, action, store, today):
     st = reply["state"]
-    # "keep:" starts a flow but keeps what the user already told us
+    # "keep:" starts a flow without clearing the filled slots
     keep = action.startswith("keep:")
     action = action.removeprefix("keep:")
 
@@ -162,7 +160,7 @@ def handle_message(reply, text, store, today):
         return
 
     if st["mode"] == "collecting":
-        # they might ask a question in the middle of a report
+        # allow a faq question in the middle of a report
         if not new and answer_question(reply, text, min_score=0.5):
             say(reply, "Okay, back to your report.")
             next_step(reply, store, today)
@@ -230,7 +228,7 @@ def fill_answer(st, new, text, t):
     awaiting = st["awaiting"]
     update(slots, new)
 
-    # nothing recognized, so keep what they typed as-is
+    # nothing recognized, store the raw text
     if awaiting == "item" and "item" not in new:
         slots["item"] = "OTHER"
         slots["description"] = text[:200]
@@ -408,7 +406,7 @@ def search(reply, store, today):
                    "so the office knows you're looking for it?")
         reply["chips"] = [{"label": "File a lost report", "action": "keep:REPORT_LOST"},
                           {"label": "Not now", "action": "menu"}]
-    # keep the slots so "file a lost report" doesn't ask again
+    # keep the slots so filing a report doesn't ask again
     reply["state"] = {**new_state(), "slots": slots}
 
 
@@ -420,7 +418,7 @@ def welcome(reply, text=None):
 
 
 def describe(slots, today):
-    # readable version of what was picked up, for the chat and the nlp line
+    # readable summary of the extracted entities
     out = {}
     if slots.get("item"):
         out["item"] = item_name(slots["item"])

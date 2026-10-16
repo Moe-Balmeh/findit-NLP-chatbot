@@ -1,5 +1,4 @@
-# turns codes like WATER_BOTTLE into readable text like "Water bottle / tumbler"
-# for the chat replies and report cards.
+# turns codes like WATER_BOTTLE into readable names.
 
 from datetime import date
 

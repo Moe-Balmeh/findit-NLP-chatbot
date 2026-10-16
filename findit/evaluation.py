@@ -1,6 +1,5 @@
-# evaluation metrics for the admin page. runs the intent classifier on handwritten
-# messages it never trained on and scores it: accuracy, precision, recall, f1 and a
-# confusion matrix. this is how we show how good the nlp actually is.
+# evaluation metrics for the intent classifier on the handwritten test set:
+# accuracy, precision, recall, f1 and a confusion matrix.
 
 import csv
 from functools import lru_cache
@@ -24,7 +23,7 @@ def intent_metrics(clf, rows, threshold):
     guess = [p[0] for p in preds]
     labels = sorted(set(truth) | set(guess))
 
-    # confusion matrix: rows = real intent, columns = what the model said
+    # rows = real intent, columns = predicted
     matrix = [[sum(1 for t, g in zip(truth, guess) if t == a and g == b) for b in labels] for a in labels]
 
     per_class = []
@@ -39,7 +38,7 @@ def intent_metrics(clf, rows, threshold):
                           "f1": round(100 * f1, 1), "support": actual})
 
     correct = sum(t == g for t, g in zip(truth, guess))
-    # the bot only acts on its guess when it's confident enough, otherwise it asks the user
+    # predictions above the threshold, below it the bot asks to clarify
     sure = [(t, g) for t, (g, c) in zip(truth, preds) if c >= threshold]
     macro = lambda key: round(sum(c[key] for c in per_class) / len(per_class), 1) if per_class else 0  # noqa: E731
 
@@ -61,6 +60,6 @@ def intent_metrics(clf, rows, threshold):
 
 @lru_cache(maxsize=1)
 def evaluation():
-    # the test set doesn't change while the site is running, so only score it once
+    # the test set is fixed, so score it once and cache it
     from .dialogue import MIN_CONFIDENCE, clf
     return {"intent": intent_metrics(clf, read_csv("test_intents.csv"), MIN_CONFIDENCE)}

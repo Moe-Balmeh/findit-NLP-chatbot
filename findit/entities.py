@@ -1,6 +1,5 @@
-# entity extraction: pulls out the item, brand, color, place, room, floor, date
-# and time using our word lists in data/. this is how "i found an iphone in the gym"
-# becomes item=PHONE, location=GYM.
+# entity extraction: item, brand, color, place, room, floor, date and time,
+# using the word lists in data/.
 
 import csv
 import re
@@ -43,7 +42,7 @@ def fix_typo(word):
     scored = sorted((edit_distance(word, w), w) for w in candidates)
     if not scored or scored[0][0] > max_dist:
         return word
-    # two equally close words means we can't tell which one they meant
+    # a tie is ambiguous, so don't guess
     if len(scored) > 1 and scored[1][0] == scored[0][0]:
         return word
     return scored[0][1]
@@ -73,7 +72,7 @@ def extract(text, today=None):
     place_words = set().union(*[span for _, span, _ in places])
     items = find_terms(words, ITEMS, skip=place_words)
 
-    # "samsung tablet": the item word wins, the brand just becomes the brand
+    # item words win over brands ("samsung tablet" -> TABLET)
     plain = [v[0] for _, _, v in items if v[0] and not v[1]]
     branded = [v[0] for _, _, v in items if v[0] and v[1]]
     item_list = list(dict.fromkeys(plain + branded))

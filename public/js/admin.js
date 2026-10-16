@@ -58,8 +58,7 @@ function render() {
   renderTable();
 }
 
-// colors come from the css so they switch with dark mode.
-// status colors are fixed per status so "Claimed" is always the same color
+// colors come from css so they follow dark mode, each status has a fixed color
 function color(name) {
   return getComputedStyle(document.body).getPropertyValue(name).trim();
 }
@@ -77,7 +76,7 @@ function drawDonut(key, chart) {
   const colors = sliceColors(key, chart.labels);
   $("total" + key).innerHTML = `<b>${total}</b><span>total</span>`;
 
-  // legend doubles as the exact numbers, since circle charts are hard to read by eye
+  // legend shows the exact counts and percentages
   $("legend" + key).innerHTML = total
     ? chart.labels.map((label, i) => `
         <li><i style="background:${colors[i]}"></i>${escapeHtml(label)}
@@ -132,7 +131,7 @@ function renderTable() {
     : `<tr><td colspan="7" class="empty">Nothing here yet.</td></tr>`;
 }
 
-// evaluation metrics. loaded separately so the main dashboard doesn't wait for it
+// loaded separately so the dashboard doesn't wait on it
 async function loadEvaluation() {
   try {
     renderEvaluation(await api("/api/admin/evaluation"));
@@ -170,7 +169,7 @@ function renderEvaluation(ev) {
     ["Accuracy when confident", intent.confident_accuracy + "%"],
   ]);
 
-  // darker cell = more messages. green on the diagonal, red for mistakes
+  // shade scales with count: green = correct, red = mistakes
   const most = Math.max(...intent.matrix.flat(), 1);
   $("evMatrix").innerHTML = `
     <tr><th>Real ↓ / Predicted →</th>${intent.labels.map((l) => `<th>${nice(l)}</th>`).join("")}</tr>
@@ -211,7 +210,7 @@ document.querySelectorAll(".tab").forEach((btn) => {
 
 $("search").addEventListener("input", renderTable);
 
-// changing the dropdown saves right away, then refreshes the numbers and charts
+// save the new status, then reload the dashboard
 $("rows").addEventListener("change", async (e) => {
   const select = e.target.closest("select.status");
   if (!select) return;

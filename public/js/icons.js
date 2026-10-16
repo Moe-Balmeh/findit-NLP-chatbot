@@ -1,4 +1,4 @@
-// simple line icons (same style as lucide.dev)
+// svg line icons for the chat ui
 const ICONS = {
   menu: '<path d="M4 6h16M4 12h16M4 18h16"/>',
   plus: '<path d="M12 5v14M5 12h14"/>',
