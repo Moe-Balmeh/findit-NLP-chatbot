@@ -2,6 +2,7 @@ const $ = (id) => document.getElementById(id);
 
 let data = null;
 let tab = "found";
+let evalLoaded = false;
 const charts = {};
 
 function escapeHtml(text) {
@@ -34,6 +35,7 @@ async function load() {
   $("loginView").hidden = true;
   $("dashView").hidden = false;
   render();
+  if (!evalLoaded) loadEvaluation();
 }
 
 function showLogin() {
@@ -128,6 +130,86 @@ function renderTable() {
       </td>
     </tr>`).join("")
     : `<tr><td colspan="7" class="empty">Nothing here yet.</td></tr>`;
+}
+
+// evaluation metrics. loaded separately so the main dashboard doesn't wait for it
+async function loadEvaluation() {
+  try {
+    renderEvaluation(await api("/api/admin/evaluation"));
+    evalLoaded = true;
+  } catch (err) {
+    $("evalStatus").textContent = "Couldn't load the evaluation: " + err.message;
+  }
+}
+
+const NICE = { REPORT_LOST: "Report lost", REPORT_FOUND: "Report found", SEARCH_ITEM: "Search", GENERAL_INQUIRY: "Question" };
+const nice = (intent) => NICE[intent] || intent;
+
+function facts(id, list) {
+  $(id).innerHTML = list.map(([label, value]) => `<li>${label}<b>${value}</b></li>`).join("");
+}
+
+function renderEvaluation(ev) {
+  const { intent, entities, faq, live } = ev;
+  $("evalStatus").hidden = true;
+  $("evalBody").hidden = false;
+
+  $("evAccuracy").textContent = intent.accuracy + "%";
+  $("evAccuracyNote").textContent = `${intent.total} handwritten messages`;
+  $("evF1").textContent = intent.f1 + "%";
+  $("evF1Note").textContent = `precision ${intent.precision}% · recall ${intent.recall}%`;
+  $("evEntities").textContent = entities.exact_match + "%";
+  $("evEntitiesNote").textContent = `item and place both right, ${entities.total} messages`;
+  $("evFaq").textContent = faq.accuracy + "%";
+  $("evFaqNote").textContent = `${faq.total} reworded questions`;
+
+  $("evPerClass").innerHTML = intent.per_class.map((c) => `
+    <tr><td>${nice(c.intent)}</td><td>${c.precision}%</td><td>${c.recall}%</td><td>${c.f1}%</td><td>${c.support}</td></tr>`).join("")
+    + `<tr class="avg"><td>Macro average</td><td>${intent.precision}%</td><td>${intent.recall}%</td><td>${intent.f1}%</td><td>${intent.total}</td></tr>`;
+
+  facts("evIntentFacts", [
+    ["Average confidence", intent.avg_confidence + "%"],
+    [`Confident enough to act on (≥ ${intent.threshold}%)`, intent.coverage + "%"],
+    ["Accuracy when confident", intent.confident_accuracy + "%"],
+  ]);
+
+  // darker cell = more messages. green on the diagonal, red for mistakes
+  const most = Math.max(...intent.matrix.flat(), 1);
+  $("evMatrix").innerHTML = `
+    <tr><th>Real ↓ / Predicted →</th>${intent.labels.map((l) => `<th>${nice(l)}</th>`).join("")}</tr>
+    ${intent.matrix.map((row, i) => `
+      <tr><th>${nice(intent.labels[i])}</th>${row.map((n, j) => {
+        const shade = n ? 15 + Math.round((70 * n) / most) : 0;
+        const tint = i === j ? "--c3" : "--bad";
+        return `<td style="background:color-mix(in srgb, var(${tint}) ${shade}%, transparent)">${n}</td>`;
+      }).join("")}</tr>`).join("")}`;
+
+  facts("evEntityFacts", [
+    ["Item correct", entities.item_accuracy + "%"],
+    ["Place correct", entities.location_accuracy + "%"],
+    ["Both correct", entities.exact_match + "%"],
+    ["Test messages", entities.total],
+  ]);
+  facts("evFaqFacts", [
+    ["Right answer picked", faq.accuracy + "%"],
+    ["Average similarity score", faq.avg_similarity],
+    ["Test questions", faq.total],
+  ]);
+  facts("evLiveFacts", live.messages ? [
+    ["Messages classified", live.messages],
+    ["Average confidence", live.avg_confidence + "%"],
+    [`Unsure (< ${intent.threshold}%), bot asked to clarify`, live.low_confidence + "%"],
+    ["Most common", live.intents.labels.slice(0, 3).map((l, i) => `${nice(l)} (${live.intents.values[i]})`).join(", ")],
+  ] : [["Nobody has chatted yet", "-"]]);
+
+  const rows = [
+    ...intent.mistakes.map((m) => ["Intent", m.text, nice(m.expected), `${nice(m.predicted)} (${m.confidence}% sure)`]),
+    ...entities.mistakes.map((m) => ["Entities", m.text, m.expected, m.predicted]),
+    ...faq.mistakes.map((m) => ["FAQ", m.text, m.expected, `${m.predicted} (similarity ${m.similarity})`]),
+  ];
+  $("evMistakes").innerHTML = rows.length
+    ? rows.map((r) => `<tr><td class="nowrap">${r[0]}</td><td>${escapeHtml(r[1])}</td><td>${escapeHtml(r[2])}</td><td>${escapeHtml(r[3])}</td></tr>`).join("")
+    : `<tr><td colspan="4" class="empty">No mistakes on the test sets.</td></tr>`;
 }
 
 $("loginForm").addEventListener("submit", async (e) => {

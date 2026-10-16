@@ -87,7 +87,7 @@ def main():
     model.fit(X, y)
 
     # the real test: handwritten messages the model never sees in training
-    test = pd.read_csv(DATA / "test_handwritten.csv")
+    test = pd.read_csv(ROOT / "data" / "test_intents.csv")
     X_test = test["text"].map(normalize).tolist()
     y_test = test["intent"].tolist()
     pred = model.predict(X_test)

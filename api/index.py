@@ -19,6 +19,7 @@ load_dotenv(ROOT / ".env")  # locally the keys come from .env, on vercel from it
 
 from findit.admin import dashboard  # noqa: E402
 from findit.dialogue import respond  # noqa: E402
+from findit.evaluation import evaluation  # noqa: E402
 from findit.store import STATUSES, get_store  # noqa: E402
 
 PUBLIC = ROOT / "public"
@@ -112,6 +113,12 @@ def admin_data():
     data = dashboard(store.all_found(), store.all_lost(), store.all_matches())
     data["admin"] = session["admin"]
     return jsonify(data)
+
+
+@app.get("/api/admin/evaluation")
+@admin_only
+def admin_evaluation():
+    return jsonify(evaluation(store.all_logs()))
 
 
 @app.post("/api/admin/status")
