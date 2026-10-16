@@ -118,7 +118,7 @@ def admin_data():
 @app.get("/api/admin/evaluation")
 @admin_only
 def admin_evaluation():
-    return jsonify(evaluation(store.all_logs()))
+    return jsonify(evaluation())
 
 
 @app.post("/api/admin/status")

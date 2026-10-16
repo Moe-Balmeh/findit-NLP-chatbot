@@ -27,7 +27,7 @@ message -> intent classifier -> entity extraction -> dialogue manager -> save + 
 
 The handwritten test set is 114 realistic messages the model never trains on. The training data is mostly template-generated, so cross-validation on it (~99%) is not a meaningful number.
 
-The admin page has an **Evaluation Metrics** section that scores the running model live: accuracy, precision, recall, F1 and a confusion matrix for intents (`data/test_intents.csv`), item/place accuracy for entity extraction (`data/test_entities.csv`), FAQ answer accuracy (`data/test_faq.csv`), and confidence on real chats. It also lists every mistake.
+The admin page has an **Evaluation Metrics** section that scores the running model live on the handwritten test set (`data/test_intents.csv`): accuracy, precision, recall, F1 per intent and a confusion matrix.
 
 ## Run locally
 

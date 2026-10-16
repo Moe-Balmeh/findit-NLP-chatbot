@@ -91,9 +91,6 @@ class MemoryStore:
     def all_matches(self):
         return list(self.matches)
 
-    def all_logs(self):
-        return list(self.logs)
-
     def set_status(self, kind, record_id, status):
         for rec in self.found if kind == "found" else self.lost:
             if rec["id"] == record_id:
@@ -173,10 +170,6 @@ class SupabaseStore:
 
     def all_matches(self):
         return self.select("matches", {"limit": 2000})
-
-    def all_logs(self):
-        # only the newest chats, for the live numbers on the evaluation page
-        return self.select("chat_logs", {"select": "intent,confidence", "order": "created_at.desc", "limit": 2000})
 
     def set_status(self, kind, record_id, status):
         res = requests.patch(self.api + TABLES[kind], params={"id": f"eq.{record_id}"},

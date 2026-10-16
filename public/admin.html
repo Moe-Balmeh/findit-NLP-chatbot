@@ -82,14 +82,14 @@
           <h2>Evaluation Metrics</h2>
           <p>How good the NLP is, scored on handwritten test messages it never saw during training.</p>
         </div>
-        <p class="muted" id="evalStatus">Running the test sets...</p>
+        <p class="muted" id="evalStatus">Running the test set...</p>
 
         <div id="evalBody" hidden>
           <div class="stats">
             <div class="stat"><span>Intent accuracy</span><b id="evAccuracy"></b><small id="evAccuracyNote"></small></div>
-            <div class="stat"><span>Intent macro F1</span><b id="evF1"></b><small id="evF1Note"></small></div>
-            <div class="stat"><span>Entity extraction</span><b id="evEntities"></b><small id="evEntitiesNote"></small></div>
-            <div class="stat"><span>FAQ answer accuracy</span><b id="evFaq"></b><small id="evFaqNote"></small></div>
+            <div class="stat"><span>Precision</span><b id="evPrecision"></b><small>average over all intents</small></div>
+            <div class="stat"><span>Recall</span><b id="evRecall"></b><small>average over all intents</small></div>
+            <div class="stat"><span>F1 score</span><b id="evF1"></b><small>balance of precision and recall</small></div>
           </div>
 
           <div class="eval-grid">
@@ -109,35 +109,6 @@
               <h3>Confusion matrix</h3>
               <p class="note">Rows are the real intent, columns are what the model predicted. The diagonal is correct.</p>
               <div class="table-wrap"><table class="matrix" id="evMatrix"></table></div>
-            </div>
-
-            <div class="chart-card">
-              <h3>Entity extraction</h3>
-              <p class="note">Did it pull out the right item and place? Includes typos, Taglish and brand names.</p>
-              <ul class="facts" id="evEntityFacts"></ul>
-            </div>
-
-            <div class="chart-card">
-              <h3>FAQ retrieval</h3>
-              <p class="note">TF-IDF + cosine similarity. Does a reworded question get the right answer?</p>
-              <ul class="facts" id="evFaqFacts"></ul>
-            </div>
-
-            <div class="chart-card wide">
-              <h3>Live chats</h3>
-              <p class="note">No right answers here, but how sure the model was on real messages people typed.</p>
-              <ul class="facts" id="evLiveFacts"></ul>
-            </div>
-          </div>
-
-          <div class="chart-card">
-            <h3>Where it got it wrong</h3>
-            <p class="note">Every mistake from the test sets. Good examples to add to the training data.</p>
-            <div class="table-wrap">
-              <table class="metrics">
-                <thead><tr><th>Part</th><th>Message</th><th>Expected</th><th>Got</th></tr></thead>
-                <tbody id="evMistakes"></tbody>
-              </table>
             </div>
           </div>
         </div>

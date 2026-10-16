@@ -150,18 +150,15 @@ function facts(id, list) {
 }
 
 function renderEvaluation(ev) {
-  const { intent, entities, faq, live } = ev;
+  const { intent } = ev;
   $("evalStatus").hidden = true;
   $("evalBody").hidden = false;
 
   $("evAccuracy").textContent = intent.accuracy + "%";
   $("evAccuracyNote").textContent = `${intent.total} handwritten messages`;
+  $("evPrecision").textContent = intent.precision + "%";
+  $("evRecall").textContent = intent.recall + "%";
   $("evF1").textContent = intent.f1 + "%";
-  $("evF1Note").textContent = `precision ${intent.precision}% · recall ${intent.recall}%`;
-  $("evEntities").textContent = entities.exact_match + "%";
-  $("evEntitiesNote").textContent = `item and place both right, ${entities.total} messages`;
-  $("evFaq").textContent = faq.accuracy + "%";
-  $("evFaqNote").textContent = `${faq.total} reworded questions`;
 
   $("evPerClass").innerHTML = intent.per_class.map((c) => `
     <tr><td>${nice(c.intent)}</td><td>${c.precision}%</td><td>${c.recall}%</td><td>${c.f1}%</td><td>${c.support}</td></tr>`).join("")
@@ -184,32 +181,6 @@ function renderEvaluation(ev) {
         return `<td style="background:color-mix(in srgb, var(${tint}) ${shade}%, transparent)">${n}</td>`;
       }).join("")}</tr>`).join("")}`;
 
-  facts("evEntityFacts", [
-    ["Item correct", entities.item_accuracy + "%"],
-    ["Place correct", entities.location_accuracy + "%"],
-    ["Both correct", entities.exact_match + "%"],
-    ["Test messages", entities.total],
-  ]);
-  facts("evFaqFacts", [
-    ["Right answer picked", faq.accuracy + "%"],
-    ["Average similarity score", faq.avg_similarity],
-    ["Test questions", faq.total],
-  ]);
-  facts("evLiveFacts", live.messages ? [
-    ["Messages classified", live.messages],
-    ["Average confidence", live.avg_confidence + "%"],
-    [`Unsure (< ${intent.threshold}%), bot asked to clarify`, live.low_confidence + "%"],
-    ["Most common", live.intents.labels.slice(0, 3).map((l, i) => `${nice(l)} (${live.intents.values[i]})`).join(", ")],
-  ] : [["Nobody has chatted yet", "-"]]);
-
-  const rows = [
-    ...intent.mistakes.map((m) => ["Intent", m.text, nice(m.expected), `${nice(m.predicted)} (${m.confidence}% sure)`]),
-    ...entities.mistakes.map((m) => ["Entities", m.text, m.expected, m.predicted]),
-    ...faq.mistakes.map((m) => ["FAQ", m.text, m.expected, `${m.predicted} (similarity ${m.similarity})`]),
-  ];
-  $("evMistakes").innerHTML = rows.length
-    ? rows.map((r) => `<tr><td class="nowrap">${r[0]}</td><td>${escapeHtml(r[1])}</td><td>${escapeHtml(r[2])}</td><td>${escapeHtml(r[3])}</td></tr>`).join("")
-    : `<tr><td colspan="4" class="empty">No mistakes on the test sets.</td></tr>`;
 }
 
 $("loginForm").addEventListener("submit", async (e) => {

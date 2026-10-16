@@ -413,10 +413,6 @@ select.status.returned {
   gap: 14px;
 }
 
-.eval-grid .wide {
-  grid-column: 1 / -1;
-}
-
 .chart-card h3 {
   margin: 0 0 4px;
   font-size: 15px;
